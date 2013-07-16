@@ -15,7 +15,7 @@ How to use:
     
 How to save output into a text file:  
 
-    Type the command by following "> the_file_you_want_to_write.txt".
+    Type the command and follow by "> the_file_you_want_to_write.txt".
     
 Actually, this is a shell problem.You can refer to [Bash output rediction](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-3.html)
     
