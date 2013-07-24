@@ -12,7 +12,7 @@ if sys.argv[2] == '-s':
   sys.remove('-s')
 
 if len(sys.argv)<2:
-  print "print type the docx or text file that you want "
+  print "Please type the docx or text file that you want "
 
 
 ##sort output
