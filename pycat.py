@@ -13,6 +13,7 @@ if sys.argv[2] == '-s':
 
 if len(sys.argv)<2:
   print "Please type the docx or text file that you want "
+  sys.exit()
 
 
 ##sort output
