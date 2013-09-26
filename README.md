@@ -9,8 +9,7 @@ But you can use it on Windows by Cygwin.
 
 How to use:  
 
-    python pycat.py [-s] [txt_or_docx_file...]  
-    -s flag: sorted outpt 
+    python pycat.py  [txt_or_docx_file...]  
     wildcard "*" is supported for file names 
     
 How to save output into a text file:  

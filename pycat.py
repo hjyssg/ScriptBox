@@ -4,22 +4,10 @@ import glob
 import re
 
 
-#################the main part################
 
-sortFlag=False;
-if sys.argv[2] == '-s':
-  sortFlag=True;
-  sys.remove('-s')
-
-if len(sys.argv)<2:
-  print "Please type the docx or text file that you want "
-  sys.exit()
-
-
-##sort output
 arr=sys.argv[1:len(sys.argv)]
 arr.sort()
-##print arr
+
 for arg in arr:
   
   ##support wildcard
@@ -27,10 +15,6 @@ for arg in arr:
   files.sort()
  
   for file in files:
-      
-      ##replace & with \&
-      file=re.sub('&', '\\&',file)
-      
       fileName, fileExtension = os.path.splitext(file)
       os.system('echo '+fileName)
       if  fileExtension=='.docx':
