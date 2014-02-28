@@ -1,0 +1,41 @@
+#!/usr/bin/env python
+
+#################################################################
+#  note:the first line is important, otherwise terminal
+#        will not know this script is python
+#  created by junyang huang
+#
+
+
+
+import sys
+import os
+import glob
+import re
+
+
+
+arr=sys.argv[1:len(sys.argv)]
+arr.sort()
+
+for arg in arr:
+  
+  ##support wildcard
+  files=glob.glob(arg)
+  files.sort()
+ 
+  for file in files:
+      fileName, fileExtension = os.path.splitext(file)
+      os.system('echo '+fileName)
+      if  fileExtension=='.docx':
+      #http://www.commandlinefu.com/commands/view/4311/extract-plain-text-from-ms-word-docx-files
+        command=' unzip -p '+file+' word/document.xml | sed -e \'s/<[^>]\{1,\}>//g; s/[^[:print:]]\{1,\}//g\''
+        os.system(command) 
+      else:
+        command='cat '+file
+        os.system(command)
+  os.system('echo \n\n')  
+
+
+
+

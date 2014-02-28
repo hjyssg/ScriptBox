@@ -7,10 +7,19 @@ This app uses linux commands inside.
 But you can use it on Windows by Cygwin. 
 
 
-How to use:  
+### Installing 
 
-    python pycat.py  [txt_or_docx_file...]  
-    wildcard "*" is supported for file names 
+Clone this repository and `cd` into it, then run
+
+    sudo python setup.py install
+
+How to use witout installation:  
+
+    pycat  [txt_or_docx_file...]  
+    wildcard "*" is supported for file names
+    
+`others` folder contains the similiar script in bash and perl.    
+     
     
 How to save output into a text file:  
 
