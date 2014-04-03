@@ -40,9 +40,12 @@ def main():
       file_pathes = find_files(sys.argv[index], fileTypes)
 
       for file_path in file_pathes:
-          match = re.search("\[(.*?)\]", file_path)
+          ##capature the string between []
+          match = re.findall("\[(.*?)\]", file_path)
           if match:
-            tempStr = match.group(1).strip()
+            ##use if last one
+            tempStr = match[-1].strip()
+            
             if os.name == 'nt':
               print "move \"%s\"  \"%s\\%s\" " %(file_path, sorted_dir, tempStr) 
             else:
