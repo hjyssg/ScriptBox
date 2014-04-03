@@ -1,0 +1,42 @@
+#!/usr/bin/env python
+ 
+
+import os, sys, glob, string
+
+def main():
+   if len(sys.argv) < 3:
+   	  print "Please type the prologue file and the file that you want to insert prologue\n"
+   	  sys.exit()
+
+   #open prologue file	    
+   prologueFile = open(sys.argv[1], 'r')
+   prologue = prologueFile.read()
+
+   #write prologue to output file
+   #allow wild card
+   outputFilePathes = glob.glob(sys.argv[2])
+   
+   for outputFilePath in outputFilePathes:
+     
+     #read the file
+     r = open(outputFilePath,'r')
+     content = r.read()
+     r.close()
+     
+      #don't add prologue if it already exists
+     if string.find(content, prologue) != -1:
+       continue
+       
+     #there is no insert method
+     content = prologue + "\n" + content
+       
+     #write the new content to the file
+     w = open(outputFilePath, "w")
+     w.write(content)
+     w.close()
+
+if __name__ == '__main__':
+	main()
+
+
+

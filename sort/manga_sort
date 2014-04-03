@@ -1,0 +1,56 @@
+#!/usr/bin/env python
+
+import os
+import re
+import sys
+
+#this command generate bash sript to sort raw anime files
+
+
+fileTypes = {".zip", ".rar", ".zip", ".7z"} 
+ 
+#@param: unsorted_dir's path. string
+#@param: the types of files want to find. list or set
+#@return: the list of compressed files' path
+def find_files(unsorted_dir, fileTypes):
+  fileArrays=[]
+
+  for dirname, dirnames, filenames in os.walk(unsorted_dir):
+      #Check each file  
+      for filename in filenames:
+         fileExtension=os.path.splitext(filename)[1]
+         #only sort compressed files  
+         if fileExtension in fileTypes:
+             # print "dir:", dirname
+             # print "fn",filename
+             filePath= os.path.join(dirname, filename)
+             fileArrays.append(filePath)
+  return fileArrays
+ 
+def main():
+
+  if len(sys.argv)<3:
+    print "Usage: manga_sort [SORTED_DIR] [UNSORTED_DIR] [UNSORTED_DIR2]..."
+    return
+  else:
+    sorted_dir = sys.argv[1]
+
+    #for each unsorted file
+    for index in range(2, len(sys.argv)):
+      file_pathes = find_files(sys.argv[index], fileTypes)
+
+      for file_path in file_pathes:
+          match = re.search("\[(.*?)\]", file_path)
+          if match:
+            tempStr = match.group(1).strip()
+            if os.name == 'nt':
+              print "move \"%s\"  \"%s\\%s\" " %(file_path, sorted_dir, tempStr) 
+            else:
+              print "mv \"%s\"  \"%s\\%s\" " %(file_path, sorted_dir, tempStr) 
+   
+   
+
+if __name__ == '__main__':
+    main()
+  
+
