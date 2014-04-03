@@ -1,0 +1,68 @@
+# -*- coding: utf-8 -*-
+ 
+##  
+## a program to help me decide what to eat in one week
+## "-l" to list all dishes
+## by hjyssg
+##   
+ 
+import sys
+from random import *
+ 
+ 
+menu = []
+ 
+beef_menu    =  u"沙茶牛肉, 辣椒牛肉, 青椒牛肉, 洋葱牛肉, 土豆牛肉, 红烧牛肉,咖喱牛肉, 牛排, 黒椒炒肥牛"
+chicken_menu =  u"宫保鸡丁, 辣子鸡, 口水鸡, 可乐鸡翅, 干锅鸡翅（莲藕，土豆，芹菜，豆皮，胡萝卜)"
+egg_menu     =  u"西红柿炒蛋, 三文鱼炒蛋,洋葱炒蛋, 韭菜炒蛋, 蛋饼, 蛋炒饭, 卤鸡蛋"
+fish_menu    =  u"豆瓣鱼,   煎三文鱼, 煎带鱼, 煎金枪鱼"
+noodle_menu  =  u"沙茶面, 炒面, 火锅面"
+other_menu   =  u" 炸鸡蛋馒头,  粽子, 干锅田鸡,   火锅"
+restaurants  =  u"sakura, 百家乐, rose tea cafe, pizza外卖, 学校那边的鸡翅店"
+rice_menu    =  u"土豆咸饭, 包菜咸饭, 芥菜炒饭,酸辣汤泡饭, 地瓜粥"
+seafood_menu =  u"炒鱿鱼,   水煮鱿鱼, 水煮章鱼, 水煮螃蟹, 烤鳗鱼, 炒花蛤"
+shrimp_menu  =  u"虾仁炒蛋, 水煮虾, 虾仁炒饭, 雪菜炒年糕, 韩式年糕杂炒（虾，鱿鱼，冻豆腐), 虾仁豆腐, 虾仁粥"
+soup_menu    =  u"味噌汤, 紫菜汤, 绿豆汤, 金针菇汤, 花蛤豆腐汤, 豆腐脑"
+veg_menu     =  u"炒青菜, 炒包菜, 炒地瓜叶, 炒豆芽, 水煮毛豆, 玉米, 炒土豆"
+ 
+ 
+menu.append(beef_menu)
+menu.append(chicken_menu)
+menu.append(egg_menu)
+menu.append(fish_menu)
+menu.append(noodle_menu)
+menu.append(other_menu)
+menu.append(restaurants)
+menu.append(rice_menu)
+menu.append(seafood_menu)
+menu.append(shrimp_menu)
+menu.append(soup_menu)
+menu.append(veg_menu)
+ 
+arr = []
+ 
+l_flag = False
+if len(sys.argv) >= 2: 
+    l_flag = sys.argv[1].lower() == "-l"
+ 
+   
+##create a big array contain all recipe
+for m in menu:
+  for x in m.split(','):
+    arr.append(x.strip())
+      
+ 
+if l_flag:
+    print u"----------------------菜单-----------------------"
+    for m in menu:
+        print(m)
+        
+ 
+ 
+ 
+print u"----------------------从%d道菜选出--------------------"%len(arr)
+for ii in range(12):
+  temp = randrange(0, len(arr))
+ 
+  print arr[temp]
+  arr.pop(temp)  ##no-duplicate dish
