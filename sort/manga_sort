@@ -4,7 +4,7 @@ import os
 import re
 import sys
 
-#this command generate bash sript to sort raw anime files
+#this command generate bash sript to sort compressed manga files
 
 
 fileTypes = {".zip", ".rar", ".zip", ".7z"} 
