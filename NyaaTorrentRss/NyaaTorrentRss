@@ -1,0 +1,62 @@
+#!/usr/bin/env python
+
+###########################
+#
+#  load raw anime rss from nyaatorrent
+#  download torrents according to the key_words.txt
+#  note:the key words is case-insensetive
+#
+############################
+
+import urllib2
+import sys
+from BeautifulSoup import BeautifulStoneSoup   
+
+##download the daily raw anime rss
+response = urllib2.urlopen('http://www.nyaa.se/?page=rss&cats=1_11')
+html = response.read()
+if html is None:
+    print "Fail to load the RSS. Too Bad.\n"
+    sys.exit(-1)
+
+soup = BeautifulStoneSoup(html, convertEntities=BeautifulStoneSoup.HTML_ENTITIES)
+
+#load key words
+f= open("key_words.txt", 'r')
+if f is None:
+    print "Fail to load key_words.txt. Too Bad.\n"
+    sys.exit(-1)
+
+key_words = []    
+for line in f:
+    line = line.rstrip()
+    key_words.append(line)
+
+f.close()
+
+
+def contain_word(ss, words):
+    ss = ss.strip()
+    for kw in words:
+        #print kw.upper(), "| ", ss.upper()
+        if kw.upper() in ss.upper():
+            #print kw.upper(), "| ", ss.upper()
+            return True
+    return False        
+
+
+#print soup.prettify()
+items = soup.findAll('item')
+for item in items:
+   
+    if contain_word(item.title.string, key_words):
+        print "Loading ", item.title.string, " From  ",item.link.string,"....\n"
+        mp3file = urllib2.urlopen(item.link.string)
+        output = open(item.title.string+".torrent",'wb')
+        output.write(mp3file.read())
+        output.close()
+
+
+    
+
+##print html
