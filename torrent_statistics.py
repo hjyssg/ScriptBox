@@ -1,20 +1,15 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python
 
-
 import datetime  as DT
 import torrentparse   #https://github.com/mohanraj-r/torrentparse
 from sqlobject import *
-
-
-
 
 class Torrent(SQLObject):
   name = StringCol(length=300, default=None)
   dtype = StringCol()
   date = DateTimeCol()
   size = FloatCol()
-
 
 def get_total_size(info):
       """
@@ -31,7 +26,6 @@ def read_torrents(supported_file_types = {".torrent"} , torrent_folder_path = ".
   import re
   import codecs
 
-
   for dirname, dirnames, filenames in os.walk(torrent_folder_path):
     for filename in filenames:
       
@@ -44,8 +38,6 @@ def read_torrents(supported_file_types = {".torrent"} , torrent_folder_path = ".
       filePath= os.path.join(dirname, filename)
       tt = DT.datetime.fromtimestamp(os.path.getmtime(filePath))
       #date_str = "%d_%02d_%02d"%(t.year, t.month, t.day)
-
-     
 
       try:
         from torrentparse import TorrentParser
@@ -85,8 +77,6 @@ def calMean(ll):
     total += e
   return total/len(ll)
     
-
-
 if __name__ == '__main__':
   sqlhub.processConnection = connectionForURI('sqlite:/:memory:')
   Torrent.createTable()
