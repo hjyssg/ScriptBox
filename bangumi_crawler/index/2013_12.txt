@@ -1,0 +1,847 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_112298">
+  <a class="subjectCover cover ll" href="/subject/112298">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/10/c5/112298_IuLSA.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/112298">
+     全裸投球手铁雄
+    </a>
+    <small class="grey">
+     ヌードバッター鉄雄
+    </small>
+   </h3>
+   <p class="info tip">
+    2013年7月
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_66375">
+  <a class="subjectCover cover ll" href="/subject/66375">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/9b/9c/66375_5hH6v.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/66375">
+     偷·窥·的·小·洞
+    </a>
+    <small class="grey">
+     ノ・ゾ・キ・ア・ナ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2459
+   </span>
+   <p class="info tip">
+    1话 /  2013年2月28日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.3
+    </small>
+    <span class="tip_j">
+     (178人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_48700">
+  <a class="subjectCover cover ll" href="/subject/48700">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/08/a7/48700_zh99x.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/48700">
+     High School D×D NEW
+    </a>
+    <small class="grey">
+     ハイスクールD×D NEW
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1419
+   </span>
+   <p class="info tip">
+    12话 /  2013年7月7日 / 石踏一荣
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.1
+    </small>
+    <span class="tip_j">
+     (759人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_74299">
+  <a class="subjectCover cover ll" href="/subject/74299">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ce/0d/74299_w9wNh.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/74299">
+     忍者服部君 续
+    </a>
+    <small class="grey">
+     ハットリくん
+    </small>
+   </h3>
+   <p class="info tip">
+    26话 /  2013年5月13日
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_58709">
+  <a class="subjectCover cover ll" href="/subject/58709">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/15/28/58709_H7uj8.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/58709">
+     旋风管家 Cuties
+    </a>
+    <small class="grey">
+     ハヤテのごとく! Cuties
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2314
+   </span>
+   <p class="info tip">
+    12话 /  2013年4月8日 / 畑健二郎
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (482人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_56849">
+  <a class="subjectCover cover ll" href="/subject/56849">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/59/eb/56849_BhB6B.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/56849">
+     HAL
+    </a>
+    <small class="grey">
+     ハル
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1798
+   </span>
+   <p class="info tip">
+    2013年6月8日 / 牧原亮太郎 / 北田胜彦
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (250人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_74206">
+  <a class="subjectCover cover ll" href="/subject/74206">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f2/11/74206_y99k1.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/74206">
+     笨蛋的悲剧人生
+    </a>
+    <small class="grey">
+     バカ・ミゼラブル
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2087
+   </span>
+   <p class="info tip">
+    3话 /  2013年5月21日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.3
+    </small>
+    <span class="tip_j">
+     (69人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_65565">
+  <a class="subjectCover cover ll" href="/subject/65565">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/7d/ea/65565_c5ct1.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/65565">
+     听爸爸的话！OAD
+    </a>
+    <small class="grey">
+     パパのいうことを聞きなさい! OAD
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2193
+   </span>
+   <p class="info tip">
+    2话 /  2013年6月25日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.6
+    </small>
+    <span class="tip_j">
+     (307人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_41245">
+  <a class="subjectCover cover ll" href="/subject/41245">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/9e/96/41245_RIK57.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/41245">
+     Vividred Operation
+    </a>
+    <small class="grey">
+     ビビッドレッド・オペレーション
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2451
+   </span>
+   <p class="info tip">
+    12话 /  2013年1月10日 / 高村和宏
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (748人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_55358">
+  <a class="subjectCover cover ll" href="/subject/55358">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/96/dc/55358_7N1QZ.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/55358">
+     野兽传奇
+    </a>
+    <small class="grey">
+     ビーストサーガ
+    </small>
+   </h3>
+   <p class="info tip">
+    38话 /  2013年01月13日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     4.9
+    </small>
+    <span class="tip_j">
+     (11人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_56844">
+  <a class="subjectCover cover ll" href="/subject/56844">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/de/dc/56844_27Ptf.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/56844">
+     皮卡丘与伊布好朋友
+    </a>
+    <small class="grey">
+     ピカチュウとイーブイ☆フレンズ
+    </small>
+   </h3>
+   <p class="info tip">
+    2013年7月13日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (30人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_92431">
+  <a class="subjectCover cover ll" href="/subject/92431">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/81/2b/92431_6q2r8.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/92431">
+     ピクレレ～めざせ！ウクレレピクニックインハワイ～
+    </a>
+   </h3>
+   <p class="info tip">
+    2013年12月7日
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_49693">
+  <a class="subjectCover cover ll" href="/subject/49693">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f9/ea/49693_lwb3Z.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/49693">
+     Phi-Brain～神之谜题3
+    </a>
+    <small class="grey">
+     ファイ・ブレイン 〜神のパズル 第3シリーズ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2144
+   </span>
+   <p class="info tip">
+    25话 /  2013年10月6日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (93人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_46826">
+  <a class="subjectCover cover ll" href="/subject/46826">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/dc/87/46826_q118F.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/46826">
+     Fantasista Doll
+    </a>
+    <small class="grey">
+     ファンタジスタドール
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2623
+   </span>
+   <p class="info tip">
+    12话 /  2013年7月6日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.1
+    </small>
+    <span class="tip_j">
+     (254人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_55032">
+  <a class="subjectCover cover ll" href="/subject/55032">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d8/14/55032_0lQlu.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/55032">
+     写真女友
+    </a>
+    <small class="grey">
+     フォトカノ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2828
+   </span>
+   <p class="info tip">
+    13话 /  2013年4月4日 / 嶋田真恵
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.9
+    </small>
+    <span class="tip_j">
+     (608人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_66605">
+  <a class="subjectCover cover ll" href="/subject/66605">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/4e/27/66605_ZFjH2.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/66605">
+     フォルト!!S(サービス)~新たなる恋敵(ライバル)~
+    </a>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1883
+   </span>
+   <p class="info tip">
+    2013-02-22
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (141人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_78404">
+  <a class="subjectCover cover ll" href="/subject/78404">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/25/88/78404_931q7.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/78404">
+     零度战姬Vibration
+    </a>
+    <small class="grey">
+     フリージング ヴァイヴレーション
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2650
+   </span>
+   <p class="info tip">
+    12话 /  2013年10月4日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.1
+    </small>
+    <span class="tip_j">
+     (224人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_48065">
+  <a class="subjectCover cover ll" href="/subject/48065">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d1/2f/48065_EV487.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/48065">
+     血意少年
+    </a>
+    <small class="grey">
+     ブラッドラッド
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1733
+   </span>
+   <p class="info tip">
+    10话 /  2013年7月7日 / 小玉有起
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.9
+    </small>
+    <span class="tip_j">
+     (1038人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_80995">
+  <a class="subjectCover cover ll" href="/subject/80995">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a4/ca/80995_Q8Zsg.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/80995">
+     血意少年 OAD
+    </a>
+    <small class="grey">
+     ブラッドラッド OAD
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1779
+   </span>
+   <p class="info tip">
+    1话 /  2013年12月4日 / 小玉有起
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (196人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_88441">
+  <a class="subjectCover cover ll" href="/subject/88441">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f2/dc/88441_gYgA7.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/88441">
+     噗哔啵 来自未来
+    </a>
+    <small class="grey">
+     プピポー!
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2092
+   </span>
+   <p class="info tip">
+    15话 /  2013年12月20日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.6
+    </small>
+    <span class="tip_j">
+     (311人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_62285">
+  <a class="subjectCover cover ll" href="/subject/62285">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/da/39/62285_3Kjks.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/62285">
+     美妙旋律 Rainbow Live
+    </a>
+    <small class="grey">
+     プリティーリズム・レインボーライブ
+    </small>
+   </h3>
+   <p class="info tip">
+    51话 /  2013年4月6日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.0
+    </small>
+    <span class="tip_j">
+     (48人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_46012">
+  <a class="subjectCover cover ll" href="/subject/46012">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/5e/13/46012_up1i9.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/46012">
+     黑塔利亚 第5期
+    </a>
+    <small class="grey">
+     ヘタリア The Beautiful World
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    387
+   </span>
+   <p class="info tip">
+    20话 /  2013年1月25日 / わたなべひろし / 日丸屋秀和 / 岡真里子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.8
+    </small>
+    <span class="tip_j">
+     (553人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_45241">
+  <a class="subjectCover cover ll" href="/subject/45241">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/29/b9/45241_0gKOk.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/45241">
+     剑风传奇 黄金时代篇III 降临
+    </a>
+    <small class="grey">
+     ベルセルク  黄金時代篇III 降臨
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    290
+   </span>
+   <p class="info tip">
+    2013年2月1日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.0
+    </small>
+    <span class="tip_j">
+     (309人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_81372">
+  <a class="subjectCover cover ll" href="/subject/81372">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c1/8a/81372_2Lrhr.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/81372">
+     神奇宝贝 起源
+    </a>
+    <small class="grey">
+     ポケットモンスター THE ORIGIN
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    635
+   </span>
+   <p class="info tip">
+    4话 /  2013年10月2日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.6
+    </small>
+    <span class="tip_j">
+     (443人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

@@ -1,0 +1,839 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_35977">
+  <a class="subjectCover cover ll" href="/subject/35977">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c1/81/35977_Nrt4t.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/35977">
+     卡片战斗先导者 亚洲巡回赛篇
+    </a>
+    <small class="grey">
+     カードファイト!! ヴァンガード アジアサーキット編
+    </small>
+   </h3>
+   <p class="info tip">
+    39话 /  2012年4月8日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.1
+    </small>
+    <span class="tip_j">
+     (49人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_37140">
+  <a class="subjectCover cover ll" href="/subject/37140">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/58/d8/37140_TUb8C.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/37140">
+     学活！
+    </a>
+    <small class="grey">
+     ガッ活!
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2154
+   </span>
+   <p class="info tip">
+    25话 /  2012年4月3日 / ラレコ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.6
+    </small>
+    <span class="tip_j">
+     (252人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_40310">
+  <a class="subjectCover cover ll" href="/subject/40310">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a3/af/40310_66914.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/40310">
+     少女与战车
+    </a>
+    <small class="grey">
+     ガールズ&amp;パンツァー
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    632
+   </span>
+   <p class="info tip">
+    12话 /  2012年10月8日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.6
+    </small>
+    <span class="tip_j">
+     (1302人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_20799">
+  <a class="subjectCover cover ll" href="/subject/20799">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/66/c2/20799_f93pe.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/20799">
+     爱杀宝贝
+    </a>
+    <small class="grey">
+     キルミーベイベー
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1400
+   </span>
+   <p class="info tip">
+    13话 /  2012年1月5日 / カヅホ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.1
+    </small>
+    <span class="tip_j">
+     (1654人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_27568">
+  <a class="subjectCover cover ll" href="/subject/27568">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d2/41/27568_lAja9.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/27568">
+     王者天下
+    </a>
+    <small class="grey">
+     キングダム
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1933
+   </span>
+   <p class="info tip">
+    38话 /  2012-6-4 / 原泰久
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (178人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_13345">
+  <a class="subjectCover cover ll" href="/subject/13345">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/57/ed/13345_1Xtlt.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/13345">
+     鱼
+    </a>
+    <small class="grey">
+     ギョ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2691
+   </span>
+   <p class="info tip">
+    1话 /  2012年2月15日 / 伊藤潤二
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.2
+    </small>
+    <span class="tip_j">
+     (649人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_45706">
+  <a class="subjectCover cover ll" href="/subject/45706">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/fc/68/45706_Gr3ew.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/45706">
+     罪恶王冠OVA 失落的圣诞节
+    </a>
+    <small class="grey">
+     ギルティクラウン ロストクリスマス
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2492
+   </span>
+   <p class="info tip">
+    1话 /  2012年7月26日 / 江崎慎平
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (597人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_33354">
+  <a class="subjectCover cover ll" href="/subject/33354">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/6f/99/33354_bwMm0.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/33354">
+     女皇之刃 叛乱
+    </a>
+    <small class="grey">
+     クイーンズブレイド リベリオン
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2465
+   </span>
+   <p class="info tip">
+    12话 /  2012年4月3日 / HobbyJAPAN
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.3
+    </small>
+    <span class="tip_j">
+     (249人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_56934">
+  <a class="subjectCover cover ll" href="/subject/56934">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/e1/6d/56934_Nnblb.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/56934">
+     クリムゾンガールズ ~痴漢支配~
+    </a>
+   </h3>
+   <p class="info tip">
+    2012-05-25
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.4
+    </small>
+    <span class="tip_j">
+     (46人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_49032">
+  <a class="subjectCover cover ll" href="/subject/49032">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/3b/03/49032_H2Y8P.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/49032">
+     克里姆林
+    </a>
+    <small class="grey">
+     クレムリン
+    </small>
+   </h3>
+   <p class="info tip">
+    5话 /  2012年9月14日 / カレー沢薫
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_27555">
+  <a class="subjectCover cover ll" href="/subject/27555">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/19/bc/27555_KwkS2.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/27555">
+     蜡笔小新 风起云涌！我的宇宙公主
+    </a>
+    <small class="grey">
+     クレヨンしんちゃん 嵐を呼ぶ！オラと宇宙のプリンセス
+    </small>
+   </h3>
+   <p class="info tip">
+    2012-04-14
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.1
+    </small>
+    <span class="tip_j">
+     (31人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_48766">
+  <a class="subjectCover cover ll" href="/subject/48766">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/0a/1e/48766_x7128.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/48766">
+     弹珠人Cross Fight eS
+    </a>
+    <small class="grey">
+     クロスファイト ビーダマンeS
+    </small>
+   </h3>
+   <p class="info tip">
+    2012年10月7日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_31435">
+  <a class="subjectCover cover ll" href="/subject/31435">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/7f/98/31435_A1s50.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/31435">
+     古斯柯布多力传记
+    </a>
+    <small class="grey">
+     グスコーブドリの伝記
+    </small>
+   </h3>
+   <p class="info tip">
+    2012年7月7日 / 宮沢賢治
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (24人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_37154">
+  <a class="subjectCover cover ll" href="/subject/37154">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/07/2e/37154_VjJMz.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/37154">
+     心灵链环
+    </a>
+    <small class="grey">
+     ココロコネクト
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    638
+   </span>
+   <p class="info tip">
+    17话 /  2012年7月7日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (1758人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_41408">
+  <a class="subjectCover cover ll" href="/subject/41408">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/cd/1d/41408_rEC4v.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/41408">
+     电脑革命
+    </a>
+    <small class="grey">
+     コンピューター革命 最強×最速の頭脳誕生
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2012年6月3日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.6
+    </small>
+    <span class="tip_j">
+     (21人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_24593">
+  <a class="subjectCover cover ll" href="/subject/24593">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d6/ed/24593_yY4xP.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/24593">
+     Code Geass 亡国的阿基德 第一章
+    </a>
+    <small class="grey">
+     コードギアス 亡国のアキト 第1章「翼竜は舞い降りた」
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1539
+   </span>
+   <p class="info tip">
+    2012年8月4日 / SUNRISE、大河内一楼、谷口悟朗 / 木村貴宏
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.0
+    </small>
+    <span class="tip_j">
+     (824人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_35866">
+  <a class="subjectCover cover ll" href="/subject/35866">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/3a/b3/35866_7JAT8.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/35866">
+     Code Geass 反叛的鲁路修 娜娜莉梦游仙境
+    </a>
+    <small class="grey">
+     コードギアス 反逆のルルーシュ ナナリーinワンダーランド
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2669
+   </span>
+   <p class="info tip">
+    1话 /  2012年7月27日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.2
+    </small>
+    <span class="tip_j">
+     (524人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_40286">
+  <a class="subjectCover cover ll" href="/subject/40286">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/97/d0/40286_4nT2U.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/40286">
+     尸体派对 迷失的舞步
+    </a>
+    <small class="grey">
+     コープスパーティー Missing Footage
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2725
+   </span>
+   <p class="info tip">
+    1话 /  2012年8月2日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.0
+    </small>
+    <span class="tip_j">
+     (285人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_23535">
+  <a class="subjectCover cover ll" href="/subject/23535">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f5/fe/23535_5jD5h.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/23535">
+     极乐院女子高寮物语
+    </a>
+    <small class="grey">
+     ゴクジョッ。～極楽院女子高寮物語～
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2627
+   </span>
+   <p class="info tip">
+    13话 /  2012年1月16日 / 宮崎摩耶
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.2
+    </small>
+    <span class="tip_j">
+     (289人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_43159">
+  <a class="subjectCover cover ll" href="/subject/43159">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/79/67/43159_12Y5T.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/43159">
+     颠倒的帕特玛 初始之日
+    </a>
+    <small class="grey">
+     サカサマのパテマ Beginning of the Day
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    927
+   </span>
+   <p class="info tip">
+    4话 /  2012年2月25日 / 吉浦康裕
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.4
+    </small>
+    <span class="tip_j">
+     (171人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_28697">
+  <a class="subjectCover cover ll" href="/subject/28697">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/46/a6/28697_8ZLj6.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/28697">
+     光明之心-幸福的面包
+    </a>
+    <small class="grey">
+     シャイニング・ハーツ ～幸せのパン～
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2876
+   </span>
+   <p class="info tip">
+    12话 /  2012年4月12日 / SEGA
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.7
+    </small>
+    <span class="tip_j">
+     (570人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_113458">
+  <a class="subjectCover cover ll" href="/subject/113458">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/7e/18/113458_YQaYz.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/113458">
+     シャケちゃん
+    </a>
+   </h3>
+   <p class="info tip">
+    1话 /  2012年3月9日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_37136">
+  <a class="subjectCover cover ll" href="/subject/37136">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/17/57/37136_AYaI3.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/37136">
+     宝石宠物 Kira☆Deco！
+    </a>
+    <small class="grey">
+     ジュエルペット きら☆デコッ！
+    </small>
+   </h3>
+   <p class="info tip">
+    52话 /  2012年4月7日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.9
+    </small>
+    <span class="tip_j">
+     (14人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_43558">
+  <a class="subjectCover cover ll" href="/subject/43558">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/23/5d/43558_EZG9R.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/43558">
+     JOJO的奇妙冒险
+    </a>
+    <small class="grey">
+     ジョジョの奇妙な冒険
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    44
+   </span>
+   <p class="info tip">
+    26话 /  2012年10月5日 / 荒木飛呂彦
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.4
+    </small>
+    <span class="tip_j">
+     (1935人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

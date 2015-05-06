@@ -1,0 +1,807 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_103162">
+  <a class="subjectCover cover ll" href="/subject/103162">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/47/86/103162_BTTE9.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/103162">
+     东方神娃第二部
+    </a>
+    <small class="grey">
+     东方神娃第二部
+    </small>
+   </h3>
+   <p class="info tip">
+    52话 /  2008年6月1日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_762">
+  <a class="subjectCover cover ll" href="/subject/762">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/06/99/762_2TFR2.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/762">
+     乃木坂春香的秘密
+    </a>
+    <small class="grey">
+     乃木坂春香の秘密
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2730
+   </span>
+   <p class="info tip">
+    12话 /  2008年7月10日 / 名和宗则 / 五十岚雄策 / 石野聪
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.1
+    </small>
+    <span class="tip_j">
+     (820人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2168">
+  <a class="subjectCover cover ll" href="/subject/2168">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/41/e7/2168_thh05.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2168">
+     二十面相少女
+    </a>
+    <small class="grey">
+     二十面相の娘
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1962
+   </span>
+   <p class="info tip">
+    22话 /  2008年4月12日 / 富沢信雄 / 堀川耕一
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (166人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_104625">
+  <a class="subjectCover cover ll" href="/subject/104625">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a8/3d/104625_s403l.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/104625">
+     云端的日子
+    </a>
+    <small class="grey">
+     云端的日子
+    </small>
+   </h3>
+   <p class="info tip">
+    26话 /  2008年05月 / 卢恒宇 / 曾灿
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_917">
+  <a class="subjectCover cover ll" href="/subject/917">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/da/0d/917_9b1Jd.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/917">
+     亡念之扎姆德
+    </a>
+    <small class="grey">
+     亡念のザムド
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    567
+   </span>
+   <p class="info tip">
+    26话 /  2008年9月24日 / 宮地昌幸
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.6
+    </small>
+    <span class="tip_j">
+     (542人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_14731">
+  <a class="subjectCover cover ll" href="/subject/14731">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d4/ff/14731_7Gh3M.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/14731">
+     今天开始做魔王 第三季
+    </a>
+    <small class="grey">
+     今日から㋮王! 第3章
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1977
+   </span>
+   <p class="info tip">
+    39话 /  2008年4月3日 / 喬林知
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (158人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_3413">
+  <a class="subjectCover cover ll" href="/subject/3413">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/30/19/3413_FqfYQ.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/3413">
+     今天的五年二班
+    </a>
+    <small class="grey">
+     今日の5の2
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1593
+   </span>
+   <p class="info tip">
+    13话 /  2008年10月5日 / 長澤剛 / 近岡直
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.0
+    </small>
+    <span class="tip_j">
+     (407人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_98519">
+  <a class="subjectCover cover ll" href="/subject/98519">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/2f/30/98519_4XMGz.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/98519">
+     来自天外
+    </a>
+    <small class="grey">
+     仏ゾーン
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2008年12月25日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2471">
+  <a class="subjectCover cover ll" href="/subject/2471">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d9/ff/2471_9kGNG.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2471">
+     假面女仆卫士
+    </a>
+    <small class="grey">
+     仮面のメイドガイ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2341
+   </span>
+   <p class="info tip">
+    12话 /  2008年4月5日 / 赤衣丸歩郎
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (256人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1980">
+  <a class="subjectCover cover ll" href="/subject/1980">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f8/0b/1980_l6NzL.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1980">
+     伯爵与妖精
+    </a>
+    <small class="grey">
+     伯爵と妖精
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2512
+   </span>
+   <p class="info tip">
+    12话 /  2008年10月7日 / 五月女浩一朗 / 谷瑞惠（集英社“Cobalt文库”） / 藤井まき
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.3
+    </small>
+    <span class="tip_j">
+     (437人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_300">
+  <a class="subjectCover cover ll" href="/subject/300">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/94/f6/300_87XIp.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/300">
+     俗・再见绝望先生
+    </a>
+    <small class="grey">
+     俗・さよなら絶望先生
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    314
+   </span>
+   <p class="info tip">
+    13话 /  2008年1月5日 / 新房昭之 / 久米田康治
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.9
+    </small>
+    <span class="tip_j">
+     (1192人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_63031">
+  <a class="subjectCover cover ll" href="/subject/63031">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/5c/cd/63031_u1z51.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/63031">
+     個人授業～THE ANIMATION～Schoolgirl ready for a private lesson
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2008/04/25
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.1
+    </small>
+    <span class="tip_j">
+     (31人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_70426">
+  <a class="subjectCover cover ll" href="/subject/70426">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f2/51/70426_4dUh2.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/70426">
+     催眠凌辱学園
+    </a>
+   </h3>
+   <p class="info tip">
+    3话 /  2008/12/19
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.4
+    </small>
+    <span class="tip_j">
+     (29人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_74426">
+  <a class="subjectCover cover ll" href="/subject/74426">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/e2/d2/74426_N54RO.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/74426">
+     催眠学園
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2008年8月8日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     4.9
+    </small>
+    <span class="tip_j">
+     (21人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_70263">
+  <a class="subjectCover cover ll" href="/subject/70263">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/60/77/70263_959tt.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/70263">
+     催眠術 2nd
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2008/10/25 / BLACKRAINBOW
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.1
+    </small>
+    <span class="tip_j">
+     (16人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_62251">
+  <a class="subjectCover cover ll" href="/subject/62251">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/72/35/62251_H8879.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/62251">
+     兄嫁はいじっぱり
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2008/04/18
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (35人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_4039">
+  <a class="subjectCover cover ll" href="/subject/4039">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/1c/d7/4039_wCQ0n.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/4039">
+     全力兔子
+    </a>
+    <small class="grey">
+     全力ウサギ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2143
+   </span>
+   <p class="info tip">
+    52话 /  2008-01-15 / イケダケイ(『全力ウサギ』メディアファクトリー刊)
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (85人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_81506">
+  <a class="subjectCover cover ll" href="/subject/81506">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/7b/fe/81506_jjbPD.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/81506">
+     凌辱ゲリラ狩り3
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2008/02/29 / Liquid
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     4.9
+    </small>
+    <span class="tip_j">
+     (20人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_62462">
+  <a class="subjectCover cover ll" href="/subject/62462">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/89/af/62462_vx03j.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/62462">
+     初犬 2 The Animation ストレンジ・カインド オブ ウーマンズ～again～
+    </a>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1743
+   </span>
+   <p class="info tip">
+    2话 /  2008/09/26
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (114人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_22444">
+  <a class="subjectCover cover ll" href="/subject/22444">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/7d/e4/22444_aQRM5.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/22444">
+     火影忍者疾风传 剧场版 羁绊
+    </a>
+    <small class="grey">
+     劇場版 NARUTO -ナルト- 疾風伝 絆
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2469
+   </span>
+   <p class="info tip">
+    2008年8月2日 / 龟垣一
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.3
+    </small>
+    <span class="tip_j">
+     (236人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_18179">
+  <a class="subjectCover cover ll" href="/subject/18179">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/05/b0/18179_XSzOI.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/18179">
+     剧场版 鬼太郎 日本爆裂!!
+    </a>
+    <small class="grey">
+     劇場版 ゲゲゲの鬼太郎 日本爆裂!!
+    </small>
+   </h3>
+   <p class="info tip">
+    2008
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_3618">
+  <a class="subjectCover cover ll" href="/subject/3618">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/4d/a9/3618_wSeUs.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/3618">
+     棒球大联盟 剧场版 友情的一球
+    </a>
+    <small class="grey">
+     劇場版 メジャー 友情の一球(ウィニングショット)
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2008年12月 / 加户誉夫 / 満田拓也（小学馆「週刊少年サンデー」连载）
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.6
+    </small>
+    <span class="tip_j">
+     (24人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_3995">
+  <a class="subjectCover cover ll" href="/subject/3995">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d4/64/3995_FNwzn.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/3995">
+     天元突破红莲螺岩 红莲篇
+    </a>
+    <small class="grey">
+     劇場版 天元突破グレンラガン 紅蓮篇
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    229
+   </span>
+   <p class="info tip">
+    2008年9月6日 / 今石洋之 / GAINAX・中島かずき / 錦織敦史
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.0
+    </small>
+    <span class="tip_j">
+     (725人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_2875">
+  <a class="subjectCover cover ll" href="/subject/2875">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/4f/1f/2875_T3tOB.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2875">
+     死神剧场版 消逝于黑暗中 呼唤着你的名字
+    </a>
+    <small class="grey">
+     劇場版BLEACH Fade to Black 君の名を呼ぶ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2378
+   </span>
+   <p class="info tip">
+    2008年12月13日 / 阿部記之 / 久保帶人 / 工藤昌史
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (329人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

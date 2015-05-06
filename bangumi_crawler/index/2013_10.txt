@@ -1,0 +1,858 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_61222">
+  <a class="subjectCover cover ll" href="/subject/61222">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/98/85/61222_ZglcX.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/61222">
+     学活！ 第二季
+    </a>
+    <small class="grey">
+     ガッ活! 第2シリーズ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1679
+   </span>
+   <p class="info tip">
+    25话 /  2013年4月3日 / ラレコ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (107人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_66411">
+  <a class="subjectCover cover ll" href="/subject/66411">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b6/f1/66411_5gRgV.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/66411">
+     虽然是玻璃假面
+    </a>
+    <small class="grey">
+     ガラスの仮面ですが
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1975
+   </span>
+   <p class="info tip">
+    17话 /  2013年4月7日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (82人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_77471">
+  <a class="subjectCover cover ll" href="/subject/77471">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ab/1f/77471_0F4s4.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/77471">
+     伽利略少女
+    </a>
+    <small class="grey">
+     ガリレイドンナ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2857
+   </span>
+   <p class="info tip">
+    11话 /  2013年10月10日 / 梅津泰臣、TeamGD
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.8
+    </small>
+    <span class="tip_j">
+     (845人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_71735">
+  <a class="subjectCover cover ll" href="/subject/71735">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/72/75/71735_775SZ.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/71735">
+     加隆
+    </a>
+    <small class="grey">
+     ガロン
+    </small>
+   </h3>
+   <p class="info tip">
+    2013年4月27日
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_77171">
+  <a class="subjectCover cover ll" href="/subject/77171">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/3e/9b/77171_i4TC4.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/77171">
+     高达创战者
+    </a>
+    <small class="grey">
+     ガンダムビルドファイターズ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    380
+   </span>
+   <p class="info tip">
+    25话 /  2013年10月7日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.8
+    </small>
+    <span class="tip_j">
+     (647人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_76045">
+  <a class="subjectCover cover ll" href="/subject/76045">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/24/97/76045_ud4f5.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/76045">
+     ガーデン THE ANIMATION
+    </a>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2415
+   </span>
+   <p class="info tip">
+    2话 /  2013/04/26
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.9
+    </small>
+    <span class="tip_j">
+     (67人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_89594">
+  <a class="subjectCover cover ll" href="/subject/89594">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/2f/50/89594_8Mbz9.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/89594">
+     宇宙海盗船长哈洛克
+    </a>
+    <small class="grey">
+     キャプテンハーロック -SPACE PIRATE CAPTAIN HARLOCK-
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2285
+   </span>
+   <p class="info tip">
+    2013年9月7日 / 箕輪豊
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (146人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_46829">
+  <a class="subjectCover cover ll" href="/subject/46829">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/75/aa/46829_Eqi0c.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/46829">
+     Q弟侦探因幡
+    </a>
+    <small class="grey">
+     キューティクル探偵因幡
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1196
+   </span>
+   <p class="info tip">
+    12话 /  2013年1月4日 / もち
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.2
+    </small>
+    <span class="tip_j">
+     (750人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_48061">
+  <a class="subjectCover cover ll" href="/subject/48061">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/01/b0/48061_FdzaY.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/48061">
+     kira☆kira 5周年纪念动画
+    </a>
+    <small class="grey">
+     キラ☆キラ 5th Anniversary Live Anime KICK START GENERATION
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2013年3月27日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.6
+    </small>
+    <span class="tip_j">
+     (40人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_80839">
+  <a class="subjectCover cover ll" href="/subject/80839">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/bf/75/80839_ClN6h.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/80839">
+     爱杀宝贝OVA
+    </a>
+    <small class="grey">
+     キルミーベイベー OVA
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1300
+   </span>
+   <p class="info tip">
+    1话 /  2013年10月16日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.1
+    </small>
+    <span class="tip_j">
+     (322人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_72941">
+  <a class="subjectCover cover ll" href="/subject/72941">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d5/d7/72941_3h3Hz.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/72941">
+     斩服少女
+    </a>
+    <small class="grey">
+     キルラキル
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    273
+   </span>
+   <p class="info tip">
+    25话 /  2013年10月3日 / 今石洋之
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.9
+    </small>
+    <span class="tip_j">
+     (2231人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_62281">
+  <a class="subjectCover cover ll" href="/subject/62281">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/6d/ac/62281_3x3RG.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/62281">
+     王者天下 第二季
+    </a>
+    <small class="grey">
+     キングダム 第2シリーズ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    943
+   </span>
+   <p class="info tip">
+    39话 /  2013年6月8日 / 原泰久
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.4
+    </small>
+    <span class="tip_j">
+     (71人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_81034">
+  <a class="subjectCover cover ll" href="/subject/81034">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/6b/80/81034_R702f.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/81034">
+     蜡笔小新 超级美味B级美食大逃亡
+    </a>
+    <small class="grey">
+     クレヨンしんちゃん バカうまっ！B級グルメサバイバル!!
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1022
+   </span>
+   <p class="info tip">
+    2013-04-20
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.3
+    </small>
+    <span class="tip_j">
+     (52人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_63130">
+  <a class="subjectCover cover ll" href="/subject/63130">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/eb/9f/63130_Vz02Z.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/63130">
+     Code Geass 亡国的阿基德 第二章
+    </a>
+    <small class="grey">
+     コードギアス 亡国のアキト 第2章「引き裂かれし翼竜」
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1461
+   </span>
+   <p class="info tip">
+    2013年9月14日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.0
+    </small>
+    <span class="tip_j">
+     (486人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_58957">
+  <a class="subjectCover cover ll" href="/subject/58957">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/87/45/58957_aP7aC.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/58957">
+     尸体派对 Tortured Souls
+    </a>
+    <small class="grey">
+     コープスパーティー Tortured Souls -暴虐された魂の呪叫-
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2351
+   </span>
+   <p class="info tip">
+    4话 /  2013年7月24日 / 岩永彰 / 祁答院慎 / 田中誠輝
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (588人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_68031">
+  <a class="subjectCover cover ll" href="/subject/68031">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/6a/05/68031_kz04Q.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/68031">
+     青春纪行
+    </a>
+    <small class="grey">
+     ゴールデンタイム
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2583
+   </span>
+   <p class="info tip">
+    24话 /  2013年10月3日 / 竹宮ゆゆこ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.3
+    </small>
+    <span class="tip_j">
+     (890人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_66338">
+  <a class="subjectCover cover ll" href="/subject/66338">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/70/ca/66338_81rcI.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/66338">
+     独眼巨人少女斎枫～
+    </a>
+    <small class="grey">
+     サイクロプス少女さいぷ〜
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2460
+   </span>
+   <p class="info tip">
+    12话 /  2013年3月12日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.3
+    </small>
+    <span class="tip_j">
+     (191人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_29414">
+  <a class="subjectCover cover ll" href="/subject/29414">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/0b/21/29414_NBVbD.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/29414">
+     颠倒的帕特玛
+    </a>
+    <small class="grey">
+     サカサマのパテマ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    677
+   </span>
+   <p class="info tip">
+    2013年11月9日 / 吉浦康裕 / 吉浦康裕 / 又賀大介
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (471人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_77473">
+  <a class="subjectCover cover ll" href="/subject/77473">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/bb/7f/77473_hmtom.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/77473">
+     武士弗拉明戈
+    </a>
+    <small class="grey">
+     サムライフラメンコ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1521
+   </span>
+   <p class="info tip">
+    22话 /  2013年10月10日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.0
+    </small>
+    <span class="tip_j">
+     (693人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_69944">
+  <a class="subjectCover cover ll" href="/subject/69944">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b0/46/69944_FZmY2.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/69944">
+     跟班×服务
+    </a>
+    <small class="grey">
+     サーバント×サービス
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    601
+   </span>
+   <p class="info tip">
+    13话 /  2013年7月4日 / 高津カリノ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.6
+    </small>
+    <span class="tip_j">
+     (970人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_92294">
+  <a class="subjectCover cover ll" href="/subject/92294">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/aa/22/92294_XHP81.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/92294">
+     ザナルカンドにて
+    </a>
+   </h3>
+   <p class="info tip">
+    2013/12/28
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.1
+    </small>
+    <span class="tip_j">
+     (15人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_79791">
+  <a class="subjectCover cover ll" href="/subject/79791">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/e5/82/79791_08DsS.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/79791">
+     The午夜动物
+    </a>
+    <small class="grey">
+     ザ・ミッドナイト☆アニマル
+    </small>
+   </h3>
+   <p class="info tip">
+    2013年8月3日
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_67224">
+  <a class="subjectCover cover ll" href="/subject/67224">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a5/4c/67224_IWWIn.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/67224">
+     宝石宠物 Happiness
+    </a>
+    <small class="grey">
+     ジュエルペット ハッピネス
+    </small>
+   </h3>
+   <p class="info tip">
+    52话 /  2013年4月6日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.7
+    </small>
+    <span class="tip_j">
+     (10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_48702">
+  <a class="subjectCover cover ll" href="/subject/48702">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/32/08/48702_Iz5c3.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/48702">
+     闪亮的拓人 剧场版
+    </a>
+    <small class="grey">
+     スタードライバー THE MOVIE
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1930
+   </span>
+   <p class="info tip">
+    2013年2月9日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (166人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

@@ -1,0 +1,838 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_56929">
+  <a class="subjectCover cover ll" href="/subject/56929">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b5/c6/56929_81ToS.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/56929">
+     おくさまは天使♥
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2012-04-20
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     4.5
+    </small>
+    <span class="tip_j">
+     (28人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_39759">
+  <a class="subjectCover cover ll" href="/subject/39759">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d2/ce/39759_ZuFUv.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/39759">
+     咬屁屁虫
+    </a>
+    <small class="grey">
+     おしりかじり虫
+    </small>
+   </h3>
+   <p class="info tip">
+    20话 /  2012年10月7日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars4 starsinfo">
+    </span>
+    <small class="fade">
+     4.2
+    </small>
+    <span class="tip_j">
+     (29人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_111991">
+  <a class="subjectCover cover ll" href="/subject/111991">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/08/bc/111991_97Iqx.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/111991">
+     おねがいマイメロディ 友&amp;愛
+    </a>
+   </h3>
+   <p class="info tip">
+    2012年8月11日 / 大久保政雄
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_40339">
+  <a class="subjectCover cover ll" href="/subject/40339">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/87/0c/40339_6lykE.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/40339">
+     就算是哥哥只要有爱就没问题对吧
+    </a>
+    <small class="grey">
+     お兄ちゃんだけど愛さえあれば関係ないよねっ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2774
+   </span>
+   <p class="info tip">
+    12话 /  2012-10-05 / 川口敬一郎 / 鈴木大輔 / 川村幸祐
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.1
+    </small>
+    <span class="tip_j">
+     (1170人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_49619">
+  <a class="subjectCover cover ll" href="/subject/49619">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d7/a8/49619_33cEX.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/49619">
+     拜托了 爱因兹贝伦咨询室
+    </a>
+    <small class="grey">
+     お願い!アインツベルン相談室
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1765
+   </span>
+   <p class="info tip">
+    6话 /  2012年9月19日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (238人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_29813">
+  <a class="subjectCover cover ll" href="/subject/29813">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/1f/d1/29813_Pp51n.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/29813">
+     恋研！~我们变成动画啦！~
+    </a>
+    <small class="grey">
+     こいけん! ～私たちアニメになっちゃった!～
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2834
+   </span>
+   <p class="info tip">
+    12话 /  2012年3月1日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.2
+    </small>
+    <span class="tip_j">
+     (87人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_41028">
+  <a class="subjectCover cover ll" href="/subject/41028">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ad/52/41028_Hpp99.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/41028">
+     三人行必有我妹
+    </a>
+    <small class="grey">
+     この中に1人、妹がいる!
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2905
+   </span>
+   <p class="info tip">
+    12话 /  2012年7月5日 / 田口一
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.7
+    </small>
+    <span class="tip_j">
+     (948人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_49087">
+  <a class="subjectCover cover ll" href="/subject/49087">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/93/38/49087_xj8jT.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/49087">
+     这名男子，捡到了人鱼。
+    </a>
+    <small class="grey">
+     この男子、人魚ひろいました。
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1905
+   </span>
+   <p class="info tip">
+    1话 /  2012年11月9日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (315人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_18797">
+  <a class="subjectCover cover ll" href="/subject/18797">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/7f/2e/18797_x9QtW.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/18797">
+     这个是僵尸吗？OF THE DEAD
+    </a>
+    <small class="grey">
+     これはゾンビですか? オブ・ザ・デッド
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1557
+   </span>
+   <p class="info tip">
+    10话 /  2012年4月4日 / 木村心一
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.0
+    </small>
+    <span class="tip_j">
+     (1500人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_49057">
+  <a class="subjectCover cover ll" href="/subject/49057">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f4/54/49057_6yVeY.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/49057">
+     蟑螂娘
+    </a>
+    <small class="grey">
+     ごきチャ!!
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2911
+   </span>
+   <p class="info tip">
+    2话 /  2012年9月14日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.4
+    </small>
+    <span class="tip_j">
+     (208人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_41488">
+  <a class="subjectCover cover ll" href="/subject/41488">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/01/a2/41488_qw09G.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/41488">
+     樱花庄的宠物女孩
+    </a>
+    <small class="grey">
+     さくら荘のペットな彼女
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    843
+   </span>
+   <p class="info tip">
+    24话 /  2012年10月8日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.4
+    </small>
+    <span class="tip_j">
+     (2460人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_114105">
+  <a class="subjectCover cover ll" href="/subject/114105">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/84/62/114105_Wu2O4.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/114105">
+     再见绝望先生 Blu-ray BOX化纪念话
+    </a>
+    <small class="grey">
+     さよなら絶望先生 Blu-ray BOX化記念 完全新作話
+    </small>
+   </h3>
+   <p class="info tip">
+    2话 /  2012年1月31日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.9
+    </small>
+    <span class="tip_j">
+     (24人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_28230">
+  <a class="subjectCover cover ll" href="/subject/28230">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b3/f7/28230_hnla8.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/28230">
+     散华礼弥
+    </a>
+    <small class="grey">
+     さんかれあ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1775
+   </span>
+   <p class="info tip">
+    13话 /  2012年4月5日 / はっとり みつる
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.9
+    </small>
+    <span class="tip_j">
+     (2417人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_41612">
+  <a class="subjectCover cover ll" href="/subject/41612">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/94/30/41612_CKNlG.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/41612">
+     散华礼弥 OAD
+    </a>
+    <small class="grey">
+     さんかれあ OAD
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2014
+   </span>
+   <p class="info tip">
+    2话 /  2012年6月8日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (534人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_34605">
+  <a class="subjectCover cover ll" href="/subject/34605">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/63/94/34605_8Dpsp.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/34605">
+     柴犬子
+    </a>
+    <small class="grey">
+     しばいぬ子さん
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2940
+   </span>
+   <p class="info tip">
+    26话 /  2012年4月1日 / うず
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.0
+    </small>
+    <span class="tip_j">
+     (181人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_39637">
+  <a class="subjectCover cover ll" href="/subject/39637">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/88/a7/39637_oHMbB.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/39637">
+     视而不见
+    </a>
+    <small class="grey">
+     しらんぷり
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2181
+   </span>
+   <p class="info tip">
+    1话 /  2012年3月26日 / 宮下新平 / 梅田俊作、梅田佳子 / 浅野直之
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (153人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_32318">
+  <a class="subjectCover cover ll" href="/subject/32318">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/e5/f6/32318_a1ua8.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/32318">
+     白熊咖啡馆
+    </a>
+    <small class="grey">
+     しろくまカフェ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    646
+   </span>
+   <p class="info tip">
+    50话 /  2012年4月5日 / ヒガアロハ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (1880人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_37897">
+  <a class="subjectCover cover ll" href="/subject/37897">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/93/b0/37897_c4BV9.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/37897">
+     女子落
+    </a>
+    <small class="grey">
+     じょしらく
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    725
+   </span>
+   <p class="info tip">
+    13话 /  2012年7月5日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (1408人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_66598">
+  <a class="subjectCover cover ll" href="/subject/66598">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/50/01/66598_HNeiO.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/66598">
+     ぜったい遵守☆強制子作り許可証!!
+    </a>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2871
+   </span>
+   <p class="info tip">
+    2话 /  2012-12-14
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.0
+    </small>
+    <span class="tip_j">
+     (83人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_73712">
+  <a class="subjectCover cover ll" href="/subject/73712">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d6/2f/73712_iui3a.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/73712">
+     掉线神域
+    </a>
+    <small class="grey">
+     そーどあーと・おふらいん
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2564
+   </span>
+   <p class="info tip">
+    10话 /  2012年10月24日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.8
+    </small>
+    <span class="tip_j">
+     (78人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_84055">
+  <a class="subjectCover cover ll" href="/subject/84055">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d0/e8/84055_1NSrv.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/84055">
+     たまごっち! ゆめキラドリーム
+    </a>
+   </h3>
+   <p class="info tip">
+    49话 /  2012年9月10日
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_84057">
+  <a class="subjectCover cover ll" href="/subject/84057">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/09/d6/84057_DE9U9.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/84057">
+     たまごっち!×鷹の爪 たまごっちで世界征服
+    </a>
+   </h3>
+   <p class="info tip">
+    1话 /  2012年10月
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_29650">
+  <a class="subjectCover cover ll" href="/subject/29650">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/fc/36/29650_QQH11.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/29650">
+     美少女死神 还我H之魂
+    </a>
+    <small class="grey">
+     だから僕は、Hができない。
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2888
+   </span>
+   <p class="info tip">
+    13话 /  2012年7月6日 / 橘ぱん
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.7
+    </small>
+    <span class="tip_j">
+     (861人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_48882">
+  <a class="subjectCover cover ll" href="/subject/48882">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/98/43/48882_98CGc.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/48882">
+     小小大叔
+    </a>
+    <small class="grey">
+     ちいさなおじさん
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2614
+   </span>
+   <p class="info tip">
+    8话 /  2012年10月1日 / あさののい
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.1
+    </small>
+    <span class="tip_j">
+     (194人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

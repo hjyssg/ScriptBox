@@ -1,0 +1,833 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_1671">
+  <a class="subjectCover cover ll" href="/subject/1671">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/64/7c/1671_29Yy6.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1671">
+     化物语
+    </a>
+    <small class="grey">
+     化物語
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    96
+   </span>
+   <p class="info tip">
+    15话 /  2009年7月3日 / 新房昭之 / 西尾維新「化物語」（講談社BOX） / 渡辺明夫
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.2
+    </small>
+    <span class="tip_j">
+     (5372人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_38119">
+  <a class="subjectCover cover ll" href="/subject/38119">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/8d/d8/38119_rmiMK.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/38119">
+     名侦探柯南 十年后的陌生人
+    </a>
+    <small class="grey">
+     名探偵コナン 10年後の異邦人
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1732
+   </span>
+   <p class="info tip">
+    1话 /  2009年
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.9
+    </small>
+    <span class="tip_j">
+     (244人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_38128">
+  <a class="subjectCover cover ll" href="/subject/38128">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a0/93/38128_Y6W96.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/38128">
+     名侦探柯南 MAGIC FILE 3 ～新一与小兰·麻将牌与七夕的回忆～
+    </a>
+    <small class="grey">
+     名探偵コナン MAGIC FILE3 新一と蘭・麻雀牌と七夕の思い出
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1890
+   </span>
+   <p class="info tip">
+    1话 /  2009-04-18
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.6
+    </small>
+    <span class="tip_j">
+     (98人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_2783">
+  <a class="subjectCover cover ll" href="/subject/2783">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/cc/d4/2783_7SFj3.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2783">
+     名侦探柯南 漆黑的追迹者
+    </a>
+    <small class="grey">
+     名探偵コナン 漆黒の追跡者
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1984
+   </span>
+   <p class="info tip">
+    1话 /  2009年 / 山本泰一郎 / 青山剛昌 / 須藤昌朋
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (1029人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2790">
+  <a class="subjectCover cover ll" href="/subject/2790">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ec/0b/2790_1dsr4.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2790">
+     好想告诉你
+    </a>
+    <small class="grey">
+     君に届け
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    292
+   </span>
+   <p class="info tip">
+    25话 /  2009年10月6日 / 镝木宏 / 椎名轻穗 / 柴田由香
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.9
+    </small>
+    <span class="tip_j">
+     (2418人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1444">
+  <a class="subjectCover cover ll" href="/subject/1444">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/af/e4/1444_m7Ti7.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1444">
+     天才麻将少女
+    </a>
+    <small class="grey">
+     咲-Saki-
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    520
+   </span>
+   <p class="info tip">
+    25话 /  2009年4月5日 / 小野学 / 小林立 / 佐々木政勝
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.6
+    </small>
+    <span class="tip_j">
+     (1962人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_29354">
+  <a class="subjectCover cover ll" href="/subject/29354">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/9d/da/29354_2Ch99.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/29354">
+     哐哐哐系列作品
+    </a>
+   </h3>
+   <p class="info tip">
+    14话 /  2009
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.9
+    </small>
+    <span class="tip_j">
+     (10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_25736">
+  <a class="subjectCover cover ll" href="/subject/25736">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/1d/c6/25736_3dKXR.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/25736">
+     哐哐日记
+    </a>
+   </h3>
+   <p class="info tip">
+    12话 /  2009
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.2
+    </small>
+    <span class="tip_j">
+     (18人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_13134">
+  <a class="subjectCover cover ll" href="/subject/13134">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c2/be/13134_oPb8S.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/13134">
+     喜羊羊与灰太狼之牛气冲天
+    </a>
+   </h3>
+   <p class="info tip">
+    2009年1月16日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.2
+    </small>
+    <span class="tip_j">
+     (34人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_29400">
+  <a class="subjectCover cover ll" href="/subject/29400">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/39/3a/29400_lAXPn.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/29400">
+     围棋少年2
+    </a>
+    <small class="grey">
+     围棋少年2
+    </small>
+   </h3>
+   <p class="info tip">
+    26话 /  2009年
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.9
+    </small>
+    <span class="tip_j">
+     (27人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_1454">
+  <a class="subjectCover cover ll" href="/subject/1454">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/3b/bf/1454_47lsn.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1454">
+     夏之岚
+    </a>
+    <small class="grey">
+     夏のあらし!
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1071
+   </span>
+   <p class="info tip">
+    13话 /  2009年4月5日 / 新房昭之 / 小林尽 / 大田和寛
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.3
+    </small>
+    <span class="tip_j">
+     (492人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_2604">
+  <a class="subjectCover cover ll" href="/subject/2604">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/88/06/2604_WPynV.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2604">
+     夏之岚！ ～春夏冬中～
+    </a>
+    <small class="grey">
+     夏のあらし! ～春夏冬中～
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    904
+   </span>
+   <p class="info tip">
+    13话 /  2009年10月4日 / 新房昭之 / 小林尽
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.4
+    </small>
+    <span class="tip_j">
+     (353人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_64961">
+  <a class="subjectCover cover ll" href="/subject/64961">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/25/b1/64961_5O3Tu.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/64961">
+     夏虫 THE ANIMATION
+    </a>
+    <small class="grey">
+     夏蟲 THE ANIMATION
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2272
+   </span>
+   <p class="info tip">
+    2话 /  2009/12/25
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.0
+    </small>
+    <span class="tip_j">
+     (57人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_2725">
+  <a class="subjectCover cover ll" href="/subject/2725">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/4b/bd/2725_oQ705.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2725">
+     梦色蛋糕师
+    </a>
+    <small class="grey">
+     夢色パティシエール
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1749
+   </span>
+   <p class="info tip">
+    63话 /  2009年10月4日 / 松本夏实 / 秋山由树子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (146人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_1731">
+  <a class="subjectCover cover ll" href="/subject/1731">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b2/9e/1731_4dp1V.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1731">
+     大正野球娘
+    </a>
+    <small class="grey">
+     大正野球娘。
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1318
+   </span>
+   <p class="info tip">
+    12话 /  2009年7月2日 / 池端隆史 / 神乐坂淳 / 神本兼利
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.1
+    </small>
+    <span class="tip_j">
+     (309人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_2454">
+  <a class="subjectCover cover ll" href="/subject/2454">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/03/e7/2454_zCb96.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2454">
+     天上人与亚克托人最后的战斗
+    </a>
+    <small class="grey">
+     天上人とアクト人最後の戦い
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2790
+   </span>
+   <p class="info tip">
+    2009年4月18日 / 木上益治 / 京都アニメーション
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.7
+    </small>
+    <span class="tip_j">
+     (133人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2611">
+  <a class="subjectCover cover ll" href="/subject/2611">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/32/1c/2611_vIR1N.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2611">
+     天体战士 第2期
+    </a>
+    <small class="grey">
+     天体戦士サンレッド 第2期
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    141
+   </span>
+   <p class="info tip">
+    26话 /  2009年10月3日 / 岸诚二 / 森田和明
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.2
+    </small>
+    <span class="tip_j">
+     (478人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_116149">
+  <a class="subjectCover cover ll" href="/subject/116149">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/12/50/116149_33Q3E.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/116149">
+     夺宝幸运星2
+    </a>
+   </h3>
+   <p class="info tip">
+    52话 /  2009 / 哈磊 / KIZI
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_886">
+  <a class="subjectCover cover ll" href="/subject/886">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/70/4a/886_EfFSX.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/886">
+     穿越宇宙的少女
+    </a>
+    <small class="grey">
+     宇宙をかける少女
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2674
+   </span>
+   <p class="info tip">
+    26话 /  2009-01-05 / 小原正和 / 矢立肇 / 椛岛洋介
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.1
+    </small>
+    <span class="tip_j">
+     (418人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_17677">
+  <a class="subjectCover cover ll" href="/subject/17677">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d5/13/17677_2R125.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/17677">
+     宇宙一直线
+    </a>
+    <small class="grey">
+     宇宙一直線
+    </small>
+   </h3>
+   <p class="info tip">
+    2009年7月18日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.9
+    </small>
+    <span class="tip_j">
+     (27人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_3483">
+  <a class="subjectCover cover ll" href="/subject/3483">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/cb/95/3483_uOq44.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/3483">
+     宇宙战舰大和号 复活编
+    </a>
+    <small class="grey">
+     宇宙戦艦ヤマト 復活篇
+    </small>
+   </h3>
+   <p class="info tip">
+    2009年12月12日 / 西崎義展 / 湖川友謙
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (11人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1764">
+  <a class="subjectCover cover ll" href="/subject/1764">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/94/e4/1764_QDF9l.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1764">
+     浪漫追星社
+    </a>
+    <small class="grey">
+     宙のまにまに
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1370
+   </span>
+   <p class="info tip">
+    12话 /  2009年7月7日 / 柏原麻实「浪漫追星社」（讲谈社「月刊Afternoon」连载） / 渡边はじめ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.1
+    </small>
+    <span class="tip_j">
+     (502人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_10581">
+  <a class="subjectCover cover ll" href="/subject/10581">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/73/60/10581_s3J3J.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/10581">
+     宫本武藏 双剑驰骋之梦
+    </a>
+    <small class="grey">
+     宮本武蔵 -双剣に馳せる夢-
+    </small>
+   </h3>
+   <p class="info tip">
+    2009年6月13日 / 西久保瑞穂 / 中泽一登
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.0
+    </small>
+    <span class="tip_j">
+     (45人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_113810">
+  <a class="subjectCover cover ll" href="/subject/113810">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/9d/69/113810_I82b3.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/113810">
+     富山观光 Anime Project
+    </a>
+    <small class="grey">
+     富山観光アニメプロジェクト
+    </small>
+   </h3>
+   <p class="info tip">
+    6话 /  2009-05-18(中国大陆) / 2009-06-20(日本)
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

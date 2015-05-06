@@ -1,0 +1,645 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_128245">
+  <a class="subjectCover cover ll" href="/subject/128245">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/df/d1/128245_151YG.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/128245">
+     永远永远爱你
+    </a>
+    <small class="grey">
+     あなたをずっとあいしてる
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2015年6月6日
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_121043">
+  <a class="subjectCover cover ll" href="/subject/121043">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/e3/9e/121043_BZtPP.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/121043">
+     いいなり！催眠彼女 ～隷属洗脳・生ハメ性活!!～
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2015/02/13
+   </p>
+   <p class="rateInfo">
+    <span class="sstars4 starsinfo">
+    </span>
+    <small class="fade">
+     3.8
+    </small>
+    <span class="tip_j">
+     (18人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_124185">
+  <a class="subjectCover cover ll" href="/subject/124185">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a1/d9/124185_j5d5i.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/124185">
+     潮与虎
+    </a>
+    <small class="grey">
+     うしおととら
+    </small>
+   </h3>
+   <p class="info tip">
+    2015年7月
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_89488">
+  <a class="subjectCover cover ll" href="/subject/89488">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/e4/8e/89488_jGLiI.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/89488">
+     歌之王子殿下 真爱REVOLUTION
+    </a>
+    <small class="grey">
+     うたの☆プリンスさまっ♪ マジLOVEレボリューションズ
+    </small>
+   </h3>
+   <p class="info tip">
+    12话 /  2015年4月4日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.3
+    </small>
+    <span class="tip_j">
+     (27人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_121003">
+  <a class="subjectCover cover ll" href="/subject/121003">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c8/5f/121003_hxZ5y.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/121003">
+     兔宝的悲惨日常 梦幻篇
+    </a>
+    <small class="grey">
+     うーさーのその日暮らし 夢幻編
+    </small>
+   </h3>
+   <p class="info tip">
+    2015年7月 / 宇佐義大
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_120205">
+  <a class="subjectCover cover ll" href="/subject/120205">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/18/6c/120205_p74iW.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/120205">
+     Exodus!
+    </a>
+    <small class="grey">
+     えくそだすっ!
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1388
+   </span>
+   <p class="info tip">
+    1话 /  2015年2月25日 / 木下誠一（水島努）
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.1
+    </small>
+    <span class="tip_j">
+     (320人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_117558">
+  <a class="subjectCover cover ll" href="/subject/117558">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/2a/2b/117558_HTw6N.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/117558">
+     干支魂
+    </a>
+    <small class="grey">
+     えとたま
+    </small>
+   </h3>
+   <p class="info tip">
+    12话 /  2015年4月9日 / 白組＆タブリエ・コミュニケーションズ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (50人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_106693">
+  <a class="subjectCover cover ll" href="/subject/106693">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/e9/a7/106693_qcUQt.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/106693">
+     学园孤岛
+    </a>
+    <small class="grey">
+     がっこうぐらし!
+    </small>
+   </h3>
+   <p class="info tip">
+    2015年夏
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_120237">
+  <a class="subjectCover cover ll" href="/subject/120237">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b9/6b/120237_Ep6Ed.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/120237">
+     しまじろうと おおきなき
+    </a>
+   </h3>
+   <p class="info tip">
+    1话 /  2015年3月13日 / 平林勇 / 川又浩
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_121881">
+  <a class="subjectCover cover ll" href="/subject/121881">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/8c/d4/121881_mDDCf.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/121881">
+     しゃぶらレンタル エッチなおねえさんとのエロエロレンタルお勉強 THE ANIMATION
+    </a>
+   </h3>
+   <p class="info tip">
+    1话 /  2015/02/27
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     4.5
+    </small>
+    <span class="tip_j">
+     (19人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_118783">
+  <a class="subjectCover cover ll" href="/subject/118783">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a2/a8/118783_zaj1M.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/118783">
+     全部成为F
+    </a>
+    <small class="grey">
+     すべてがFになる
+    </small>
+   </h3>
+   <p class="info tip">
+    2015年 / 神戸守 / 森博嗣
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_121377">
+  <a class="subjectCover cover ll" href="/subject/121377">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c4/5a/121377_58H5h.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/121377">
+     那就是声优！
+    </a>
+    <small class="grey">
+     それが声優！
+    </small>
+   </h3>
+   <p class="info tip">
+    2015年7月 / あさのますみ / 畑健二郎
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_130181">
+  <a class="subjectCover cover ll" href="/subject/130181">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ff/8e/130181_rhHsc.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/130181">
+     拓麻歌子！拓麻朋友大集合GO
+    </a>
+    <small class="grey">
+     たまごっち! たまともだいしゅーGO
+    </small>
+   </h3>
+   <p class="info tip">
+    2015年4月2日
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_109869">
+  <a class="subjectCover cover ll" href="/subject/109869">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/2b/30/109869_w5vOo.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/109869">
+     玉响～毕业写真～
+    </a>
+    <small class="grey">
+     たまゆら～卒業写真～
+    </small>
+   </h3>
+   <p class="info tip">
+    4话 /  2015年5月8日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_125896">
+  <a class="subjectCover cover ll" href="/subject/125896">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/91/1d/125896_j8r4r.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/125896">
+     だんちがい
+    </a>
+   </h3>
+   <p class="info tip">
+    2015年7月 / 米田和佐
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_112838">
+  <a class="subjectCover cover ll" href="/subject/112838">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/8b/b3/112838_q00uu.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/112838">
+     摸索吧！部活剧 第三期
+    </a>
+    <small class="grey">
+     てさぐれ！部活もの すぴんおふ プルプルんシャルムと遊ぼう
+    </small>
+   </h3>
+   <p class="info tip">
+    2015年4月4日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (25人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_91322">
+  <a class="subjectCover cover ll" href="/subject/91322">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c2/39/91322_71Rx1.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/91322">
+     网球少女 4期
+    </a>
+    <small class="grey">
+     てーきゅう 4期
+    </small>
+   </h3>
+   <p class="info tip">
+    2015年4月6日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.0
+    </small>
+    <span class="tip_j">
+     (30人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_126187">
+  <a class="subjectCover cover ll" href="/subject/126187">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/1a/d1/126187_N9bqH.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/126187">
+     なまイキ ～生粋荘（きっすいそう）へようこそ！～ THE ANIMATION
+    </a>
+   </h3>
+   <p class="info tip">
+    1话 /  2015/04/24
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_127172">
+  <a class="subjectCover cover ll" href="/subject/127172">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/73/a2/127172_Dr6l5.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/127172">
+     黏黏糊糊!!角质君 第2期
+    </a>
+    <small class="grey">
+     にゅるにゅる!!KAKUSENくん 第2期
+    </small>
+   </h3>
+   <p class="info tip">
+    2015年4月6日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_121039">
+  <a class="subjectCover cover ll" href="/subject/121039">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/bd/97/121039_A44mD.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/121039">
+     のせわすれ ～女教師中善寺綾乃の淫鬱なこれから～
+    </a>
+   </h3>
+   <p class="info tip">
+    2015/01/02
+   </p>
+   <p class="rateInfo">
+    <span class="sstars4 starsinfo">
+    </span>
+    <small class="fade">
+     3.8
+    </small>
+    <span class="tip_j">
+     (25人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_101442">
+  <a class="subjectCover cover ll" href="/subject/101442">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/8b/6b/101442_aS1XS.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/101442">
+     悠哉日常大王 Repeat
+    </a>
+    <small class="grey">
+     のんのんびより  りぴーと
+    </small>
+   </h3>
+   <p class="info tip">
+    2015年7月
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_116867">
+  <a class="subjectCover cover ll" href="/subject/116867">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f0/77/116867_iaY5B.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/116867">
+     PUNKISS！2次元
+    </a>
+    <small class="grey">
+     ぱんきす!2次元
+    </small>
+   </h3>
+   <p class="info tip">
+    24话 /  2015年1月8日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_126183">
+  <a class="subjectCover cover ll" href="/subject/126183">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/2a/8e/127120_w5f6W.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/126183">
+     ふくびき！トライアングル～双葉もあふた？～ 「壁ドンハメどん双葉丼」（仮）
+    </a>
+   </h3>
+   <p class="info tip">
+    1话 /  2015/03/27
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     4.6
+    </small>
+    <span class="tip_j">
+     (16人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_127806">
+  <a class="subjectCover cover ll" href="/subject/127806">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/af/6e/127806_3RxOl.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/127806">
+     船梨精摇摇摇日和
+    </a>
+    <small class="grey">
+     ふなっしーのふなふなふな日和
+    </small>
+   </h3>
+   <p class="info tip">
+    120话 /  2015年3月30日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

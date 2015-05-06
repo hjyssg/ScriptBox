@@ -1,0 +1,851 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_8995">
+  <a class="subjectCover cover ll" href="/subject/8995">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d4/69/8995_OKZ99.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/8995">
+     呼唤传说！跳吧！朋友！
+    </a>
+    <small class="grey">
+     クレヨンしんちゃん 伝説を呼ぶ 踊れ!アミーゴ!
+    </small>
+   </h3>
+   <p class="info tip">
+    2006-04-15 / ムトウユージ / 臼井儀人 / 原勝徳
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (16人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_4237">
+  <a class="subjectCover cover ll" href="/subject/4237">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/5d/15/4237_vSS36.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/4237">
+     兽爪
+    </a>
+    <small class="grey">
+     ケモノヅメ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    437
+   </span>
+   <p class="info tip">
+    13话 /  2006-08-05 / 汤浅政明
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.8
+    </small>
+    <span class="tip_j">
+     (177人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_514">
+  <a class="subjectCover cover ll" href="/subject/514">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/59/b9/514_vBcyD.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/514">
+     地海传说
+    </a>
+    <small class="grey">
+     ゲド戦記
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2851
+   </span>
+   <p class="info tip">
+    2006年7月29日 / 宮崎吾朗 / アーシュラ・K・ル＝グウィン （『ゲド戦記』）
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.7
+    </small>
+    <span class="tip_j">
+     (297人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1307">
+  <a class="subjectCover cover ll" href="/subject/1307">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f9/38/1307_pXtCP.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1307">
+     星际海盗
+    </a>
+    <small class="grey">
+     コヨーテ ラグタイムショー
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2405
+   </span>
+   <p class="info tip">
+    12话 /  2006年7月3日 / 野中卓也 / ufotable
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.9
+    </small>
+    <span class="tip_j">
+     (65人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_793">
+  <a class="subjectCover cover ll" href="/subject/793">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/da/8c/793_zBrc4.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/793">
+     Code Geass 反叛的鲁路修
+    </a>
+    <small class="grey">
+     コードギアス 反逆のルルーシュ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    62
+   </span>
+   <p class="info tip">
+    25话 /  2006年10月5日 / 谷口悟朗 / 木村貴宏
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.3
+    </small>
+    <span class="tip_j">
+     (4627人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1531">
+  <a class="subjectCover cover ll" href="/subject/1531">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/99/ad/1531_6lLoW.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1531">
+     奇幻贵公子
+    </a>
+    <small class="grey">
+     ゴーストハント
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    919
+   </span>
+   <p class="info tip">
+    25话 /  2006年10月3日 / 真野玲 / 小野不由美 / 岩泷智
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.4
+    </small>
+    <span class="tip_j">
+     (449人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_3603">
+  <a class="subjectCover cover ll" href="/subject/3603">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/6a/80/3603_vTg3v.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/3603">
+     苍之瞳的少女
+    </a>
+    <small class="grey">
+     ザ・サード 〜蒼い瞳の少女〜
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1967
+   </span>
+   <p class="info tip">
+    24话 /  2006年4月13日 / 神谷純 / 星野亮
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.6
+    </small>
+    <span class="tip_j">
+     (151人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_3755">
+  <a class="subjectCover cover ll" href="/subject/3755">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/cd/3b/3755_4w7Fm.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/3755">
+     西蒙
+    </a>
+    <small class="grey">
+     シムーン
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    610
+   </span>
+   <p class="info tip">
+    26话 /  2006-04-03 / 西村純二 / 小山田風狂子／篠吉祥、美原轟 / 西田亜沙子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.6
+    </small>
+    <span class="tip_j">
+     (138人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2083">
+  <a class="subjectCover cover ll" href="/subject/2083">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/3e/9e/2083_Bu6fd.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2083">
+     双面骑士
+    </a>
+    <small class="grey">
+     シュヴァリエ 〜Le Chevalier D'Eon〜
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    660
+   </span>
+   <p class="info tip">
+    24话 /  2006-08-19 / 古桥一浩 / 冲方丁/Production I.G / 尾崎智美
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.6
+    </small>
+    <span class="tip_j">
+     (191人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_72104">
+  <a class="subjectCover cover ll" href="/subject/72104">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/09/42/72104_7Bi7Q.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/72104">
+     ジオグラマトン
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2006-12-15
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.2
+    </small>
+    <span class="tip_j">
+     (13人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2171">
+  <a class="subjectCover cover ll" href="/subject/2171">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f8/e5/2171_cHckK.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2171">
+     天翔少女OVA
+    </a>
+    <small class="grey">
+     スカイガールズ OVA
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1826
+   </span>
+   <p class="info tip">
+    1话 /  2006年8月25日 / 岩崎良明 / 岩仓和宪
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (117人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1878">
+  <a class="subjectCover cover ll" href="/subject/1878">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/dc/5d/1878_Z57hG.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1878">
+     校园迷糊大王 二学期
+    </a>
+    <small class="grey">
+     スクールランブル 二学期
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    251
+   </span>
+   <p class="info tip">
+    26话 /  2006年4月2日 / 金崎貴臣 / 小林尽 / 渡辺はじめ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.9
+    </small>
+    <span class="tip_j">
+     (922人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_48994">
+  <a class="subjectCover cover ll" href="/subject/48994">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/64/66/48994_i6m00.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/48994">
+     星空防卫队 Advance 完结篇
+    </a>
+    <small class="grey">
+     ストラトス・フォー アドヴァンス 完結編
+    </small>
+   </h3>
+   <p class="info tip">
+    2话 /  2006年9月22日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_74467">
+  <a class="subjectCover cover ll" href="/subject/74467">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a5/39/74467_S2yZy.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/74467">
+     ストリンジェンド～エンジェルたちのプライベートレッスン～MY BLOW JOBER
+    </a>
+   </h3>
+   <p class="info tip">
+    12话 /  2006/01/27
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (46人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2813">
+  <a class="subjectCover cover ll" href="/subject/2813">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/39/d3/2813_31Ekf.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2813">
+     惊爆草莓
+    </a>
+    <small class="grey">
+     ストロベリー・パニック
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1496
+   </span>
+   <p class="info tip">
+    26话 /  2006年4月3日 / 迫井政行 / 坂井久太
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.0
+    </small>
+    <span class="tip_j">
+     (425人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_100654">
+  <a class="subjectCover cover ll" href="/subject/100654">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/0a/2e/100654_vR70x.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/100654">
+     蜘蛛骑士
+    </a>
+    <small class="grey">
+     スパイダーライダーズ ～オラクルの勇者たち～
+    </small>
+   </h3>
+   <p class="info tip">
+    26话 /  2006年4月5日 / 真下耕一、石山タカ明 / 岩岡優子
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_3283">
+  <a class="subjectCover cover ll" href="/subject/3283">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c8/19/3283_Z56d3.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/3283">
+     超级机器人大战OG 圣战
+    </a>
+    <small class="grey">
+     スーパーロボット大戦OG -ディバイン・ウォーズ-
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2486
+   </span>
+   <p class="info tip">
+    26话 /  2006-10-04 / 角銅博之 / SRプロデュースチーム / 池田裕治
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.2
+    </small>
+    <span class="tip_j">
+     (150人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1880">
+  <a class="subjectCover cover ll" href="/subject/1880">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/32/14/1880_WwzWl.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1880">
+     零之使魔
+    </a>
+    <small class="grey">
+     ゼロの使い魔
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1540
+   </span>
+   <p class="info tip">
+    13话 /  2006年7月2日 / 岩崎良明 / 山口升
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.0
+    </small>
+    <span class="tip_j">
+     (1902人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_1147">
+  <a class="subjectCover cover ll" href="/subject/1147">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a1/d5/1147_9MBtT.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1147">
+     ZEGAPAIN
+    </a>
+    <small class="grey">
+     ゼーガペイン
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    539
+   </span>
+   <p class="info tip">
+    26话 /  2006年4月6日 / 下田正美 / 矢立肇 伊東岳彦 / 山下明彦
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.7
+    </small>
+    <span class="tip_j">
+     (242人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_57129">
+  <a class="subjectCover cover ll" href="/subject/57129">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/1a/77/57129_iMZ7W.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/57129">
+     战吼
+    </a>
+    <small class="grey">
+     タクティカルロア
+    </small>
+   </h3>
+   <p class="info tip">
+    13话 /  2006年1月7日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2892">
+  <a class="subjectCover cover ll" href="/subject/2892">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/6f/e1/2892_Zt44z.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2892">
+     翼·年代记 第二部
+    </a>
+    <small class="grey">
+     ツバサ・クロニクル 第2シリーズ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1247
+   </span>
+   <p class="info tip">
+    26话 /  2006-04-29 / 真下耕一 / CLAMP / 芝美奈子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.2
+    </small>
+    <span class="tip_j">
+     (534人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_20926">
+  <a class="subjectCover cover ll" href="/subject/20926">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c3/97/20926_j0xxl.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/20926">
+     网球王子 全国大会篇
+    </a>
+    <small class="grey">
+     テニスの王子様 全国大会篇
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1767
+   </span>
+   <p class="info tip">
+    26话 /  2006年3月24日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (281人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_49808">
+  <a class="subjectCover cover ll" href="/subject/49808">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/dc/7d/49808_IiEdF.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/49808">
+     创造性遗传基因
+    </a>
+    <small class="grey">
+     ディープ・イマジネーション -創造する遺伝子たち-
+    </small>
+   </h3>
+   <p class="info tip">
+    2006年6月12日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (14人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_3132">
+  <a class="subjectCover cover ll" href="/subject/3132">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/fb/26/3132_OS87L.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/3132">
+     数码兽拯救者
+    </a>
+    <small class="grey">
+     デジモンセイバーズ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2118
+   </span>
+   <p class="info tip">
+    48话 /  2006-04-02 / 長峯達也 / 本郷あきよし / 青井小夜
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (171人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

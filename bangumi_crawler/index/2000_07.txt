@@ -1,0 +1,716 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_37023">
+  <a class="subjectCover cover ll" href="/subject/37023">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/5b/62/37023_Ymh6L.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/37023">
+     手冢治虫消失了,二十世纪最后之怪事件
+    </a>
+    <small class="grey">
+     手塚治虫が消えた!? 20世紀最後の怪事件
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2000年12月5日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_9617">
+  <a class="subjectCover cover ll" href="/subject/9617">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/3d/a9/9617_j3ryK.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/9617">
+     星界的战旗
+    </a>
+    <small class="grey">
+     星界の戦旗
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    346
+   </span>
+   <p class="info tip">
+    13话 /  2000年4月14日 / 长冈康史 / 森岡浩之（ハヤカワ文庫刊）
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.0
+    </small>
+    <span class="tip_j">
+     (106人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_34515">
+  <a class="subjectCover cover ll" href="/subject/34515">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/17/75/34515_v9BZ3.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/34515">
+     星界的断章 诞生
+    </a>
+    <small class="grey">
+     星界の断章 誕生
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2000年4月7日 / 森岡浩之
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.3
+    </small>
+    <span class="tip_j">
+     (33人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_14880">
+  <a class="subjectCover cover ll" href="/subject/14880">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/5d/25/14880_1ldm9.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/14880">
+     小魔女DoReMi ♯ 愿望之花
+    </a>
+    <small class="grey">
+     映画 おジャ魔女どれみ♯
+    </small>
+   </h3>
+   <p class="info tip">
+    2000年7月8日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.8
+    </small>
+    <span class="tip_j">
+     (32人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_12783">
+  <a class="subjectCover cover ll" href="/subject/12783">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/78/54/12783_QrAHS.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/12783">
+     机巧奇传
+    </a>
+    <small class="grey">
+     機巧奇傳ヒヲウ戦記
+    </small>
+   </h3>
+   <p class="info tip">
+    26话 /  2000年10月24日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_81858">
+  <a class="subjectCover cover ll" href="/subject/81858">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/39/6f/81858_fRqoR.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/81858">
+     淫梦2
+    </a>
+    <small class="grey">
+     淫夢2
+    </small>
+   </h3>
+   <p class="info tip">
+    2话 /  2000/04/28
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_92911">
+  <a class="subjectCover cover ll" href="/subject/92911">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/46/fc/92911_Z7N3M.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/92911">
+     淫夢～生贄の宴～
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2000年1月21日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_14364">
+  <a class="subjectCover cover ll" href="/subject/14364">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/cb/d7/14364_UiU7I.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/14364">
+     炎之迷宫
+    </a>
+    <small class="grey">
+     炎のらびりんす
+    </small>
+   </h3>
+   <p class="info tip">
+    2话 /  2000年9月25日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (13人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_37488">
+  <a class="subjectCover cover ll" href="/subject/37488">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/2d/a5/37488_A1Fvv.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/37488">
+     无敌王
+    </a>
+    <small class="grey">
+     無敵王トライゼノン
+    </small>
+   </h3>
+   <p class="info tip">
+    22话 /  2000年10月14日 / ガンジス企画室
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_105441">
+  <a class="subjectCover cover ll" href="/subject/105441">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/70/76/105441_XtAiz.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/105441">
+     闪耀的姐弟妹
+    </a>
+    <small class="grey">
+     煌きの姉弟妹～SEX CRIME～
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2000
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2784">
+  <a class="subjectCover cover ll" href="/subject/2784">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ae/ef/2784_DiZ0d.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2784">
+     犬夜叉
+    </a>
+    <small class="grey">
+     犬夜叉
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    605
+   </span>
+   <p class="info tip">
+    167话 /  2000-10-16 / 池田成、青木康直
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.6
+    </small>
+    <span class="tip_j">
+     (1159人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_25919">
+  <a class="subjectCover cover ll" href="/subject/25919">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c5/f5/25919_5G0LS.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/25919">
+     真盖塔VS新盖塔
+    </a>
+    <small class="grey">
+     真ゲッターロボ対ネオゲッターロボ
+    </small>
+   </h3>
+   <p class="info tip">
+    4话 /  2000年12月21日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (41人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_40380">
+  <a class="subjectCover cover ll" href="/subject/40380">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/73/43/40380_IL3Cb.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/40380">
+     真女神转生 恶魔之子
+    </a>
+    <small class="grey">
+     真・女神転生 デビルチルドレン
+    </small>
+   </h3>
+   <p class="info tip">
+    50话 /  2000年10月7日 / 竹内启雄 / ATLUS
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.1
+    </small>
+    <span class="tip_j">
+     (33人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_81853">
+  <a class="subjectCover cover ll" href="/subject/81853">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/90/65/81853_ByuA8.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/81853">
+     真・瑠璃色の雪
+    </a>
+   </h3>
+   <p class="info tip">
+    4话 /  2000/12/22
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_91210">
+  <a class="subjectCover cover ll" href="/subject/91210">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/72/c8/91210_UnJT7.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/91210">
+     瞳裸
+    </a>
+   </h3>
+   <p class="info tip">
+    4话 /  2000/02/28
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_21233">
+  <a class="subjectCover cover ll" href="/subject/21233">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/55/c6/21233_M1MdP.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/21233">
+     魔卡少女樱 知世的活跃日记
+    </a>
+    <small class="grey">
+     知世のカードキャプターさくら活躍ビデオ日記!
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1326
+   </span>
+   <p class="info tip">
+    3话 /  2000年
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.1
+    </small>
+    <span class="tip_j">
+     (91人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_62260">
+  <a class="subjectCover cover ll" href="/subject/62260">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/24/4d/62260_Pah2Y.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/62260">
+     続・御先祖賛江
+    </a>
+   </h3>
+   <p class="info tip">
+    4话 /  2000 / 梶島正樹
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.6
+    </small>
+    <span class="tip_j">
+     (13人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_93341">
+  <a class="subjectCover cover ll" href="/subject/93341">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a9/9d/93341_V9M22.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/93341">
+     緊縛の館 ～略奪～
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2000年2月18日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_72304">
+  <a class="subjectCover cover ll" href="/subject/72304">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/9c/20/72304_ugUgS.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/72304">
+     圣贽
+    </a>
+    <small class="grey">
+     聖贄
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2000/03/17
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_63024">
+  <a class="subjectCover cover ll" href="/subject/63024">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/2d/3a/63024_3299t.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/63024">
+     胁迫——无终之明日：THE ANIMATION
+    </a>
+    <small class="grey">
+     脅迫 ～終わらない明日～ THE ANIMATION
+    </small>
+   </h3>
+   <p class="info tip">
+    3话 /  2000/01/14
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.6
+    </small>
+    <span class="tip_j">
+     (17人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_69435">
+  <a class="subjectCover cover ll" href="/subject/69435">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/7b/d9/69435_X3uR1.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/69435">
+     臭作 Replay
+    </a>
+    <small class="grey">
+     臭作 ～Replay～
+    </small>
+   </h3>
+   <p class="info tip">
+    4话 /  2000-07-28
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.0
+    </small>
+    <span class="tip_j">
+     (26人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_74479">
+  <a class="subjectCover cover ll" href="/subject/74479">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/2a/60/74479_pqU58.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/74479">
+     警備員
+    </a>
+   </h3>
+   <p class="info tip">
+    3话 /  2000/11/24
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_106696">
+  <a class="subjectCover cover ll" href="/subject/106696">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/8a/fc/106696_lkDOr.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/106696">
+     超人洛克 镜之戒
+    </a>
+    <small class="grey">
+     超人ロック～ミラーリング～
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2000年12月22日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_6390">
+  <a class="subjectCover cover ll" href="/subject/6390">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/72/98/6390_O1sB0.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/6390">
+     游戏王
+    </a>
+    <small class="grey">
+     遊☆戯☆王デュエルモンスターズ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    247
+   </span>
+   <p class="info tip">
+    224话 /  2000年4月18日 / 杉島邦久 / 高橋和希
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.0
+    </small>
+    <span class="tip_j">
+     (621人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

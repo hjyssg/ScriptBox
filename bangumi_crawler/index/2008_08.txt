@@ -1,0 +1,812 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_41888">
+  <a class="subjectCover cover ll" href="/subject/41888">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/32/f1/41888_DiJVU.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/41888">
+     生化危机 恶化
+    </a>
+    <small class="grey">
+     バイオハザード ディジェネレーション
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1759
+   </span>
+   <p class="info tip">
+    2008年10月17日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (186人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_55144">
+  <a class="subjectCover cover ll" href="/subject/55144">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f4/d0/55144_L99JZ.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/55144">
+     战斗之魂 少年突破马神
+    </a>
+    <small class="grey">
+     バトルスピリッツ 少年突破バシン
+    </small>
+   </h3>
+   <p class="info tip">
+    50话 /  2008年9月7日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2942">
+  <a class="subjectCover cover ll" href="/subject/2942">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/2a/0f/2942_IiH8j.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2942">
+     虎子
+    </a>
+    <small class="grey">
+     ヒャッコ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1954
+   </span>
+   <p class="info tip">
+    13话 /  2008-10-1 / 福田道生 / カトウハルアキ / 太田恵子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (232人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_3515">
+  <a class="subjectCover cover ll" href="/subject/3515">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/5f/ef/3515_BzB05.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/3515">
+     火球
+    </a>
+    <small class="grey">
+     ファイアボール
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    744
+   </span>
+   <p class="info tip">
+    13话 /  2008年4月7日 / 荒川航 / 福地仁
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (293人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_113232">
+  <a class="subjectCover cover ll" href="/subject/113232">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c7/92/113232_2CSBM.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/113232">
+     小野猫
+    </a>
+    <small class="grey">
+     プッシーキャット
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2008年12月8日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_771">
+  <a class="subjectCover cover ll" href="/subject/771">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b7/ee/771_K344u.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/771">
+     女神异闻录 -圣洁之魂-
+    </a>
+    <small class="grey">
+     ペルソナ 〜トリニティ・ソウル〜
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1951
+   </span>
+   <p class="info tip">
+    26话 /  2008年1月5日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (386人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2487">
+  <a class="subjectCover cover ll" href="/subject/2487">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/6a/4c/2487_Ma5s4.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2487">
+     企鹅娘
+    </a>
+    <small class="grey">
+     ペンギン娘♥はぁと
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2217
+   </span>
+   <p class="info tip">
+    22话 /  2008年4月19日 / 松井一之 / 高桥哲也 / 水上RONDO
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (158人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_90614">
+  <a class="subjectCover cover ll" href="/subject/90614">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/11/0c/90614_gg4Fv.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/90614">
+     神奇宝贝：皮卡丘冰之大冒险
+    </a>
+    <small class="grey">
+     ポケットモンスター ダイヤモンド・パール ピカチュウ 氷の大冒険
+    </small>
+   </h3>
+   <p class="info tip">
+    2008年8月1日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_9908">
+  <a class="subjectCover cover ll" href="/subject/9908">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/51/5b/9908_49GRE.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/9908">
+     波菲的漫长旅程
+    </a>
+    <small class="grey">
+     ポルフィの長い旅
+    </small>
+   </h3>
+   <p class="info tip">
+    52话 /  2008年1月6日 / 望月智充 / ポール・ジャック・ボンゾン「シミトラの孤児たち」 / 赤堀重雄
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_236">
+  <a class="subjectCover cover ll" href="/subject/236">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/01/16/236_0WBIE.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/236">
+     超时空要塞Frontier
+    </a>
+    <small class="grey">
+     マクロスFrontier
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    859
+   </span>
+   <p class="info tip">
+    25话 /  2008年4月3日 / 河森正治（总监督）、菊池康仁 / 河森正治 / 江端里沙、高桥裕一
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.4
+    </small>
+    <span class="tip_j">
+     (1777人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_919">
+  <a class="subjectCover cover ll" href="/subject/919">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/3e/89/919_2yj4O.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/919">
+     道子与哈金
+    </a>
+    <small class="grey">
+     ミチコとハッチン
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    557
+   </span>
+   <p class="info tip">
+    22话 /  2008年10月15日 / 山本沙代 / manglobe / 清水洋
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.6
+    </small>
+    <span class="tip_j">
+     (335人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_2888">
+  <a class="subjectCover cover ll" href="/subject/2888">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/48/8c/2888_BOJKI.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2888">
+     棒球大联盟 第四季
+    </a>
+    <small class="grey">
+     メジャー 第4シリーズ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    923
+   </span>
+   <p class="info tip">
+    26话 /  2008年1月5日 / 满田拓也
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.4
+    </small>
+    <span class="tip_j">
+     (59人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_7244">
+  <a class="subjectCover cover ll" href="/subject/7244">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/46/40/7244_JEZMU.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/7244">
+     幻影少年
+    </a>
+    <small class="grey">
+     モノクローム・ファクター
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2645
+   </span>
+   <p class="info tip">
+    24话 /  2008年4月 / 紅優 / 空廼カイリ / 須賀重行
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.1
+    </small>
+    <span class="tip_j">
+     (265人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_53785">
+  <a class="subjectCover cover ll" href="/subject/53785">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/6e/18/53785_4F7f1.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/53785">
+     小双侠
+    </a>
+    <small class="grey">
+     ヤッターマン
+    </small>
+   </h3>
+   <p class="info tip">
+    62话 /  2008年1月14日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_98370">
+  <a class="subjectCover cover ll" href="/subject/98370">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d8/74/98370_IJ21j.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/98370">
+     卡片斗士翔
+    </a>
+    <small class="grey">
+     ライブオン CARDLIVER 翔
+    </small>
+   </h3>
+   <p class="info tip">
+    51话 /  2008年10月5日
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_80196">
+  <a class="subjectCover cover ll" href="/subject/80196">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a8/fb/80196_n5Hiq.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/80196">
+     鲁邦三世 绿VS红
+    </a>
+    <small class="grey">
+     ルパン三世 GREEN vs RED
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2008年4月2日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_84998">
+  <a class="subjectCover cover ll" href="/subject/84998">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/9d/ac/84998_6IwhE.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/84998">
+     鲁邦三世 sweet lost night~魔法的神灯是噩梦的预感~
+    </a>
+    <small class="grey">
+     ルパン三世 sweet lost night 〜魔法のランプは悪夢の予感〜
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2008年7月25日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_75217">
+  <a class="subjectCover cover ll" href="/subject/75217">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/28/ee/75217_eHeC0.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/75217">
+     レイプ！レイプ！レイプ！
+    </a>
+   </h3>
+   <p class="info tip">
+    3话 /  2008/10/17
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.3
+    </small>
+    <span class="tip_j">
+     (24人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2474">
+  <a class="subjectCover cover ll" href="/subject/2474">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/0b/f7/2474_1rx51.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2474">
+     十字架与吸血鬼
+    </a>
+    <small class="grey">
+     ロザリオとバンパイア
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2677
+   </span>
+   <p class="info tip">
+    13话 /  2008年1月3日 / 稻垣隆行 / 池田晃久 / 藤田真理子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.2
+    </small>
+    <span class="tip_j">
+     (694人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_2475">
+  <a class="subjectCover cover ll" href="/subject/2475">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/fe/c8/2475_4Cu9m.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2475">
+     十字架与吸血鬼 CAPU2
+    </a>
+    <small class="grey">
+     ロザリオとバンパイア CAPU2
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2456
+   </span>
+   <p class="info tip">
+    13话 /  2008-10-01 / 稲垣隆行 / 池田晃久 / 藤田まり子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (481人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2087">
+  <a class="subjectCover cover ll" href="/subject/2087">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/4d/6b/2087_120tM.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2087">
+     毁灭世界的六人
+    </a>
+    <small class="grey">
+     ワールド・デストラクション 世界撲滅の六人
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2582
+   </span>
+   <p class="info tip">
+    13话 /  2008年7月7日 / 多田俊介 / SEGA / 松元圭太
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.2
+    </small>
+    <span class="tip_j">
+     (424人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1970">
+  <a class="subjectCover cover ll" href="/subject/1970">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/00/04/1970_2306k.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1970">
+     吸血鬼骑士
+    </a>
+    <small class="grey">
+     ヴァンパイア騎士
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2482
+   </span>
+   <p class="info tip">
+    13话 /  2008年4月7日 / 佐山圣子 / 樋野茉理 / 西田亚沙子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (975人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_1971">
+  <a class="subjectCover cover ll" href="/subject/1971">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/de/73/1971_573M3.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1971">
+     吸血鬼骑士 Guilty
+    </a>
+    <small class="grey">
+     ヴァンパイア騎士 Guilty
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2422
+   </span>
+   <p class="info tip">
+    13话 /  2008年10月6日 / 佐山圣子 / 樋野まつり（白泉社　「月刊LaLa」连载中） / 西田亚沙子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (796人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_4841">
+  <a class="subjectCover cover ll" href="/subject/4841">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/05/ee/4841_EbbI3.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/4841">
+     一骑当千 Great Guardians
+    </a>
+    <small class="grey">
+     一騎当千 Great Guardians
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2604
+   </span>
+   <p class="info tip">
+    12话 /  2008年6月11日 / 大畑晃一 / 塩崎雄二（ワニブックス刊「月刊ComicGUM」連載中） / りんしん
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.1
+    </small>
+    <span class="tip_j">
+     (234人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

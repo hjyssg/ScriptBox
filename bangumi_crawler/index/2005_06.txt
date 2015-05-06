@@ -1,0 +1,806 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_16357">
+  <a class="subjectCover cover ll" href="/subject/16357">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/22/91/16357_Q21s1.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/16357">
+     玻璃兔
+    </a>
+    <small class="grey">
+     ガラスのうさぎ
+    </small>
+   </h3>
+   <p class="info tip">
+    2005年5月14日 / 高木敏子（金の星社・刊）
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.8
+    </small>
+    <span class="tip_j">
+     (10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1961">
+  <a class="subjectCover cover ll" href="/subject/1961">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f1/06/1961_exU0B.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1961">
+     玻璃假面
+    </a>
+    <small class="grey">
+     ガラスの仮面
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    785
+   </span>
+   <p class="info tip">
+    51话 /  2005年4月25日 / 浜津守 / 平山智
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (106人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_8539">
+  <a class="subjectCover cover ll" href="/subject/8539">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/61/87/8539_Rr7gu.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/8539">
+     枪心剑刃
+    </a>
+    <small class="grey">
+     ガン×ソード
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    832
+   </span>
+   <p class="info tip">
+    26话 /  2005年7月4日 / 谷口悟朗 / 木村贵宏
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.4
+    </small>
+    <span class="tip_j">
+     (170人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_30522">
+  <a class="subjectCover cover ll" href="/subject/30522">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/bf/30/30522_lhOPp.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/30522">
+     高机动幻想GPO 第二季
+    </a>
+    <small class="grey">
+     ガンパレード・オーケストラ
+    </small>
+   </h3>
+   <p class="info tip">
+    24话 /  2005年10月 / SCEI
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_10582">
+  <a class="subjectCover cover ll" href="/subject/10582">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/10/6f/10582_yuzGk.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/10582">
+     奇诺之旅 活着的目标 -life goes on.-
+    </a>
+    <small class="grey">
+     キノの旅 何かをするために -life goes on.-
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    628
+   </span>
+   <p class="info tip">
+    2005年2月19日 / 渡部高志 / 时雨泽惠一 / 须贺重行
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.6
+    </small>
+    <span class="tip_j">
+     (189人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_13448">
+  <a class="subjectCover cover ll" href="/subject/13448">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/77/da/13448_kgTYV.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/13448">
+     奇诺之旅 塔之国 -Free Lance-
+    </a>
+    <small class="grey">
+     キノの旅 塔の国 -Free Lance-
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    617
+   </span>
+   <p class="info tip">
+    1话 /  2005年3月30日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.6
+    </small>
+    <span class="tip_j">
+     (194人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2461">
+  <a class="subjectCover cover ll" href="/subject/2461">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/cf/05/2461_6ptUG.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2461">
+     搞笑漫画日和
+    </a>
+    <small class="grey">
+     ギャグマンガ日和
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    72
+   </span>
+   <p class="info tip">
+    12话 /  2005年2月7日 / 大地丙太郎 / 増田こうすけ（集英社 「月刊少年JUMP」连载）
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.3
+    </small>
+    <span class="tip_j">
+     (2332人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_8294">
+  <a class="subjectCover cover ll" href="/subject/8294">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ac/ea/8294_0xJ00.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/8294">
+     王牌鉴定人
+    </a>
+    <small class="grey">
+     ギャラリーフェイク
+    </small>
+   </h3>
+   <p class="info tip">
+    37话 /  2005年1月8日 / 細野不二彦 / 佐々木敏子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.4
+    </small>
+    <span class="tip_j">
+     (29人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_8993">
+  <a class="subjectCover cover ll" href="/subject/8993">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/47/84/8993_cLCIM.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/8993">
+     蜡笔小新 呼唤传说！三分钟嘎巴大进攻
+    </a>
+    <small class="grey">
+     クレヨンしんちゃん 伝説を呼ぶブリブリ 3分ポッキリ大進撃
+    </small>
+   </h3>
+   <p class="info tip">
+    2005-04-16 / ムトウユージ / 臼井儀人 / 原勝徳
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (18人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_37413">
+  <a class="subjectCover cover ll" href="/subject/37413">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b0/c3/37413_e5tyO.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/37413">
+     梦幻骑士IV 时之旅人
+    </a>
+    <small class="grey">
+     グローランサーIV ~Wayfarer of the time~
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2005年3月10日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_10160">
+  <a class="subjectCover cover ll" href="/subject/10160">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d1/32/10160_DBHXh.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/10160">
+     魔界女王候补生
+    </a>
+    <small class="grey">
+     シュガシュガルーン
+    </small>
+   </h3>
+   <p class="info tip">
+    51话 /  2005-07-02 / ユキヒロマツシタ / 安野モヨコ / 大竹紀子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.9
+    </small>
+    <span class="tip_j">
+     (41人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1877">
+  <a class="subjectCover cover ll" href="/subject/1877">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f3/1b/1877_IKkll.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1877">
+     校园迷糊大王 一学期补习
+    </a>
+    <small class="grey">
+     スクールランブル 一学期補習
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    427
+   </span>
+   <p class="info tip">
+    2话 /  2005年12月22日 / 高松信司 / 小林尽 / 渡辺はじめ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.7
+    </small>
+    <span class="tip_j">
+     (514人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2282">
+  <a class="subjectCover cover ll" href="/subject/2282">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d6/bc/2282_NoN7T.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2282">
+     星舰驾驶员
+    </a>
+    <small class="grey">
+     スターシップ・オペレーターズ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    951
+   </span>
+   <p class="info tip">
+    13话 /  2005年1月5日 / 渡部高志 / 水野良
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.4
+    </small>
+    <span class="tip_j">
+     (116人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_48992">
+  <a class="subjectCover cover ll" href="/subject/48992">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/11/f1/48992_kdGmz.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/48992">
+     星空防卫队 Advance
+    </a>
+    <small class="grey">
+     ストラトス・フォー アドヴァンス
+    </small>
+   </h3>
+   <p class="info tip">
+    6话 /  2005年3月25日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (11人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_72835">
+  <a class="subjectCover cover ll" href="/subject/72835">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b7/d7/72835_Nx7nn.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/72835">
+     街头霸王阿尔法：世代
+    </a>
+    <small class="grey">
+     ストリートファイターALPHAジェネレーション
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2005年10月25日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_3284">
+  <a class="subjectCover cover ll" href="/subject/3284">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c1/d0/3284_UAAaJ.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/3284">
+     超级机器人大战OG THE ANIMATION
+    </a>
+    <small class="grey">
+     スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2347
+   </span>
+   <p class="info tip">
+    3话 /  2005-10-05 / 川越淳 / 帕佈雷斯特 / 田中良
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.1
+    </small>
+    <span class="tip_j">
+     (83人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_7365">
+  <a class="subjectCover cover ll" href="/subject/7365">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/95/c8/7365_D434H.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/7365">
+     四圣兽 ～几千个昼与夜篇～
+    </a>
+    <small class="grey">
+     セイント・ビースト ～幾千の昼と夜 編～
+    </small>
+   </h3>
+   <p class="info tip">
+    2话 /  2005-12-17 / 迫井政行 / 有栖川ケイ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.0
+    </small>
+    <span class="tip_j">
+     (37人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_10421">
+  <a class="subjectCover cover ll" href="/subject/10421">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/84/93/10421_kw786.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/10421">
+     机兽起源
+    </a>
+    <small class="grey">
+     ゾイドジェネシス
+    </small>
+   </h3>
+   <p class="info tip">
+    50话 /  2005年4月10日 / 水野和則 / 坂井久太
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (30人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_6804">
+  <a class="subjectCover cover ll" href="/subject/6804">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a3/22/6804_AYyy2.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/6804">
+     蓝色潮痕
+    </a>
+    <small class="grey">
+     タイドライン・ブルー
+    </small>
+   </h3>
+   <p class="info tip">
+    13话 /  2005年7月30日 / 饭田马之介 / 小泽さとる·饭田马之介
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.2
+    </small>
+    <span class="tip_j">
+     (33人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_2891">
+  <a class="subjectCover cover ll" href="/subject/2891">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/7a/00/2891_xXxME.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2891">
+     翼·年代记
+    </a>
+    <small class="grey">
+     ツバサ・クロニクル
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1373
+   </span>
+   <p class="info tip">
+    26话 /  2005-04-09 / 真下耕一 / CLAMP / 芝美奈子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.1
+    </small>
+    <span class="tip_j">
+     (808人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_37503">
+  <a class="subjectCover cover ll" href="/subject/37503">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/01/47/37503_7Znb1.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/37503">
+     机械恐龙DICE
+    </a>
+    <small class="grey">
+     ディノブレイカー
+    </small>
+   </h3>
+   <p class="info tip">
+    40话 /  2005年12月6日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_80545">
+  <a class="subjectCover cover ll" href="/subject/80545">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/0b/42/80545_06AKR.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/80545">
+     变形金刚 银河之力
+    </a>
+    <small class="grey">
+     トランスフォーマー ギャラクシーフォース
+    </small>
+   </h3>
+   <p class="info tip">
+    52话 /  2005年1月8日 / TAKARATOMY
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_1982">
+  <a class="subjectCover cover ll" href="/subject/1982">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/fb/87/1982_Jlijj.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1982">
+     圣魔之血
+    </a>
+    <small class="grey">
+     トリニティ・ブラッド
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1351
+   </span>
+   <p class="info tip">
+    24话 /  2005年4月28日 / 平田智浩 / 吉田直 / 中嶋敦子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.1
+    </small>
+    <span class="tip_j">
+     (657人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_18692">
+  <a class="subjectCover cover ll" href="/subject/18692">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b4/4f/18692_E04qh.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/18692">
+     哆啦A梦
+    </a>
+    <small class="grey">
+     ドラえもん
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    74
+   </span>
+   <p class="info tip">
+    2005年4月15日 / 藤子・F・不二雄
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.3
+    </small>
+    <span class="tip_j">
+     (567人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

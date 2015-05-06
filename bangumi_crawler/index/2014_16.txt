@@ -1,0 +1,715 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_93716">
+  <a class="subjectCover cover ll" href="/subject/93716">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f2/50/93716_7OVbc.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/93716">
+     剧场版 GOGO佑都
+    </a>
+    <small class="grey">
+     劇場版 ゆうとくんがいく
+    </small>
+   </h3>
+   <p class="info tip">
+    2014年5月31日
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_98294">
+  <a class="subjectCover cover ll" href="/subject/98294">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/cb/18/98294_YZcCP.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/98294">
+     偶像活动 剧场版
+    </a>
+    <small class="grey">
+     劇場版 アイカツ!
+    </small>
+   </h3>
+   <p class="info tip">
+    2014年12月13日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_107200">
+  <a class="subjectCover cover ll" href="/subject/107200">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ac/86/107200_Kw0Dh.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/107200">
+     剧场版 卡片战斗先导者 Neon Messiah
+    </a>
+    <small class="grey">
+     劇場版 カードファイト!! ヴァンガード ネオンメサイア
+    </small>
+   </h3>
+   <p class="info tip">
+    2014-09-13
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_91273">
+  <a class="subjectCover cover ll" href="/subject/91273">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/08/fc/91273_LCKcE.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/91273">
+     剧场版 美妙旋律・全明星选拔 绫镜時尚秀☆BEST 10
+    </a>
+    <small class="grey">
+     劇場版 プリティーリズム・オールスターセレクション プリズムショー☆ベストテ
+    </small>
+   </h3>
+   <p class="info tip">
+    2014年3月8日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_100665">
+  <a class="subjectCover cover ll" href="/subject/100665">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/aa/d9/100665_1xJi6.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/100665">
+     剧场版 机器人少女Z
+    </a>
+    <small class="grey">
+     劇場版 ロボットガールズZ
+    </small>
+   </h3>
+   <p class="info tip">
+    2014年5月31日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_81846">
+  <a class="subjectCover cover ll" href="/subject/81846">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/3a/fd/81846_yxsfx.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/81846">
+     薄樱鬼 第二章 士魂苍穹
+    </a>
+    <small class="grey">
+     劇場版 薄桜鬼 第二章 士魂蒼穹
+    </small>
+   </h3>
+   <p class="info tip">
+    2014年3月8日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (41人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_101266">
+  <a class="subjectCover cover ll" href="/subject/101266">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/39/17/101266_JUJPO.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/101266">
+     剧场版 进击的巨人 前篇～红莲的弓矢～
+    </a>
+    <small class="grey">
+     劇場版「進​撃の巨人」前編～紅蓮の弓矢～
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2106
+   </span>
+   <p class="info tip">
+    2014年11月22日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.2
+    </small>
+    <span class="tip_j">
+     (60人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_95790">
+  <a class="subjectCover cover ll" href="/subject/95790">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/8d/20/95790_cCF8r.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/95790">
+     巧虎剧场版 老虎仔乐园 鲸之歌
+    </a>
+    <small class="grey">
+     劇場版しまじろうのわお！ しまじろうとくじらのうた
+    </small>
+   </h3>
+   <p class="info tip">
+    2014年3月14日 / 平林勇
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_100565">
+  <a class="subjectCover cover ll" href="/subject/100565">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f2/a1/100565_9595F.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/100565">
+     功夫兔与菜包狗
+    </a>
+    <small class="grey">
+     功夫兔与菜包狗 第一季
+    </small>
+   </h3>
+   <p class="info tip">
+    12话 /  2014年3月20日 / 李智勇
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.2
+    </small>
+    <span class="tip_j">
+     (42人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_83915">
+  <a class="subjectCover cover ll" href="/subject/83915">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/7d/b7/83915_C1IeR.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/83915">
+     当不成勇者的我，只好认真找工作了。 OAD
+    </a>
+    <small class="grey">
+     勇者になれなかった俺はしぶしぶ就職を決意しました。 OAD
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2394
+   </span>
+   <p class="info tip">
+    1话 /  2014年3月6日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.1
+    </small>
+    <span class="tip_j">
+     (88人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_93258">
+  <a class="subjectCover cover ll" href="/subject/93258">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/76/ab/93258_wK6Ca.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/93258">
+     十三支演义 偃月三国传
+    </a>
+    <small class="grey">
+     十三支演義 〜偃月三国伝〜
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2014年11月28日 / レッド・エンタテインメント
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     4.7
+    </small>
+    <span class="tip_j">
+     (29人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_113486">
+  <a class="subjectCover cover ll" href="/subject/113486">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b8/b7/113486_Mr5Gr.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/113486">
+     十九国
+    </a>
+    <small class="grey">
+     十九国
+    </small>
+   </h3>
+   <p class="info tip">
+    2014-6-8
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_130800">
+  <a class="subjectCover cover ll" href="/subject/130800">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b8/49/130800_RjnJ6.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/130800">
+     十二生肖城市英雄
+    </a>
+   </h3>
+   <p class="info tip">
+    1话 /  2014年10月3日 / 葛海涛
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_97561">
+  <a class="subjectCover cover ll" href="/subject/97561">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/53/6c/97561_BzP68.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/97561">
+     南之岛的德拉酱
+    </a>
+    <small class="grey">
+     南の島のデラちゃん
+    </small>
+   </h3>
+   <p class="info tip">
+    2014年4月26日 / 山田尚子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (38人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_120902">
+  <a class="subjectCover cover ll" href="/subject/120902">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/0d/80/120902_zlE4p.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/120902">
+     受胎島
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2014/12/19
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.2
+    </small>
+    <span class="tip_j">
+     (31人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_99809">
+  <a class="subjectCover cover ll" href="/subject/99809">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/eb/68/99809_424aq.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/99809">
+     享用罗德斯岛战记
+    </a>
+    <small class="grey">
+     召しませロードス島戦記 それっておいしいの？
+    </small>
+   </h3>
+   <p class="info tip">
+    13话 /  2014年4月6日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.4
+    </small>
+    <span class="tip_j">
+     (27人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_99906">
+  <a class="subjectCover cover ll" href="/subject/99906">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/9d/15/99906_LjVMQ.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/99906">
+     史上最强弟子兼一 暗之袭击
+    </a>
+    <small class="grey">
+     史上最強の弟子ケンイチ ～闇の襲撃～
+    </small>
+   </h3>
+   <p class="info tip">
+    11话 /  2014年4月8日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.0
+    </small>
+    <span class="tip_j">
+     (47人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_89279">
+  <a class="subjectCover cover ll" href="/subject/89279">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/0b/5b/89279_34AY4.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/89279">
+     名侦探柯南 异次元的狙击手
+    </a>
+    <small class="grey">
+     名探偵コナン 異次元の狙撃手
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2488
+   </span>
+   <p class="info tip">
+    1话 /  2014年4月19日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (374人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_84506">
+  <a class="subjectCover cover ll" href="/subject/84506">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d0/26/84506_4ppPO.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/84506">
+     有你的小镇 OAD
+    </a>
+    <small class="grey">
+     君のいる町 OAD
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2319
+   </span>
+   <p class="info tip">
+    2话 /  2014年1月17日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.2
+    </small>
+    <span class="tip_j">
+     (82人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_119086">
+  <a class="subjectCover cover ll" href="/subject/119086">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/6f/c1/119086_SvEsB.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/119086">
+     告白实行委员会
+    </a>
+    <small class="grey">
+     告白実行委員会 ヤキモチの答え ショートストーリー
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2014年11月26日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (46人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_126798">
+  <a class="subjectCover cover ll" href="/subject/126798">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/45/26/126798_O8ABO.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/126798">
+     告白実行委員会 告白予行練習 ショートストーリー
+    </a>
+   </h3>
+   <p class="info tip">
+    1话 /  2014/1/29
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (12人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_52606">
+  <a class="subjectCover cover ll" href="/subject/52606">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/50/fa/52606_detm8.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/52606">
+     天才麻将少女 全国篇
+    </a>
+    <small class="grey">
+     咲-Saki- 全国編
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    669
+   </span>
+   <p class="info tip">
+    13话 /  2014年1月5日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (1084人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_90349">
+  <a class="subjectCover cover ll" href="/subject/90349">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/35/f6/90349_SnIhM.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/90349">
+     喜羊羊与灰太狼之飞马奇遇记
+    </a>
+   </h3>
+   <p class="info tip">
+    2014年1月16日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_104350">
+  <a class="subjectCover cover ll" href="/subject/104350">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/00/66/104350_38XBY.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/104350">
+     喰ヒ人 ツンデレストッキング・琴音 ～乱れ尻ハメ乗り2穴～
+    </a>
+   </h3>
+   <p class="info tip">
+    2014年6月27日 / Tinker bell
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     4.8
+    </small>
+    <span class="tip_j">
+     (35人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

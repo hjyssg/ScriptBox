@@ -1,0 +1,810 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_3158">
+  <a class="subjectCover cover ll" href="/subject/3158">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/55/d9/3158_vePZ4.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/3158">
+     空罐少女！千罐一发！？温泉危机
+    </a>
+    <small class="grey">
+     アキカン! カン一発!?温泉パニック
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2716
+   </span>
+   <p class="info tip">
+    1话 /  2009-10-23 / 日卷裕二 / 蓝上陆 / 田中良
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.8
+    </small>
+    <span class="tip_j">
+     (141人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1182">
+  <a class="subjectCover cover ll" href="/subject/1182">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f4/73/1182_37tgx.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1182">
+     空罐少女
+    </a>
+    <small class="grey">
+     アキカン！
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2913
+   </span>
+   <p class="info tip">
+    12话 /  2009年1月3日 / 日卷裕二 / 蓝上陆 / 田中良
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.6
+    </small>
+    <span class="tip_j">
+     (609人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_86861">
+  <a class="subjectCover cover ll" href="/subject/86861">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/e3/84/86861_00F8C.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/86861">
+     收容所之战
+    </a>
+    <small class="grey">
+     アジール・セッション
+    </small>
+   </h3>
+   <p class="info tip">
+    2009年7月25日 / アオキタクト
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1436">
+  <a class="subjectCover cover ll" href="/subject/1436">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ea/a3/1436_S6699.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1436">
+     机巧魔神
+    </a>
+    <small class="grey">
+     アスラクライン
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2331
+   </span>
+   <p class="info tip">
+    13话 /  2009年4月2日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (378人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2610">
+  <a class="subjectCover cover ll" href="/subject/2610">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/8d/c5/2610_32q23.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2610">
+     机巧魔神2
+    </a>
+    <small class="grey">
+     アスラクライン2
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1966
+   </span>
+   <p class="info tip">
+    13话 /  2009年10月1日 / 三云岳斗(电击文库/アスキー・メディアワークス刊)
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (276人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1593">
+  <a class="subjectCover cover ll" href="/subject/1593">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/06/a8/1593_DjJ48.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1593">
+     阿拉德战记
+    </a>
+    <small class="grey">
+     アラド戦記 〜スラップアップパーティー〜
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2932
+   </span>
+   <p class="info tip">
+    26话 /  2009年4月3日 / NEOPLE/NEXON
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.2
+    </small>
+    <span class="tip_j">
+     (224人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_113564">
+  <a class="subjectCover cover ll" href="/subject/113564">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/04/69/113564_1sO52.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/113564">
+     ウチュレイ!
+    </a>
+   </h3>
+   <p class="info tip">
+    12话 /  2009
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_98431">
+  <a class="subjectCover cover ll" href="/subject/98431">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c2/ce/98431_Z5F5F.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/98431">
+     EXILE战国
+    </a>
+    <small class="grey">
+     エグザムライ戦国
+    </small>
+   </h3>
+   <p class="info tip">
+    24话 /  2009年1月10日 / 竹内哲雄 / 佐藤正樹
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_70430">
+  <a class="subjectCover cover ll" href="/subject/70430">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/da/30/70430_fHVhb.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/70430">
+     エルフの双子姫
+    </a>
+   </h3>
+   <p class="info tip">
+    1话 /  2009/07/31
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     4.9
+    </small>
+    <span class="tip_j">
+     (16人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1761">
+  <a class="subjectCover cover ll" href="/subject/1761">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/72/83/1761_zQmfM.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1761">
+     元素猎人
+    </a>
+    <small class="grey">
+     エレメントハンター
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2636
+   </span>
+   <p class="info tip">
+    39话 /  2009年7月4日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.5
+    </small>
+    <span class="tip_j">
+     (64人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_39541">
+  <a class="subjectCover cover ll" href="/subject/39541">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/06/3e/39541_m3Pjo.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/39541">
+     恋狱 月狂病
+    </a>
+    <small class="grey">
+     カルタグラ ツキ狂イノ病
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2874
+   </span>
+   <p class="info tip">
+    2话 /  2009年
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     4.8
+    </small>
+    <span class="tip_j">
+     (67人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_2726">
+  <a class="subjectCover cover ll" href="/subject/2726">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b1/c0/2726_2z9SN.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2726">
+     天使特警2
+    </a>
+    <small class="grey">
+     キディ・ガーランド
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2591
+   </span>
+   <p class="info tip">
+    24话 /  2009-10-15 / 后藤圭二 / gimik / 门之园惠美
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.9
+    </small>
+    <span class="tip_j">
+     (108人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_1546">
+  <a class="subjectCover cover ll" href="/subject/1546">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/af/f0/1546_99bvo.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1546">
+     佳拉蒂的每日笑话
+    </a>
+    <small class="grey">
+     キャラディのジョークな毎日
+    </small>
+   </h3>
+   <p class="info tip">
+    365话 /  2009年4月1日 / 増田龙治
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.3
+    </small>
+    <span class="tip_j">
+     (10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1434">
+  <a class="subjectCover cover ll" href="/subject/1434">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/78/95/1434_45KYw.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1434">
+     女皇之刃 流浪的战士
+    </a>
+    <small class="grey">
+     クイーンズブレイド 流浪の戦士
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2479
+   </span>
+   <p class="info tip">
+    12话 /  2009年4月2日 / HobbyJAPAN / りんしん
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (491人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2605">
+  <a class="subjectCover cover ll" href="/subject/2605">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d3/fa/2605_asMK1.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2605">
+     女皇之刃 王座的继承者
+    </a>
+    <small class="grey">
+     クイーンズブレイド 玉座を継ぐ者
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2025
+   </span>
+   <p class="info tip">
+    12话 /  2009年9月24日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (342人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_3639">
+  <a class="subjectCover cover ll" href="/subject/3639">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ba/30/3639_PYZ2q.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/3639">
+     料理偶像
+    </a>
+    <small class="grey">
+     クッキンアイドル アイ!マイ!まいん!
+    </small>
+   </h3>
+   <p class="info tip">
+    400话 /  2009年3月30日 / わたなべひろし / 中嶋敦子
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_116386">
+  <a class="subjectCover cover ll" href="/subject/116386">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/56/dc/116386_9AZx9.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/116386">
+     クプ〜!!まめゴマ!
+    </a>
+   </h3>
+   <p class="info tip">
+    51话 /  2009年1月10日
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_8998">
+  <a class="subjectCover cover ll" href="/subject/8998">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/bc/29/8998_R9WVJ.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/8998">
+     蜡笔小新 春日部野生王国
+    </a>
+    <small class="grey">
+     クレヨンしんちゃん　オタケベ！カスカベ野生王国
+    </small>
+   </h3>
+   <p class="info tip">
+    2009-04-18 / しぎのあきら / 臼井儀人 / 原勝徳、末吉裕一郎
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.0
+    </small>
+    <span class="tip_j">
+     (19人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_1443">
+  <a class="subjectCover cover ll" href="/subject/1443">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/8f/b5/1443_wHWvw.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1443">
+     四叶游戏
+    </a>
+    <small class="grey">
+     クロスゲーム
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    315
+   </span>
+   <p class="info tip">
+    50话 /  2009年4月5日 / 安达充 / 近藤优次
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.9
+    </small>
+    <span class="tip_j">
+     (433人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1452">
+  <a class="subjectCover cover ll" href="/subject/1452">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/67/86/1452_eEmMe.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1452">
+     豹头王传说
+    </a>
+    <small class="grey">
+     グイン・サーガ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    996
+   </span>
+   <p class="info tip">
+    26话 /  2009年4月5日 / 村田俊治
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.3
+    </small>
+    <span class="tip_j">
+     (190人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_99952">
+  <a class="subjectCover cover ll" href="/subject/99952">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/91/c3/99952_u2PIQ.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/99952">
+     Code Geass 反叛的鲁路修R2 零之镇魂曲
+    </a>
+    <small class="grey">
+     コードギアス 反逆のルルーシュR2 SPECIAL EDITION ZERO REQUIEM
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2009年7月24日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.3
+    </small>
+    <span class="tip_j">
+     (42人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1905">
+  <a class="subjectCover cover ll" href="/subject/1905">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/73/e0/1905_q0RQy.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1905">
+     夏日大作战
+    </a>
+    <small class="grey">
+     サマーウォーズ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    90
+   </span>
+   <p class="info tip">
+    2009年8月1日 / 細田守 / 細田守 / 貞本義行
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.2
+    </small>
+    <span class="tip_j">
+     (3396人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_1445">
+  <a class="subjectCover cover ll" href="/subject/1445">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b2/65/1445_V5SvK.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1445">
+     香格里拉
+    </a>
+    <small class="grey">
+     シャングリ・ラ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2397
+   </span>
+   <p class="info tip">
+    24话 /  2009年4月5日 / 池上永一 / 石井久美
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (503人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_62930">
+  <a class="subjectCover cover ll" href="/subject/62930">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/41/f9/62930_EP62Z.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/62930">
+     森林大帝 -勇气改变未来-
+    </a>
+    <small class="grey">
+     ジャングル大帝 -勇気が未来をかえる-
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2009年9月5日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

@@ -1,0 +1,7 @@
+###A web web crawler for http://bangumi.tv
+
+1. run download_anime_list.py
+
+1. download_each_single_anime_page.py
+
+I rewrote this later by using SCRAPY.  This code works but won't be very useful. 

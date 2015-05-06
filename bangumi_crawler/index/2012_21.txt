@@ -1,0 +1,784 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_39611">
+  <a class="subjectCover cover ll" href="/subject/39611">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c4/a6/39611_a9u9d.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/39611">
+     郑和1405-魔海寻踪
+    </a>
+    <small class="grey">
+     郑和1405-魔海寻踪
+    </small>
+   </h3>
+   <p class="info tip">
+    2012年7月11日
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_56261">
+  <a class="subjectCover cover ll" href="/subject/56261">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/7b/eb/56261_k1YNZ.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/56261">
+     都合のよいセックスフレンド？
+    </a>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2565
+   </span>
+   <p class="info tip">
+    4话 /  2012-11-30
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.8
+    </small>
+    <span class="tip_j">
+     (77人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_86084">
+  <a class="subjectCover cover ll" href="/subject/86084">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/32/04/86084_pkw1p.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/86084">
+     重返大海
+    </a>
+   </h3>
+   <p class="info tip">
+    2012-12-30 / 陆强
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_49425">
+  <a class="subjectCover cover ll" href="/subject/49425">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d7/8e/49425_tJBUd.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/49425">
+     金田一少年事件簿 黒魔术杀人事件
+    </a>
+    <small class="grey">
+     金田一少年の事件簿 黒魔術殺人事件編
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1850
+   </span>
+   <p class="info tip">
+    2话 /  2012年12月17日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.6
+    </small>
+    <span class="tip_j">
+     (70人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_31374">
+  <a class="subjectCover cover ll" href="/subject/31374">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/6b/c7/31374_5s212.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/31374">
+     银河KICK OFF！！
+    </a>
+    <small class="grey">
+     銀河へキックオフ！！
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1382
+   </span>
+   <p class="info tip">
+    39话 /  2012年4月3日 / 川端裕人
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.1
+    </small>
+    <span class="tip_j">
+     (185人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_47576">
+  <a class="subjectCover cover ll" href="/subject/47576">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/5a/dc/47576_b6732.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/47576">
+     银魂' 延长战
+    </a>
+    <small class="grey">
+     銀魂' 延長戦
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    37
+   </span>
+   <p class="info tip">
+    13话 /  2012年10月4日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.4
+    </small>
+    <span class="tip_j">
+     (1633人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_43301">
+  <a class="subjectCover cover ll" href="/subject/43301">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/fc/51/43301_55Jmk.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/43301">
+     钢铁魔女安妮罗杰
+    </a>
+    <small class="grey">
+     鋼鉄の魔女アンネローゼ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2120
+   </span>
+   <p class="info tip">
+    4话 /  2012年7月27日 / ブラックリリス
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (116人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_67966">
+  <a class="subjectCover cover ll" href="/subject/67966">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b0/d9/67966_r65sc.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/67966">
+     钟馗捉鬼
+    </a>
+    <small class="grey">
+     钟馗捉鬼
+    </small>
+   </h3>
+   <p class="info tip">
+    2012年 / 叶蓉芳、李耀卿
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_41188">
+  <a class="subjectCover cover ll" href="/subject/41188">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c0/28/41188_dD7DH.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/41188">
+     钢铁飞龙
+    </a>
+    <small class="grey">
+     钢铁飞龙
+    </small>
+   </h3>
+   <p class="info tip">
+    52话 /  2012年5月25日 / 王巍
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_2910">
+  <a class="subjectCover cover ll" href="/subject/2910">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/db/a3/2910_T9AS4.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2910">
+     间之楔
+    </a>
+    <small class="grey">
+     間の楔
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    795
+   </span>
+   <p class="info tip">
+    4话 /  2012-01-18
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (239人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_65189">
+  <a class="subjectCover cover ll" href="/subject/65189">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/24/36/65189_p0jks.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/65189">
+     阿狸之丢东西的娃娃
+    </a>
+    <small class="grey">
+     阿狸之丢东西的娃娃
+    </small>
+   </h3>
+   <p class="info tip">
+    3话 /  2012-08-31
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_43367">
+  <a class="subjectCover cover ll" href="/subject/43367">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f2/02/43367_FIepG.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/43367">
+     雨芳恋歌
+    </a>
+    <small class="grey">
+     雨芳恋歌
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2764
+   </span>
+   <p class="info tip">
+    2话 /  2012-06-29
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.8
+    </small>
+    <span class="tip_j">
+     (167人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_115758">
+  <a class="subjectCover cover ll" href="/subject/115758">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/4f/36/115758_4svS7.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/115758">
+     雷速登闪电冲线3
+    </a>
+   </h3>
+   <p class="info tip">
+    40话 /  2012年11月
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_46312">
+  <a class="subjectCover cover ll" href="/subject/46312">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c4/b5/46312_wayEg.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/46312">
+     头文字D Fifth Stage
+    </a>
+    <small class="grey">
+     頭文字D Fifth Stage
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    886
+   </span>
+   <p class="info tip">
+    14话 /  2012年11月9日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.4
+    </small>
+    <span class="tip_j">
+     (267人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_58252">
+  <a class="subjectCover cover ll" href="/subject/58252">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/fe/8e/58252_1V7UA.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/58252">
+     魍魎の贄
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2012-12-14 / Tinker Bell
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.8
+    </small>
+    <span class="tip_j">
+     (47人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_42253">
+  <a class="subjectCover cover ll" href="/subject/42253">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d9/a6/42253_AGAqS.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/42253">
+     是魔法使的话就吃味噌！
+    </a>
+    <small class="grey">
+     魔法使いなら味噌を喰え！
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2765
+   </span>
+   <p class="info tip">
+    1话 /  2012年6月15日 / 別所誠人
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.5
+    </small>
+    <span class="tip_j">
+     (84人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_25833">
+  <a class="subjectCover cover ll" href="/subject/25833">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/fa/1d/25833_jcli9.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/25833">
+     魔法少女小圆 剧场版 [前篇] 起始的物语
+    </a>
+    <small class="grey">
+     魔法少女まどか☆マギカ [前編] 始まりの物語
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    312
+   </span>
+   <p class="info tip">
+    2012年10月6日 / 宮本幸裕 / 岸田隆宏、谷口淳一郎
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.9
+    </small>
+    <span class="tip_j">
+     (935人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_44692">
+  <a class="subjectCover cover ll" href="/subject/44692">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/df/9a/44692_JzQ19.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/44692">
+     魔法少女小圆 剧场版 [后篇] 永远的物语
+    </a>
+    <small class="grey">
+     魔法少女まどか☆マギカ [後編] 永遠の物語
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    260
+   </span>
+   <p class="info tip">
+    2012年10月13日 / 宮本幸裕 / 岸田隆宏、谷口淳一郎
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.9
+    </small>
+    <span class="tip_j">
+     (911人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_35679">
+  <a class="subjectCover cover ll" href="/subject/35679">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/2e/e5/35679_BudFn.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/35679">
+     魔法少女奈叶 The MOVIE 2nd A’s
+    </a>
+    <small class="grey">
+     魔法少女リリカルなのは The MOVIE 2nd A's
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    198
+   </span>
+   <p class="info tip">
+    2012年7月14日 / 草川啓造 / 都筑真纪
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.1
+    </small>
+    <span class="tip_j">
+     (506人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_43099">
+  <a class="subjectCover cover ll" href="/subject/43099">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a0/45/43099_wKF2w.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/43099">
+     魔角侦探之大三角计划
+    </a>
+    <small class="grey">
+     魔角侦探之大三角计划
+    </small>
+   </h3>
+   <p class="info tip">
+    52话 /  2012年7月23日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_47147">
+  <a class="subjectCover cover ll" href="/subject/47147">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/fd/58/47147_qpAPh.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/47147">
+     麦兜当当伴我心
+    </a>
+   </h3>
+   <p class="info tip">
+    2012年7月10日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.6
+    </small>
+    <span class="tip_j">
+     (34人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_29060">
+  <a class="subjectCover cover ll" href="/subject/29060">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f6/76/29060_d0owo.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/29060">
+     黄昏少女×失忆
+    </a>
+    <small class="grey">
+     黄昏乙女×アムネジア
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1535
+   </span>
+   <p class="info tip">
+    13话 /  2012年4月8日 / めいびい
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.0
+    </small>
+    <span class="tip_j">
+     (1336人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_51518">
+  <a class="subjectCover cover ll" href="/subject/51518">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c7/63/51518_2xOHS.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/51518">
+     黄金狗剩之史蒂芬前传
+    </a>
+    <small class="grey">
+     黄金狗剩之史蒂芬前传
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2012.2
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.9
+    </small>
+    <span class="tip_j">
+     (15人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_23684">
+  <a class="subjectCover cover ll" href="/subject/23684">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/09/07/23684_6OrHi.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/23684">
+     黑子的篮球
+    </a>
+    <small class="grey">
+     黒子のバスケ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    847
+   </span>
+   <p class="info tip">
+    26话 /  2012年4月7日 / 藤巻忠俊
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.4
+    </small>
+    <span class="tip_j">
+     (2152人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

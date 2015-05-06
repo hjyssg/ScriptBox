@@ -1,0 +1,697 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_126189">
+  <a class="subjectCover cover ll" href="/subject/126189">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/e2/a2/126189_HYTZX.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/126189">
+     異国なレトロ
+    </a>
+   </h3>
+   <p class="info tip">
+    1话 /  2015/04/24
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_102774">
+  <a class="subjectCover cover ll" href="/subject/102774">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/6a/6e/102774_KYJ7j.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/102774">
+     百日红
+    </a>
+    <small class="grey">
+     百日紅 ～Miss HOKUSAI～
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2015年5月9日
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_109483">
+  <a class="subjectCover cover ll" href="/subject/109483">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/19/1f/109483_7cRLY.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/109483">
+     百花缭乱 SAMURAI AFTER
+    </a>
+    <small class="grey">
+     百花繚乱 サムライアフター
+    </small>
+   </h3>
+   <p class="info tip">
+    2话 /  2015年1月23日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.0
+    </small>
+    <span class="tip_j">
+     (12人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_110048">
+  <a class="subjectCover cover ll" href="/subject/110048">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/1c/0b/110048_nbN9J.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/110048">
+     监狱学园
+    </a>
+    <small class="grey">
+     監獄学園
+    </small>
+   </h3>
+   <p class="info tip">
+    2015年7月
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_109724">
+  <a class="subjectCover cover ll" href="/subject/109724">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/0e/2c/109724_V5SZS.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/109724">
+     元气少女缘结神◎
+    </a>
+    <small class="grey">
+     神様はじめました◎
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1224
+   </span>
+   <p class="info tip">
+    12话 /  2015年1月5日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.2
+    </small>
+    <span class="tip_j">
+     (319人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_129614">
+  <a class="subjectCover cover ll" href="/subject/129614">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/db/c3/129614_f0NDP.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/129614">
+     秦时明月之帝子降兮
+    </a>
+    <small class="grey">
+     秦时明月之帝子降兮
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2015年2月13日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_121882">
+  <a class="subjectCover cover ll" href="/subject/121882">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b9/f8/121882_e9fe9.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/121882">
+     穴の奥のいい秘部
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2015/02/13
+   </p>
+   <p class="rateInfo">
+    <span class="sstars4 starsinfo">
+    </span>
+    <small class="fade">
+     4.0
+    </small>
+    <span class="tip_j">
+     (17人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_108377">
+  <a class="subjectCover cover ll" href="/subject/108377">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/4e/a9/108377_Jg7gU.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/108377">
+     空战魔导士候补生的教官
+    </a>
+    <small class="grey">
+     空戦魔導士候補生の教官
+    </small>
+   </h3>
+   <p class="info tip">
+    2015年7月 / 諸星悠
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_126606">
+  <a class="subjectCover cover ll" href="/subject/126606">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/8b/98/126606_S6mvh.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/126606">
+     第三飞行少女队
+    </a>
+    <small class="grey">
+     第三飛行少女隊
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2015年6月24日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_109541">
+  <a class="subjectCover cover ll" href="/subject/109541">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d4/9d/109541_34nzO.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/109541">
+     纯情罗曼史第三期
+    </a>
+    <small class="grey">
+     純情ロマンチカ3
+    </small>
+   </h3>
+   <p class="info tip">
+    2015年7月
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_126172">
+  <a class="subjectCover cover ll" href="/subject/126172">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/5e/06/126172_iGjyu.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/126172">
+     純愛まにあっく 1 ～Pure Love Maniac～
+    </a>
+   </h3>
+   <p class="info tip">
+    1话 /  2015/04/17
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_84801">
+  <a class="subjectCover cover ll" href="/subject/84801">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/eb/0f/84801_TEm1U.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/84801">
+     纯洁的玛利亚
+    </a>
+    <small class="grey">
+     純潔のマリア
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1800
+   </span>
+   <p class="info tip">
+    12话 /  2015年1月11日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.9
+    </small>
+    <span class="tip_j">
+     (603人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_112151">
+  <a class="subjectCover cover ll" href="/subject/112151">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/3c/bd/112151_ceb55.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/112151">
+     终结的炽天使
+    </a>
+    <small class="grey">
+     終わりのセラフ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2299
+   </span>
+   <p class="info tip">
+    12话 /  2015年4月4日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (217人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_120705">
+  <a class="subjectCover cover ll" href="/subject/120705">
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/120705">
+     终结的炽天使 后半
+    </a>
+    <small class="grey">
+     終わりのセラフ 第二クール
+    </small>
+   </h3>
+   <p class="info tip">
+    2015年10月
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_114394">
+  <a class="subjectCover cover ll" href="/subject/114394">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/9c/55/114394_w166r.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/114394">
+     美男高校地球防卫部LOVE
+    </a>
+    <small class="grey">
+     美男高校地球防衛部LOVE！
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2385
+   </span>
+   <p class="info tip">
+    12话 /  2015年1月6日 / 馬谷くらり
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (275人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_122566">
+  <a class="subjectCover cover ll" href="/subject/122566">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/05/6a/122566_46Z8q.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/122566">
+     翼飞冲天之天际战骑
+    </a>
+   </h3>
+   <p class="info tip">
+    52话 /  2015-01-16
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_126184">
+  <a class="subjectCover cover ll" href="/subject/126184">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/32/f6/126184_ssncv.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/126184">
+     聖ヤリマンシスターズ☆パコパコ日記 THE ANIMATION
+    </a>
+   </h3>
+   <p class="info tip">
+    1话 /  2015/03/27
+   </p>
+   <p class="rateInfo">
+    <span class="sstars4 starsinfo">
+    </span>
+    <small class="fade">
+     3.9
+    </small>
+    <span class="tip_j">
+     (14人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_96600">
+  <a class="subjectCover cover ll" href="/subject/96600">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/99/37/96600_Iiv53.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/96600">
+     圣剑使的禁咒咏唱
+    </a>
+    <small class="grey">
+     聖剣使いの禁呪詠唱
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2929
+   </span>
+   <p class="info tip">
+    12话 /  2015年1月11日 / あわむら赤光
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.3
+    </small>
+    <span class="tip_j">
+     (289人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_116716">
+  <a class="subjectCover cover ll" href="/subject/116716">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/e2/27/116716_2yMIL.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/116716">
+     圣斗士星矢 黄金魂
+    </a>
+    <small class="grey">
+     聖闘士星矢 黄金魂 -soul of gold-
+    </small>
+   </h3>
+   <p class="info tip">
+    13话 /  2015年4月11日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (24人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_84386">
+  <a class="subjectCover cover ll" href="/subject/84386">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/36/81/84386_4mbVY.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/84386">
+     舰队Collection
+    </a>
+    <small class="grey">
+     艦隊これくしょん -艦これ-
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2897
+   </span>
+   <p class="info tip">
+    12话 /  2015年1月7日 / 草川啓造 / DMM.com、KADOKAWA GAMES(角川ゲームス)
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.8
+    </small>
+    <span class="tip_j">
+     (1253人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_115732">
+  <a class="subjectCover cover ll" href="/subject/115732">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/13/ed/115732_QdAHS.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/115732">
+     花与爱丽丝杀人事件
+    </a>
+    <small class="grey">
+     花とアリス 殺人事件
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2015年2月20日 / 岩井俊二
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_125624">
+  <a class="subjectCover cover ll" href="/subject/125624">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f8/7c/125624_Uoz14.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/125624">
+     英国一家，吃在日本
+    </a>
+    <small class="grey">
+     英国一家, 日本を食べる
+    </small>
+   </h3>
+   <p class="info tip">
+    24话 /  2015年4月15日
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_60901">
+  <a class="subjectCover cover ll" href="/subject/60901">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c0/98/60901_7Ad92.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/60901">
+     苍穹之法芙娜 EXODUS
+    </a>
+    <small class="grey">
+     蒼穹のファフナー EXODUS
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    235
+   </span>
+   <p class="info tip">
+    13话 /  2015年1月8日 / 能戸隆、羽原信義 / XEBEC
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.1
+    </small>
+    <span class="tip_j">
+     (201人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_130230">
+  <a class="subjectCover cover ll" href="/subject/130230">
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/130230">
+     苍穹之法芙娜 EXODUS 后半
+    </a>
+    <small class="grey">
+     蒼穹のファフナー EXODUS 2ndシーズン
+    </small>
+   </h3>
+   <p class="info tip">
+    13话 /  2015年
+   </p>
+  </div>
+ </li>
+</ul>

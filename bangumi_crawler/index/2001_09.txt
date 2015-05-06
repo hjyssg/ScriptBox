@@ -1,0 +1,701 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_74420">
+  <a class="subjectCover cover ll" href="/subject/74420">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/91/fa/74420_20Iwv.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/74420">
+     懲らしめ
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2001/06/15
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_10745">
+  <a class="subjectCover cover ll" href="/subject/10745">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/08/52/10745_M7v4t.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/10745">
+     我为歌狂
+    </a>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1691
+   </span>
+   <p class="info tip">
+    52话 /  2001年 / 胡依红
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.9
+    </small>
+    <span class="tip_j">
+     (529人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_67985">
+  <a class="subjectCover cover ll" href="/subject/67985">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/88/9f/67985_dUYTy.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/67985">
+     新世紀 淫魔聖伝
+    </a>
+   </h3>
+   <p class="info tip">
+    6话 /  2001-03-25
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.0
+    </small>
+    <span class="tip_j">
+     (11人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_101962">
+  <a class="subjectCover cover ll" href="/subject/101962">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a5/96/101962_TCDlm.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/101962">
+     新世纪奶油柠檬
+    </a>
+    <small class="grey">
+     新世紀くりいむレモン
+    </small>
+   </h3>
+   <p class="info tip">
+    2话 /  2001-07-27
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_16436">
+  <a class="subjectCover cover ll" href="/subject/16436">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/3c/8e/16436_3Z33B.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/16436">
+     新白雪姬传说
+    </a>
+    <small class="grey">
+     新白雪姫伝説プリーティア
+    </small>
+   </h3>
+   <p class="info tip">
+    13话 /  2001年4月4日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.6
+    </small>
+    <span class="tip_j">
+     (25人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_19508">
+  <a class="subjectCover cover ll" href="/subject/19508">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/1a/24/19508_SO1Fm.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/19508">
+     旋风之用心棒
+    </a>
+    <small class="grey">
+     旋風の用心棒
+    </small>
+   </h3>
+   <p class="info tip">
+    25话 /  2001年10月1日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_30182">
+  <a class="subjectCover cover ll" href="/subject/30182">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c4/2a/30182_mn65G.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/30182">
+     星之卡比
+    </a>
+    <small class="grey">
+     星のカービィ
+    </small>
+   </h3>
+   <p class="info tip">
+    100话 /  2001-10-06
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_9618">
+  <a class="subjectCover cover ll" href="/subject/9618">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/fd/34/9618_0au0E.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/9618">
+     星界的战旗II
+    </a>
+    <small class="grey">
+     星界の戦旗II
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    300
+   </span>
+   <p class="info tip">
+    10话 /  2001年7月11日 / 長岡康史 / 森岡浩之（ハヤカワ文庫刊）
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.1
+    </small>
+    <span class="tip_j">
+     (92人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_14881">
+  <a class="subjectCover cover ll" href="/subject/14881">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/41/06/14881_LA4VT.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/14881">
+     大~集合！小魔女DoReMi 青蛙石的秘密
+    </a>
+    <small class="grey">
+     映画 も〜っと! おジャ魔女どれみ カエル石のひみつ
+    </small>
+   </h3>
+   <p class="info tip">
+    2001年7月14日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.9
+    </small>
+    <span class="tip_j">
+     (29人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_13423">
+  <a class="subjectCover cover ll" href="/subject/13423">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/60/29/13423_dHeGP.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/13423">
+     时空异邦人KYOKO 交给巧克力吧！
+    </a>
+    <small class="grey">
+     時空異邦人KYOKO ちょこらにおま
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2001年1月1日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_41873">
+  <a class="subjectCover cover ll" href="/subject/41873">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ce/62/41873_0YA2O.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/41873">
+     格斗料理传说
+    </a>
+    <small class="grey">
+     格闘料理伝説ビストロレシピ
+    </small>
+   </h3>
+   <p class="info tip">
+    13话 /  2001年12月11日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_4011">
+  <a class="subjectCover cover ll" href="/subject/4011">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b1/46/4011_l7qlO.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/4011">
+     天使领域
+    </a>
+    <small class="grey">
+     機動天使エンジェリックレイヤー
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1470
+   </span>
+   <p class="info tip">
+    26话 /  2001年4月1日 / 錦織博 / CLAMP / 小森高博
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.9
+    </small>
+    <span class="tip_j">
+     (65人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_74495">
+  <a class="subjectCover cover ll" href="/subject/74495">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a8/6b/74495_2AoA9.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/74495">
+     淫獣VS女スパイ
+    </a>
+   </h3>
+   <p class="info tip">
+    1话 /  2001/09/21 / ピンクパイナップル
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_81855">
+  <a class="subjectCover cover ll" href="/subject/81855">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f4/77/81855_8keoG.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/81855">
+     淫兽学园 复活篇
+    </a>
+    <small class="grey">
+     淫獣学園 La☆BlueGirl 復活篇
+    </small>
+   </h3>
+   <p class="info tip">
+    4话 /  2001/05/25
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_114104">
+  <a class="subjectCover cover ll" href="/subject/114104">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/98/b4/114104_3YYnI.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/114104">
+     淫辱の部屋
+    </a>
+   </h3>
+   <p class="info tip">
+    1话 /  2001-6-18
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_32247">
+  <a class="subjectCover cover ll" href="/subject/32247">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a0/5e/32247_69L1o.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/32247">
+     激斗战车
+    </a>
+    <small class="grey">
+     激闘!クラッシュギアTURBO
+    </small>
+   </h3>
+   <p class="info tip">
+    68话 /  2001年10月7日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.3
+    </small>
+    <span class="tip_j">
+     (13人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_123789">
+  <a class="subjectCover cover ll" href="/subject/123789">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/55/58/123789_71vb1.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/123789">
+     爆発寸前！！天使のカウントダウン
+    </a>
+   </h3>
+   <p class="info tip">
+    1话 /  2001-09-25
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_9348">
+  <a class="subjectCover cover ll" href="/subject/9348">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d0/4e/9348_0bGFr.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/9348">
+     爆旋陀螺
+    </a>
+    <small class="grey">
+     爆転シュート ベイブレード
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1692
+   </span>
+   <p class="info tip">
+    51话 /  2001-01-08 / 川瀬敏文 / 青木たかお / 梅原隆弘、朴起徳
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (92人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_74442">
+  <a class="subjectCover cover ll" href="/subject/74442">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/01/ae/74442_QgxwE.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/74442">
+     特別授業
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2001/08/10
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_18617">
+  <a class="subjectCover cover ll" href="/subject/18617">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/dd/46/18617_F9cvF.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/18617">
+     犬夜叉 穿越时空的思念
+    </a>
+    <small class="grey">
+     犬夜叉 時代を越える想い
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    980
+   </span>
+   <p class="info tip">
+    2001年12月15日 / 篠原俊哉
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.3
+    </small>
+    <span class="tip_j">
+     (356人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_74481">
+  <a class="subjectCover cover ll" href="/subject/74481">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/3e/f2/74481_5pRpR.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/74481">
+     猟奇の檻 ～第2章～
+    </a>
+   </h3>
+   <p class="info tip">
+    3话 /  2001/04/27
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_49977">
+  <a class="subjectCover cover ll" href="/subject/49977">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c3/87/49977_SbJoo.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/49977">
+     短篇 阿滋漫画大王 THE ANIMATION
+    </a>
+    <small class="grey">
+     短編 あずまんが大王 THE ANIMATION
+    </small>
+   </h3>
+   <p class="info tip">
+    2001年11月22日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.8
+    </small>
+    <span class="tip_j">
+     (25人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_98695">
+  <a class="subjectCover cover ll" href="/subject/98695">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c6/d9/98695_XXBAX.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/98695">
+     沙漠之海贼！队长汤饭
+    </a>
+    <small class="grey">
+     砂漠の海賊!キャプテンクッパ
+    </small>
+   </h3>
+   <p class="info tip">
+    26话 /  2001年8月13日 / 真下耕一 / 谷上俊夫 / 若林厚史、門智昭
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_37029">
+  <a class="subjectCover cover ll" href="/subject/37029">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/88/92/37029_eOsZO.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/37029">
+     破坏魔定光
+    </a>
+    <small class="grey">
+     破壊魔定光
+    </small>
+   </h3>
+   <p class="info tip">
+    10话 /  2001年1月17日 / 中平正彦
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

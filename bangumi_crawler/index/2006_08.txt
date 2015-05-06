@@ -1,0 +1,811 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_3140">
+  <a class="subjectCover cover ll" href="/subject/3140">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/74/7d/3140_4eeZk.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/3140">
+     数码兽拯救者 究极力量!爆裂模式发动
+    </a>
+    <small class="grey">
+     デジモンセイバーズ THE MOVIE 究極パワー! バーストモード発動!!
+    </small>
+   </h3>
+   <p class="info tip">
+    2006年12月9日 / 長峯達也
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.2
+    </small>
+    <span class="tip_j">
+     (44人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_85215">
+  <a class="subjectCover cover ll" href="/subject/85215">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/49/e4/85215_2CLAN.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/85215">
+     数码兽拯救者3D 数码世界危机一发！
+    </a>
+    <small class="grey">
+     デジモンセイバーズ デジタルワールド危機イッパツ!
+    </small>
+   </h3>
+   <p class="info tip">
+    2006年7月8日/15日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_5997">
+  <a class="subjectCover cover ll" href="/subject/5997">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/07/7f/5997_2MD08.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/5997">
+     飞跃颠峰! 剧场版
+    </a>
+    <small class="grey">
+     トップをねらえ! 劇場版
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    501
+   </span>
+   <p class="info tip">
+    2006年10月1日 / 庵野秀明 / 岡田斗司夫
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.7
+    </small>
+    <span class="tip_j">
+     (143人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_57105">
+  <a class="subjectCover cover ll" href="/subject/57105">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b9/b5/57105_YwstI.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/57105">
+     飞跃巅峰！飞跃巅峰2！合体剧场版
+    </a>
+    <small class="grey">
+     トップをねらえ!&amp;トップをねらえ2! 合体劇場版!!
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    775
+   </span>
+   <p class="info tip">
+    2006年10月1日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (63人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_5998">
+  <a class="subjectCover cover ll" href="/subject/5998">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b9/8a/5998_33OE6.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/5998">
+     飞跃颠峰2! 剧场版
+    </a>
+    <small class="grey">
+     トップをねらえ2! 劇場版
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    485
+   </span>
+   <p class="info tip">
+    2006年10月1日 / 鶴巻和哉 / GAINAX / 貞本義行
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.8
+    </small>
+    <span class="tip_j">
+     (160人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_473">
+  <a class="subjectCover cover ll" href="/subject/473">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/20/50/473_yMy22.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/473">
+     哆啦A梦：大雄的恐龙 2006
+    </a>
+    <small class="grey">
+     ドラえもん のび太の恐竜2006
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    791
+   </span>
+   <p class="info tip">
+    2006
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (201人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_118798">
+  <a class="subjectCover cover ll" href="/subject/118798">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/56/5d/118798_3V89V.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/118798">
+     ニュー ハル&amp;ボンス
+    </a>
+   </h3>
+   <p class="info tip">
+    9话 /  2006-05-27
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_8219">
+  <a class="subjectCover cover ll" href="/subject/8219">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/9d/00/8219_p5505.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/8219">
+     魔法先生捏吉！？
+    </a>
+    <small class="grey">
+     ネギま!?
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2000
+   </span>
+   <p class="info tip">
+    26话 /  2006年10月4日 / 新房昭之 / 赤松健 / 大田和寬
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (297人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_17121">
+  <a class="subjectCover cover ll" href="/subject/17121">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/57/90/17121_J5PXC.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/17121">
+     魔法先生捏吉！？ 夏
+    </a>
+    <small class="grey">
+     ネギま！？ 夏
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1698
+   </span>
+   <p class="info tip">
+    1话 /  2006年11月22日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (75人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_17120">
+  <a class="subjectCover cover ll" href="/subject/17120">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d7/2e/17120_w45wS.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/17120">
+     魔法先生捏吉！？ 春
+    </a>
+    <small class="grey">
+     ネギま！？ 春
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1727
+   </span>
+   <p class="info tip">
+    1话 /  2006年10月25日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (69人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_848">
+  <a class="subjectCover cover ll" href="/subject/848">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/36/2e/848_VvbHu.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/848">
+     蜂蜜与四叶草II
+    </a>
+    <small class="grey">
+     ハチミツとクローバー II
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    29
+   </span>
+   <p class="info tip">
+    12话 /  2006年6月29日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars9 starsinfo">
+    </span>
+    <small class="fade">
+     8.5
+    </small>
+    <span class="tip_j">
+     (1341人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_85247">
+  <a class="subjectCover cover ll" href="/subject/85247">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d2/45/85247_0bqKh.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/85247">
+     ハローキティ りんごの森のファンタジー
+    </a>
+   </h3>
+   <p class="info tip">
+    2006年4月
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_74472">
+  <a class="subjectCover cover ll" href="/subject/74472">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/3c/6d/74472_cj7D7.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/74472">
+     バーチャコール2
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2006/12/22
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_2281">
+  <a class="subjectCover cover ll" href="/subject/2281">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/0f/46/2281_AbC2C.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2281">
+     调酒师
+    </a>
+    <small class="grey">
+     バーテンダー
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    716
+   </span>
+   <p class="info tip">
+    11话 /  2006年10月14日 / 渡辺正樹 / 城アラキ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (268人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_10555">
+  <a class="subjectCover cover ll" href="/subject/10555">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a6/2a/10555_I7Cha.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/10555">
+     和爸爸KISS
+    </a>
+    <small class="grey">
+     パパと KISS IN THE DARK
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2543
+   </span>
+   <p class="info tip">
+    2话 /  2006-06-25 / 磨积良亜澄 / 南原兼
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.2
+    </small>
+    <span class="tip_j">
+     (193人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_7852">
+  <a class="subjectCover cover ll" href="/subject/7852">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b1/65/7852_9t73n.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/7852">
+     内衣战士玫瑰蝴蝶 New Season
+    </a>
+    <small class="grey">
+     パピヨンローゼ New Season
+    </small>
+   </h3>
+   <p class="info tip">
+    6话 /  2006年2月9日 / 松村やすひろ / 飛田シンヂ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.1
+    </small>
+    <span class="tip_j">
+     (11人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_841">
+  <a class="subjectCover cover ll" href="/subject/841">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/02/a3/841_TQGSG.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/841">
+     盗梦侦探
+    </a>
+    <small class="grey">
+     パプリカ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    69
+   </span>
+   <p class="info tip">
+    2006年11月25日 / 今敏 / 筒井康隆
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.3
+    </small>
+    <span class="tip_j">
+     (1362人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_5490">
+  <a class="subjectCover cover ll" href="/subject/5490">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c9/00/5490_LY91b.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/5490">
+     南瓜剪刀
+    </a>
+    <small class="grey">
+     パンプキン・シザーズ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1213
+   </span>
+   <p class="info tip">
+    24话 /  2006年10月2日 / 秋山胜仁 / 岩永亮太郎 / 日下部智津子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.1
+    </small>
+    <span class="tip_j">
+     (66人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_90612">
+  <a class="subjectCover cover ll" href="/subject/90612">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/33/44/90612_JW97H.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/90612">
+     神奇宝贝：皮卡丘的顽皮岛
+    </a>
+    <small class="grey">
+     ピカチュウのわんぱくアイランド
+    </small>
+   </h3>
+   <p class="info tip">
+    2006年8月1日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_79974">
+  <a class="subjectCover cover ll" href="/subject/79974">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/1f/11/79974_A4h5q.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/79974">
+     粉红街
+    </a>
+    <small class="grey">
+     ピンキーストリート
+    </small>
+   </h3>
+   <p class="info tip">
+    2话 /  2006年07月26日 / 川口敬一郎
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2689">
+  <a class="subjectCover cover ll" href="/subject/2689">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/57/7f/2689_KyG2Y.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2689">
+     全金属狂潮 TSR OVA 战队长悠闲的一天
+    </a>
+    <small class="grey">
+     フルメタル・パニック！The Second Raid 特別版OVA「わりとヒマな戦隊長の一日」
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    665
+   </span>
+   <p class="info tip">
+    1话 /  2006年5月26日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (933人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_80918">
+  <a class="subjectCover cover ll" href="/subject/80918">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/10/bd/80918_m23N3.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/80918">
+     怪医黑杰克21
+    </a>
+    <small class="grey">
+     ブラック・ジャック21
+    </small>
+   </h3>
+   <p class="info tip">
+    17话 /  2006-04-10 / 手冢治虫
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_5421">
+  <a class="subjectCover cover ll" href="/subject/5421">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/07/db/5421_U9nPb.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/5421">
+     勇者的故事
+    </a>
+    <small class="grey">
+     ブレイブ ストーリー
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1568
+   </span>
+   <p class="info tip">
+    2006年7月8日 / 宮部みゆき
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (72人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_9425">
+  <a class="subjectCover cover ll" href="/subject/9425">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/65/cf/9425_qS8VU.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/9425">
+     公主公主
+    </a>
+    <small class="grey">
+     プリンセス・プリンセス
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2605
+   </span>
+   <p class="info tip">
+    12话 /  2006-04-05 / 元永慶太郎 / つだみきよ / 中嶋敦子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.2
+    </small>
+    <span class="tip_j">
+     (295人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

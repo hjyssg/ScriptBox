@@ -1,0 +1,846 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_49282">
+  <a class="subjectCover cover ll" href="/subject/49282">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f9/d5/49282_271i4.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/49282">
+     加油！露露落落
+    </a>
+    <small class="grey">
+     がんばれ! ルルロロ
+    </small>
+   </h3>
+   <p class="info tip">
+    26话 /  2013年1月17日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_88354">
+  <a class="subjectCover cover ll" href="/subject/88354">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/5e/9b/88354_4TXJx.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/88354">
+     境界的彼方 偶像裁判 ～即使迷茫也要制裁之民～
+    </a>
+    <small class="grey">
+     きょうかいのかなた アイドル裁判! ～迷いながらも君を裁く民～
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2310
+   </span>
+   <p class="info tip">
+    5话 /  2013年11月18日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (472人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_57978">
+  <a class="subjectCover cover ll" href="/subject/57978">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/9b/42/57978_NK1n4.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/57978">
+     黄金拼图
+    </a>
+    <small class="grey">
+     きんいろモザイク
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    815
+   </span>
+   <p class="info tip">
+    12话 /  2013年7月6日 / 原悠衣
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.4
+    </small>
+    <span class="tip_j">
+     (845人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_70960">
+  <a class="subjectCover cover ll" href="/subject/70960">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/96/41/70960_dkRxf.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/70960">
+     银狐
+    </a>
+    <small class="grey">
+     ぎんぎつね
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2328
+   </span>
+   <p class="info tip">
+    12话 /  2013年10月6日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (364人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_107928">
+  <a class="subjectCover cover ll" href="/subject/107928">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/46/21/107928_DcPIZ.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/107928">
+     懒蛋蛋
+    </a>
+    <small class="grey">
+     ぐでたま
+    </small>
+   </h3>
+   <p class="info tip">
+    130话 /  2013
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.8
+    </small>
+    <span class="tip_j">
+     (10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_71802">
+  <a class="subjectCover cover ll" href="/subject/71802">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/de/2a/71802_k0v3u.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/71802">
+     现视研 二代目
+    </a>
+    <small class="grey">
+     げんしけん 二代目
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    533
+   </span>
+   <p class="info tip">
+    13话 /  2013年7月6日 / 水島努 / 木尾士目
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.6
+    </small>
+    <span class="tip_j">
+     (774人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_91252">
+  <a class="subjectCover cover ll" href="/subject/91252">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/10/e0/91252_5A3lV.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/91252">
+     现视研 二代目 OAD
+    </a>
+    <small class="grey">
+     げんしけん 二代目 OAD
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    850
+   </span>
+   <p class="info tip">
+    1话 /  2013年12月20日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.4
+    </small>
+    <span class="tip_j">
+     (171人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_29074">
+  <a class="subjectCover cover ll" href="/subject/29074">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/e3/03/29074_GY2Iu.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/29074">
+     锁锁美同学@提不起劲
+    </a>
+    <small class="grey">
+     ささみさん@がんばらない
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1936
+   </span>
+   <p class="info tip">
+    12话 /  2013年1月10日 / 日日日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (1637人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_53407">
+  <a class="subjectCover cover ll" href="/subject/53407">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/27/f3/53407_583lQ.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/53407">
+     女子落 OAD
+    </a>
+    <small class="grey">
+     じょしらく OAD
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    720
+   </span>
+   <p class="info tip">
+    1话 /  2013年2月8日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (385人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_79746">
+  <a class="subjectCover cover ll" href="/subject/79746">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/1e/0d/79746_81S9y.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/79746">
+     せいこう！ 〜幼なじみは照れくさそうに嘘をつく〜
+    </a>
+   </h3>
+   <p class="info tip">
+    2013/09/20
+   </p>
+   <p class="rateInfo">
+    <span class="sstars4 starsinfo">
+    </span>
+    <small class="fade">
+     4.1
+    </small>
+    <span class="tip_j">
+     (30人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_84058">
+  <a class="subjectCover cover ll" href="/subject/84058">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ef/98/84058_VvDxb.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/84058">
+     それって、くちぱっち。
+    </a>
+   </h3>
+   <p class="info tip">
+    1话 /  2013年1月
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_55113">
+  <a class="subjectCover cover ll" href="/subject/55113">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f8/7f/55113_TR5Is.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/55113">
+     玉子市场
+    </a>
+    <small class="grey">
+     たまこまーけっと
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1825
+   </span>
+   <p class="info tip">
+    12话 /  2013年1月9日 / 山田尚子 / 堀口悠紀子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.9
+    </small>
+    <span class="tip_j">
+     (2203人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_84056">
+  <a class="subjectCover cover ll" href="/subject/84056">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/7b/87/84056_d0IDb.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/84056">
+     たまごっち! みらくるフレンズ
+    </a>
+   </h3>
+   <p class="info tip">
+    2013年9月5日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_45213">
+  <a class="subjectCover cover ll" href="/subject/45213">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/26/f9/45213_7lJbg.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/45213">
+     玉响～more aggressive～
+    </a>
+    <small class="grey">
+     たまゆら〜もあぐれっしぶ〜
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    844
+   </span>
+   <p class="info tip">
+    12话 /  2013年7月3日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.4
+    </small>
+    <span class="tip_j">
+     (327人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_82151">
+  <a class="subjectCover cover ll" href="/subject/82151">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d7/93/82151_Q21qD.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/82151">
+     たゆたゆ
+    </a>
+   </h3>
+   <p class="info tip">
+    4话 /  2013/09/27 / 大和川
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.0
+    </small>
+    <span class="tip_j">
+     (47人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_62628">
+  <a class="subjectCover cover ll" href="/subject/62628">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/0d/6a/62628_5zk4K.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/62628">
+     某人的目光
+    </a>
+    <small class="grey">
+     だれかのまなざし
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1070
+   </span>
+   <p class="info tip">
+    2013年2月10日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.3
+    </small>
+    <span class="tip_j">
+     (394人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_74659">
+  <a class="subjectCover cover ll" href="/subject/74659">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/3f/ef/74659_SsKuD.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/74659">
+     歌牌情缘 OAD
+    </a>
+    <small class="grey">
+     ちはやふる OAD
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1576
+   </span>
+   <p class="info tip">
+    1话 /  2013年9月13日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.0
+    </small>
+    <span class="tip_j">
+     (233人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_41568">
+  <a class="subjectCover cover ll" href="/subject/41568">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/09/9c/41568_TBtcb.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/41568">
+     歌牌情缘2
+    </a>
+    <small class="grey">
+     ちはやふる2
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    47
+   </span>
+   <p class="info tip">
+    25话 /  2013年1月11日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.4
+    </small>
+    <span class="tip_j">
+     (1330人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_82510">
+  <a class="subjectCover cover ll" href="/subject/82510">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/e9/00/82510_d717R.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/82510">
+     进击的巨人 Q版剧场 飞起来！训练兵团
+    </a>
+    <small class="grey">
+     ちみキャラ劇場 とんでけ！訓練兵団
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1937
+   </span>
+   <p class="info tip">
+    25话 /  2013年7月17日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.6
+    </small>
+    <span class="tip_j">
+     (117人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_68591">
+  <a class="subjectCover cover ll" href="/subject/68591">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/8b/15/68591_jn1jf.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/68591">
+     鸭子生活
+    </a>
+    <small class="grey">
+     ぢべたぐらし あひるの生活
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1076
+   </span>
+   <p class="info tip">
+    34话 /  2013年4月7日 / マツダユカ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.3
+    </small>
+    <span class="tip_j">
+     (196人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_80442">
+  <a class="subjectCover cover ll" href="/subject/80442">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/6e/dc/80442_o1ku3.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/80442">
+     摸索吧！部活剧
+    </a>
+    <small class="grey">
+     てさぐれ！部活もの
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1317
+   </span>
+   <p class="info tip">
+    12话 /  2013年10月5日 / 石ダテコー太郎 / 毛玉伍長
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.1
+    </small>
+    <span class="tip_j">
+     (270人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_82207">
+  <a class="subjectCover cover ll" href="/subject/82207">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/8b/55/82207_Ex880.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/82207">
+     女孩子真的也很色喔
+    </a>
+    <small class="grey">
+     てにおはっ!~女の子だってホントはえっちだよ?~
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2409
+   </span>
+   <p class="info tip">
+    2话 /  2013/11/08 / rootnuko＋H
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.8
+    </small>
+    <span class="tip_j">
+     (56人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_69943">
+  <a class="subjectCover cover ll" href="/subject/69943">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/22/c1/69943_e0mf0.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/69943">
+     网球少女 2期
+    </a>
+    <small class="grey">
+     てーきゅう 2期
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1389
+   </span>
+   <p class="info tip">
+    14话 /  2013年7月7日 / ルーツ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.1
+    </small>
+    <span class="tip_j">
+     (352人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_82079">
+  <a class="subjectCover cover ll" href="/subject/82079">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/cb/8d/82079_GNnd0.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/82079">
+     网球少女 3期
+    </a>
+    <small class="grey">
+     てーきゅう 3期
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1155
+   </span>
+   <p class="info tip">
+    12话 /  2013年10月6日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.2
+    </small>
+    <span class="tip_j">
+     (295人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

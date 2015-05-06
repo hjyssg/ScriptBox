@@ -1,0 +1,859 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_299">
+  <a class="subjectCover cover ll" href="/subject/299">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ef/0d/299_9967I.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/299">
+     再见绝望先生
+    </a>
+    <small class="grey">
+     さよなら絶望先生
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    297
+   </span>
+   <p class="info tip">
+    12话 /  2007年7月7日 / 新房昭之 / 久米田康治
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.8
+    </small>
+    <span class="tip_j">
+     (1843人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_8293">
+  <a class="subjectCover cover ll" href="/subject/8293">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a1/15/8293_7AGig.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/8293">
+     紫音之王
+    </a>
+    <small class="grey">
+     しおんの王
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2123
+   </span>
+   <p class="info tip">
+    22话 /  2007年10月13日 / かとりまさる
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (94人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2427">
+  <a class="subjectCover cover ll" href="/subject/2427">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/2a/aa/2427_7UDhH.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2427">
+     守护甜心!
+    </a>
+    <small class="grey">
+     しゅごキャラ!
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2433
+   </span>
+   <p class="info tip">
+    51话 /  2007-10-06 / 安田賢司 / PEACH-PIT / 崔ふみひで
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (423人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_90051">
+  <a class="subjectCover cover ll" href="/subject/90051">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c5/e1/90051_454ih.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/90051">
+     ちょいすじ
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2007年6月22日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     4.7
+    </small>
+    <span class="tip_j">
+     (10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2333">
+  <a class="subjectCover cover ll" href="/subject/2333">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f7/e0/2333_is6Ip.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2333">
+     蓝兰岛漂流记
+    </a>
+    <small class="grey">
+     ながされて藍蘭島
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2040
+   </span>
+   <p class="info tip">
+    26话 /  2007年4月4日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (459人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_2329">
+  <a class="subjectCover cover ll" href="/subject/2329">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/be/53/2329_cIZ6H.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2329">
+     七色星露
+    </a>
+    <small class="grey">
+     ななついろ★ドロップス
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2610
+   </span>
+   <p class="info tip">
+    12话 /  2007年7月2日 / ＠ピース
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.1
+    </small>
+    <span class="tip_j">
+     (248人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_68968">
+  <a class="subjectCover cover ll" href="/subject/68968">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/8d/0d/68968_0Hann.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/68968">
+     老鼠物语 -乔治和杰拉尔德的冒险-
+    </a>
+    <small class="grey">
+     ねずみ物語 〜ジョージとジェラルドの冒険〜
+    </small>
+   </h3>
+   <p class="info tip">
+    2007年12月22日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_443">
+  <a class="subjectCover cover ll" href="/subject/443">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/13/f3/443_nZWcE.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/443">
+     交响情人梦
+    </a>
+    <small class="grey">
+     のだめカンタービレ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    187
+   </span>
+   <p class="info tip">
+    23话 /  2007年1月11日 / 笠井贤一 / 二之宫知子 / 島村秀一
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.0
+    </small>
+    <span class="tip_j">
+     (1019人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_78823">
+  <a class="subjectCover cover ll" href="/subject/78823">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/7e/25/78823_OzME0.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/78823">
+     Happiness! 渡良濑准华丽的一天
+    </a>
+    <small class="grey">
+     はぴねす! 渡良瀬準の華麗なる一日
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2007年1月25日 / ういんどみる
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (22人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_104803">
+  <a class="subjectCover cover ll" href="/subject/104803">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/1a/52/104803_VQjqi.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/104803">
+     快乐小兔幸运草
+    </a>
+    <small class="grey">
+     はぴはぴクローバー
+    </small>
+   </h3>
+   <p class="info tip">
+    13话 /  2007/07/06 / のなかかずみ / 竜山さゆり / 林一哉
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_288">
+  <a class="subjectCover cover ll" href="/subject/288">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/48/ae/288_HvHm5.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/288">
+     寒蝉鸣泣之时 解
+    </a>
+    <small class="grey">
+     ひぐらしのなく頃に解
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    119
+   </span>
+   <p class="info tip">
+    24话 /  2007年7月5日 / 今千秋 / 竜騎士07 / 07th Expansion
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.2
+    </small>
+    <span class="tip_j">
+     (2535人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_896">
+  <a class="subjectCover cover ll" href="/subject/896">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/06/14/896_atzMD.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/896">
+     向阳素描
+    </a>
+    <small class="grey">
+     ひだまりスケッチ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    540
+   </span>
+   <p class="info tip">
+    12话 /  2007年1月11日 / 新房昭之 / 蒼樹うめ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.6
+    </small>
+    <span class="tip_j">
+     (499人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_9642">
+  <a class="subjectCover cover ll" href="/subject/9642">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/13/7f/9642_5FD55.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/9642">
+     向阳素描 特别篇
+    </a>
+    <small class="grey">
+     ひだまりスケッチ 特別編
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    581
+   </span>
+   <p class="info tip">
+    2话 /  2007年10月18日 / 新房昭之 / 蒼樹うめ / 伊藤良明
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.6
+    </small>
+    <span class="tip_j">
+     (193人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_5910">
+  <a class="subjectCover cover ll" href="/subject/5910">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/79/38/5910_GCCye.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/5910">
+     初瓣
+    </a>
+    <small class="grey">
+     ひとひら
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1585
+   </span>
+   <p class="info tip">
+    12话 /  2007年3月28日 / 西森章 / 桐原いづみ（『コミックハイ!』連載） / 須藤昌朋、山中純子
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (83人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_21100">
+  <a class="subjectCover cover ll" href="/subject/21100">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/bd/bd/21100_088Kl.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/21100">
+     向日葵!!
+    </a>
+    <small class="grey">
+     ひまわりっ!!
+    </small>
+   </h3>
+   <p class="info tip">
+    13话 /  2007-01-07
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.8
+    </small>
+    <span class="tip_j">
+     (12人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_10995">
+  <a class="subjectCover cover ll" href="/subject/10995">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/3a/1f/10995_Dazq8.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/10995">
+     我的Pico2
+    </a>
+    <small class="grey">
+     ぴことちこ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2842
+   </span>
+   <p class="info tip">
+    1话 /  2007年4月19日 / 谷田部勝義 / ナチュラルハイ / よし天
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.7
+    </small>
+    <span class="tip_j">
+     (220人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2682">
+  <a class="subjectCover cover ll" href="/subject/2682">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f1/5e/2682_6162O.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2682">
+     EVA爆笑学园
+    </a>
+    <small class="grey">
+     ぷちえう゛ぁ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1498
+   </span>
+   <p class="info tip">
+    24话 /  2007年3月20日 / 三木俊一郎、桜井弘明
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.0
+    </small>
+    <span class="tip_j">
+     (461人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_467">
+  <a class="subjectCover cover ll" href="/subject/467">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ab/81/467_EX4I4.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/467">
+     地球防卫少年
+    </a>
+    <small class="grey">
+     ぼくらの
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    358
+   </span>
+   <p class="info tip">
+    24话 /  2007年4月8日 / 森田宏幸 / 鬼头莫宏（小学馆刊《月刊IKKI》上连载） / 小西贤一
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.8
+    </small>
+    <span class="tip_j">
+     (897人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_6849">
+  <a class="subjectCover cover ll" href="/subject/6849">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ec/b9/6849_2me12.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/6849">
+     蛋黄酱萝莉
+    </a>
+    <small class="grey">
+     ぽてまよ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1628
+   </span>
+   <p class="info tip">
+    12话 /  2007-07-06 / 池端隆史 / 御形屋はるか / 大木良一
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (93人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_283">
+  <a class="subjectCover cover ll" href="/subject/283">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/0f/49/283_qtWfz.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/283">
+     南家三姐妹
+    </a>
+    <small class="grey">
+     みなみけ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    396
+   </span>
+   <p class="info tip">
+    13话 /  2007年10月7日 / 太田雅彦 / 樱场小春 / 越智信次
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.7
+    </small>
+    <span class="tip_j">
+     (2059人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_37568">
+  <a class="subjectCover cover ll" href="/subject/37568">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b1/15/37568_jlJ43.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/37568">
+     解脱了的光子
+    </a>
+    <small class="grey">
+     むきだしの光子
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2007年5月
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.9
+    </small>
+    <span class="tip_j">
+     (37人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_67423">
+  <a class="subjectCover cover ll" href="/subject/67423">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/36/ee/67423_8Rdyy.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/67423">
+     青春少女学园
+    </a>
+    <small class="grey">
+     めがちゅ! The Animation
+    </small>
+   </h3>
+   <p class="info tip">
+    3话 /  2007-07-25
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.2
+    </small>
+    <span class="tip_j">
+     (22人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_3091">
+  <a class="subjectCover cover ll" href="/subject/3091">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/05/b8/3091_aIrrt.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/3091">
+     萌单
+    </a>
+    <small class="grey">
+     もえたん
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2646
+   </span>
+   <p class="info tip">
+    13话 /  2007年7月8日 / 川口敬一郎 / もえたん（三才ブックス） / 西尾公伯
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.1
+    </small>
+    <span class="tip_j">
+     (257人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_7620">
+  <a class="subjectCover cover ll" href="/subject/7620">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/df/27/7620_6660g.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/7620">
+     物怪
+    </a>
+    <small class="grey">
+     もっけ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1580
+   </span>
+   <p class="info tip">
+    24话 /  2007-10-02 / 西田正義 / 熊倉隆敏 / 河口俊夫
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (64人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

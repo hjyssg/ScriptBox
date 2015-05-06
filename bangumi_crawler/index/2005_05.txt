@@ -1,0 +1,787 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_29344">
+  <a class="subjectCover cover ll" href="/subject/29344">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d7/a4/29344_5iivv.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/29344">
+     快乐七人组
+    </a>
+    <small class="grey">
+     はっぴぃセブン 〜ざ・テレビまんが〜
+    </small>
+   </h3>
+   <p class="info tip">
+    13话 /  2005年10月
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.5
+    </small>
+    <span class="tip_j">
+     (11人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1617">
+  <a class="subjectCover cover ll" href="/subject/1617">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/29/7f/1617_3t5It.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1617">
+     不可思议的教室
+    </a>
+    <small class="grey">
+     ぱにぽにだっしゅ!
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    339
+   </span>
+   <p class="info tip">
+    26话 /  2005年7月3日 / 新房昭之 / 氷川へきる / 大田和寛
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.9
+    </small>
+    <span class="tip_j">
+     (432人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_23542">
+  <a class="subjectCover cover ll" href="/subject/23542">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/86/0f/23542_z4D52.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/23542">
+     不可思议星球的双胞胎公主
+    </a>
+    <small class="grey">
+     ふしぎ星の☆ふたご姫
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1887
+   </span>
+   <p class="info tip">
+    51话 /  2005年4月2日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (57人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_15946">
+  <a class="subjectCover cover ll" href="/subject/15946">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/82/48/15946_3jCfo.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/15946">
+     光之美少女 MAX HEART
+    </a>
+    <small class="grey">
+     ふたりはプリキュア Max Heart
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1280
+   </span>
+   <p class="info tip">
+    47话 /  2005年2月6日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.1
+    </small>
+    <span class="tip_j">
+     (60人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_14086">
+  <a class="subjectCover cover ll" href="/subject/14086">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/8e/fa/14086_Wd8jv.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/14086">
+     我是小粘粘
+    </a>
+    <small class="grey">
+     ぺとぺとさん
+    </small>
+   </h3>
+   <p class="info tip">
+    13话 /  2005-07 / 木村航（「ぺとぺとさん」 ファミ通文庫 エンターブレイン刊）
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (23人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_7619">
+  <a class="subjectCover cover ll" href="/subject/7619">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/68/69/7619_URuVs.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/7619">
+     幸福之祈祷
+    </a>
+    <small class="grey">
+     ほとり〜たださいわいを希う。〜
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2005年8月28日 / 宮崎麻耶
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (31人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_19426">
+  <a class="subjectCover cover ll" href="/subject/19426">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b8/6a/19426_yECwR.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/19426">
+     魔法的坎娜
+    </a>
+    <small class="grey">
+     まじかるカナン
+    </small>
+   </h3>
+   <p class="info tip">
+    13话 /  2005年1月1日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_7806">
+  <a class="subjectCover cover ll" href="/subject/7806">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d0/99/7806_09Jd0.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/7806">
+     我们的仙境〜Heartful days
+    </a>
+    <small class="grey">
+     まほらば〜Heartful days
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1136
+   </span>
+   <p class="info tip">
+    26话 /  2005年1月9日 / 木村真一郎 / 小島あきら / 藤井昌宏
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.2
+    </small>
+    <span class="tip_j">
+     (88人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_33002">
+  <a class="subjectCover cover ll" href="/subject/33002">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d0/7a/33002_89G28.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/33002">
+     水色
+    </a>
+    <small class="grey">
+     みずいろ
+    </small>
+   </h3>
+   <p class="info tip">
+    2话 /  2005年
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (30人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_63384">
+  <a class="subjectCover cover ll" href="/subject/63384">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/6d/8a/63384_E88Fd.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/63384">
+     觉醒的方舟
+    </a>
+    <small class="grey">
+     めざめの方舟
+    </small>
+   </h3>
+   <p class="info tip">
+    2005
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.5
+    </small>
+    <span class="tip_j">
+     (11人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_62484">
+  <a class="subjectCover cover ll" href="/subject/62484">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c2/20/62484_UYVEi.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/62484">
+     もけもけ大正電動娘ARISA
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2005/05/27
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.8
+    </small>
+    <span class="tip_j">
+     (20人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_37501">
+  <a class="subjectCover cover ll" href="/subject/37501">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/89/b6/37501_WtmCC.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/37501">
+     礼武流奇谭X
+    </a>
+    <small class="grey">
+     らいむいろ流奇譚X
+    </small>
+   </h3>
+   <p class="info tip">
+    13话 /  2005年1月6日 / 冨永恒雄 / エルフ / よし天
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_2776">
+  <a class="subjectCover cover ll" href="/subject/2776">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/62/44/2776_923In.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2776">
+     光速蒙面侠21
+    </a>
+    <small class="grey">
+     アイシールド21
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1026
+   </span>
+   <p class="info tip">
+    145话 /  2005年4月6日 / 村田雄介 / 高谷浩利
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.3
+    </small>
+    <span class="tip_j">
+     (135人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_112540">
+  <a class="subjectCover cover ll" href="/subject/112540">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/08/ea/112540_8Lq6W.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/112540">
+     偶像A
+    </a>
+    <small class="grey">
+     アイドルA
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2005
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_10181">
+  <a class="subjectCover cover ll" href="/subject/10181">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ac/45/10181_PgGqu.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/10181">
+     动物横町
+    </a>
+    <small class="grey">
+     アニマル横町
+    </small>
+   </h3>
+   <p class="info tip">
+    51话 /  2005年10月4日 / 前川凉
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.6
+    </small>
+    <span class="tip_j">
+     (24人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1529">
+  <a class="subjectCover cover ll" href="/subject/1529">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/aa/48/1529_Mh3nZ.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1529">
+     伊里野的天空、UFO的夏天
+    </a>
+    <small class="grey">
+     イリヤの空、UFOの夏
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    740
+   </span>
+   <p class="info tip">
+    6话 /  2005年2月25日 / 伊藤尚往 / 秋山瑞人 / 仓嶋丈康
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (636人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_63286">
+  <a class="subjectCover cover ll" href="/subject/63286">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/61/50/63286_EH154.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/63286">
+     洛克人X 西格玛之日
+    </a>
+    <small class="grey">
+     イレギュラーハンターX The day of Σ
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2005年12月15日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_2293">
+  <a class="subjectCover cover ll" href="/subject/2293">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/5f/63/2293_39vLr.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/2293">
+     武器种族传说
+    </a>
+    <small class="grey">
+     エレメンタル ジェレイド
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2012
+   </span>
+   <p class="info tip">
+    26话 /  2005年4月5日 / 东まゆみ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (599人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_41883">
+  <a class="subjectCover cover ll" href="/subject/41883">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ff/ea/41883_2y4pQ.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/41883">
+     天使心
+    </a>
+    <small class="grey">
+     エンジェル・ハート
+    </small>
+   </h3>
+   <p class="info tip">
+    50话 /  2005年10月
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.2
+    </small>
+    <span class="tip_j">
+     (12人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_4369">
+  <a class="subjectCover cover ll" href="/subject/4369">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/66/5d/4369_CmwE3.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/4369">
+     捉迷藏
+    </a>
+    <small class="grey">
+     カクレンボ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1293
+   </span>
+   <p class="info tip">
+    2005年4月23日 / 栈敷大佑
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.1
+    </small>
+    <span class="tip_j">
+     (170人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_81016">
+  <a class="subjectCover cover ll" href="/subject/81016">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/de/df/81016_PDyY1.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/81016">
+     风之甬道
+    </a>
+    <small class="grey">
+     カゼノトオリミチ
+    </small>
+   </h3>
+   <p class="info tip">
+    2005年 / 望月智充
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.0
+    </small>
+    <span class="tip_j">
+     (11人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_11206">
+  <a class="subjectCover cover ll" href="/subject/11206">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/1a/c9/11206_9mNnR.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/11206">
+     河童的饲养方法
+    </a>
+    <small class="grey">
+     カッパの飼い方
+    </small>
+   </h3>
+   <p class="info tip">
+    26话 /  2005年10月4日 / 宮崎なぎさ / 石川優吾
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_70256">
+  <a class="subjectCover cover ll" href="/subject/70256">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/a2/c4/70256_9mxy9.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/70256">
+     カンブリアン
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2005/11/25 / 三山のぼる
+   </p>
+   <p class="rateInfo">
+    <span class="sstars4 starsinfo">
+    </span>
+    <small class="fade">
+     4.4
+    </small>
+    <span class="tip_j">
+     (11人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_10145">
+  <a class="subjectCover cover ll" href="/subject/10145">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/75/20/10145_Y28C8.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/10145">
+     新大空魔龙
+    </a>
+    <small class="grey">
+     ガイキング LEGEND OF DAIKU-MARYU
+    </small>
+   </h3>
+   <p class="info tip">
+    39话 /  2005-11-12 / 細田雅弘 / （原案）MK企画 → エムケイ / 山崎健志、山崎展義
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (23人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

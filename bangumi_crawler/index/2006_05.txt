@@ -1,0 +1,838 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_49050">
+  <a class="subjectCover cover ll" href="/subject/49050">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/59/79/49050_4hWXy.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/49050">
+     童话枪手小红帽
+    </a>
+    <small class="grey">
+     おとぎ銃士 赤ずきん
+    </small>
+   </h3>
+   <p class="info tip">
+    39话 /  2006年7月1日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (32人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_8227">
+  <a class="subjectCover cover ll" href="/subject/8227">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c3/5b/8227_Nna0n.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/8227">
+     女生爱女生
+    </a>
+    <small class="grey">
+     かしまし 〜ガール・ミーツ・ガール〜
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2438
+   </span>
+   <p class="info tip">
+    13话 /  2006年1月 / 中西伸彰 / あかほりさとる
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.3
+    </small>
+    <span class="tip_j">
+     (194人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_49559">
+  <a class="subjectCover cover ll" href="/subject/49559">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f1/10/49559_MMTro.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/49559">
+     偶像宣言
+    </a>
+    <small class="grey">
+     きらりん☆レボリューション
+    </small>
+   </h3>
+   <p class="info tip">
+    102话 /  2006年4月7日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (22人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_3102">
+  <a class="subjectCover cover ll" href="/subject/3102">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/c5/d9/3102_jV8Fl.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/3102">
+     不公正抽签
+    </a>
+    <small class="grey">
+     くじびき♥アンバランス
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2608
+   </span>
+   <p class="info tip">
+    12话 /  2006年10月6日 / 水島努 / 木尾士目 / 柳田義明
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.1
+    </small>
+    <span class="tip_j">
+     (238人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_101963">
+  <a class="subjectCover cover ll" href="/subject/101963">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/e3/3d/101963_6Kcnl.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/101963">
+     奶油柠檬 New Generation
+    </a>
+    <small class="grey">
+     くりいむレモン New Generation
+    </small>
+   </h3>
+   <p class="info tip">
+    4话 /  2006/03/23
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1220">
+  <a class="subjectCover cover ll" href="/subject/1220">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b2/4d/1220_DIeUM.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1220">
+     现视研 OVA
+    </a>
+    <small class="grey">
+     げんしけん OVA
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    468
+   </span>
+   <p class="info tip">
+    3话 /  2006年12月22日 / 水島努 / 木尾士目
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.7
+    </small>
+    <span class="tip_j">
+     (602人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_1838">
+  <a class="subjectCover cover ll" href="/subject/1838">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/d7/65/1838_zKWH0.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1838">
+     死神的歌谣
+    </a>
+    <small class="grey">
+     しにがみのバラッド。
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1851
+   </span>
+   <p class="info tip">
+    6话 /  2006年3月2日 / 望月智充 / ハセガワケイスケ（メディアワークス・電撃文庫刊） / 堀内博之
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.8
+    </small>
+    <span class="tip_j">
+     (313人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_75943">
+  <a class="subjectCover cover ll" href="/subject/75943">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/6e/e0/75943_ZR0l1.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/75943">
+     柴犬阿旺的和式生活
+    </a>
+    <small class="grey">
+     しばわんこの和のこころ
+    </small>
+   </h3>
+   <p class="info tip">
+    40话 /  2006年4月5日
+   </p>
+   <p class="rateInfo">
+    <span class="tip_j">
+     (少于10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_6848">
+  <a class="subjectCover cover ll" href="/subject/6848">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/27/51/6848_sxuaM.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/6848">
+     地上最强新娘
+    </a>
+    <small class="grey">
+     すもももももも～地上最強のヨメ～
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2164
+   </span>
+   <p class="info tip">
+    24话 /  2006-10-05 / 中西伸彰 / 大高忍 / アミサキリョウコ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.6
+    </small>
+    <span class="tip_j">
+     (259人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_9856">
+  <a class="subjectCover cover ll" href="/subject/9856">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/3e/18/9856_1dccA.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/9856">
+     空之色，水之色
+    </a>
+    <small class="grey">
+     そらのいろ、みずのいろ
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1018
+   </span>
+   <p class="info tip">
+    2话 /  2006年7月28日 / Ciel/rpm / 黒田和也
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.3
+    </small>
+    <span class="tip_j">
+     (517人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_6414">
+  <a class="subjectCover cover ll" href="/subject/6414">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/1e/e9/6414_4j440.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/6414">
+     我的裘可妹妹
+    </a>
+    <small class="grey">
+     ちょこッとSister
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1970
+   </span>
+   <p class="info tip">
+    24话 /  2006-07-11 / 黑田やすひろ
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.5
+    </small>
+    <span class="tip_j">
+     (85人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_8008">
+  <a class="subjectCover cover ll" href="/subject/8008">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/12/f7/8008_UeULZ.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/8008">
+     娇蛮之吻
+    </a>
+    <small class="grey">
+     つよきす Cool×Sweet
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2702
+   </span>
+   <p class="info tip">
+    12话 /  2006年7月 / 木村真一郎 / 安形佳己
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.9
+    </small>
+    <span class="tip_j">
+     (158人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_1804">
+  <a class="subjectCover cover ll" href="/subject/1804">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/90/e1/1804_86KZm.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1804">
+     心跳回忆Only Love
+    </a>
+    <small class="grey">
+     ときめきメモリアル Only Love
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2131
+   </span>
+   <p class="info tip">
+    26话 /  2006年10月2日 / 高本宣弘 / 中原清隆
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.6
+    </small>
+    <span class="tip_j">
+     (236人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_30483">
+  <a class="subjectCover cover ll" href="/subject/30483">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/fb/22/30483_v0VV1.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/30483">
+     家有色邻
+    </a>
+    <small class="grey">
+     となグラ!
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2672
+   </span>
+   <p class="info tip">
+    13话 /  2006年7月9日 / 筧秀隆
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.9
+    </small>
+    <span class="tip_j">
+     (129人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_74408">
+  <a class="subjectCover cover ll" href="/subject/74408">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/6c/d6/74408_Kztmt.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/74408">
+     どんぶり家族
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2006/06/09
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.1
+    </small>
+    <span class="tip_j">
+     (10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_9324">
+  <a class="subjectCover cover ll" href="/subject/9324">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b4/9b/9324_R5114.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/9324">
+     遠方城堡裡的優娜
+    </a>
+    <small class="grey">
+     はなれの砦ヨナ
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2006年05月28日 / 竹内谦吾 / 竹内谦吾
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.4
+    </small>
+    <span class="tip_j">
+     (18人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_8233">
+  <a class="subjectCover cover ll" href="/subject/8233">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b6/af/8233_EqHeL.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/8233">
+     Happiness!
+    </a>
+    <small class="grey">
+     はぴねす!
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2473
+   </span>
+   <p class="info tip">
+    12话 /  2006年10月 / 原博 / ういんどみる
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.3
+    </small>
+    <span class="tip_j">
+     (179人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_4180">
+  <a class="subjectCover cover ll" href="/subject/4180">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/96/b2/4180_Y5JHe.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/4180">
+     春天的足音 OVA - 樱铃夺还
+    </a>
+    <small class="grey">
+     はるのあしおと The Movie 桜鈴奪還
+    </small>
+   </h3>
+   <p class="info tip">
+    1话 /  2006-03-31 / 島津雅夫 / 御影、結城辰也 / minori / 馬巳家林果
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.8
+    </small>
+    <span class="tip_j">
+     (26人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_289">
+  <a class="subjectCover cover ll" href="/subject/289">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/83/9a/289_75074.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/289">
+     寒蝉鸣泣之时
+    </a>
+    <small class="grey">
+     ひぐらしのなく頃に
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    128
+   </span>
+   <p class="info tip">
+    26话 /  2006年4月4日 / 今千秋 / 竜騎士07 / 07th Expansion
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     8.1
+    </small>
+    <span class="tip_j">
+     (3037人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_37870">
+  <a class="subjectCover cover ll" href="/subject/37870">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/76/e0/37870_5Fc4g.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/37870">
+     寒蝉鸣泣之时外传 猫杀篇
+    </a>
+    <small class="grey">
+     ひぐらしのなく頃に外伝 猫殺し編
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1520
+   </span>
+   <p class="info tip">
+    1话 /  2006年6月 / 今千秋 / 竜騎士07 / 07th Expansion
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.0
+    </small>
+    <span class="tip_j">
+     (483人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_21099">
+  <a class="subjectCover cover ll" href="/subject/21099">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/67/6e/21099_sQRqR.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/21099">
+     向日葵！
+    </a>
+    <small class="grey">
+     ひまわりっ!
+    </small>
+   </h3>
+   <p class="info tip">
+    13话 /  2006-04-09
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.2
+    </small>
+    <span class="tip_j">
+     (28人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_3152">
+  <a class="subjectCover cover ll" href="/subject/3152">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/32/cb/3152_8m3z9.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/3152">
+     备长炭
+    </a>
+    <small class="grey">
+     びんちょうタン
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    1985
+   </span>
+   <p class="info tip">
+    12话 /  2006年2月2日 / 古桥一浩 / 江草天仁 / 斎藤哲人
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (256人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_24356">
+  <a class="subjectCover cover ll" href="/subject/24356">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/8e/80/24356_r2ccm.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/24356">
+     双子星公主 Gyu
+    </a>
+    <small class="grey">
+     ふしぎ星の☆ふたご姫 Gyu!
+    </small>
+   </h3>
+   <p class="info tip">
+    52话 /  2006年4月1日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.4
+    </small>
+    <span class="tip_j">
+     (25人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_70259">
+  <a class="subjectCover cover ll" href="/subject/70259">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/fb/a4/70259_G84qz.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/70259">
+     ふたりの兄嫁
+    </a>
+   </h3>
+   <p class="info tip">
+    2话 /  2006/06/25 / Selen
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     5.0
+    </small>
+    <span class="tip_j">
+     (11人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>

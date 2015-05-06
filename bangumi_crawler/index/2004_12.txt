@@ -1,0 +1,293 @@
+<ul class="browserFull" id="browserItemList">
+ <li class="item odd clearit" id="item_64490">
+  <a class="subjectCover cover ll" href="/subject/64490">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/ff/43/64490_Voknm.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/64490">
+     魔性の貌
+    </a>
+   </h3>
+   <p class="info tip">
+    1话 /  2004/05/28
+   </p>
+   <p class="rateInfo">
+    <span class="sstars5 starsinfo">
+    </span>
+    <small class="fade">
+     4.8
+    </small>
+    <span class="tip_j">
+     (10人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_1262">
+  <a class="subjectCover cover ll" href="/subject/1262">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/dc/4c/1262_Vo3o5.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/1262">
+     魔法少女奈叶
+    </a>
+    <small class="grey">
+     魔法少女リリカルなのは
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    739
+   </span>
+   <p class="info tip">
+    13话 /  2004年10月1日 / 新房昭之 / 都築真紀／ivory
+   </p>
+   <p class="rateInfo">
+    <span class="sstars8 starsinfo">
+    </span>
+    <small class="fade">
+     7.5
+    </small>
+    <span class="tip_j">
+     (1165人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_7904">
+  <a class="subjectCover cover ll" href="/subject/7904">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/b5/d6/7904_Eewrq.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/7904">
+     魔法少女队
+    </a>
+    <small class="grey">
+     魔法少女隊アルス
+    </small>
+   </h3>
+   <p class="info tip">
+    40话 /  2004-04-09 / 芦野芳晴 / 雨宮慶太
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.0
+    </small>
+    <span class="tip_j">
+     (28人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_67420">
+  <a class="subjectCover cover ll" href="/subject/67420">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/3c/2a/67420_9DGjx.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/67420">
+     魔界天使 第一季
+    </a>
+    <small class="grey">
+     魔界天使ジブリール
+    </small>
+   </h3>
+   <p class="info tip">
+    4话 /  2004-11-26
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.2
+    </small>
+    <span class="tip_j">
+     (44人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_75458">
+  <a class="subjectCover cover ll" href="/subject/75458">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/f6/e3/75458_MW4XX.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/75458">
+     魔笛奇遇记
+    </a>
+   </h3>
+   <p class="info tip">
+    26话 /  2004年（CCTV）
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     5.9
+    </small>
+    <span class="tip_j">
+     (11人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_47146">
+  <a class="subjectCover cover ll" href="/subject/47146">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/06/36/47146_iMH6H.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/47146">
+     麦兜菠萝油王子
+    </a>
+   </h3>
+   <p class="info tip">
+    2004年6月24日
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     7.4
+    </small>
+    <span class="tip_j">
+     (28人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_40597">
+  <a class="subjectCover cover ll" href="/subject/40597">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/66/f0/40597_69I76.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/40597">
+     守护精灵
+    </a>
+    <small class="grey">
+     수호요정 미셸
+    </small>
+   </h3>
+   <p class="info tip">
+    26话 /  2004年
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.0
+    </small>
+    <span class="tip_j">
+     (20人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item even clearit" id="item_13207">
+  <a class="subjectCover cover ll" href="/subject/13207">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/1a/82/13207_wQua3.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/13207">
+     瑶玲啊瑶玲
+    </a>
+    <small class="grey">
+     요랑아
+    </small>
+   </h3>
+   <span class="rank">
+    <small>
+     Rank
+    </small>
+    2382
+   </span>
+   <p class="info tip">
+    26话 /  2004
+   </p>
+   <p class="rateInfo">
+    <span class="sstars6 starsinfo">
+    </span>
+    <small class="fade">
+     6.3
+    </small>
+    <span class="tip_j">
+     (135人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+ <li class="item odd clearit" id="item_24241">
+  <a class="subjectCover cover ll" href="/subject/24241">
+   <span class="image">
+    <img class="cover" src="//lain.bgm.tv/pic/cover/s/2d/71/24241_3M3X4.jpg"/>
+   </span>
+   <span class="overlay">
+   </span>
+  </a>
+  <div class="inner">
+   <h3>
+    <a class="l" href="/subject/24241">
+     新暗行御史
+    </a>
+    <small class="grey">
+     행어사
+    </small>
+   </h3>
+   <p class="info tip">
+    2004年12月4日 / 本郷みつる / 尹仁完、梁慶一
+   </p>
+   <p class="rateInfo">
+    <span class="sstars7 starsinfo">
+    </span>
+    <small class="fade">
+     6.7
+    </small>
+    <span class="tip_j">
+     (44人评分)
+    </span>
+   </p>
+  </div>
+ </li>
+</ul>
