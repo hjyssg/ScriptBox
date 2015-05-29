@@ -6,7 +6,9 @@ import re
 import subprocess
 
 
-output = subprocess.check_output(["ls", "-R", "pixiv"])
+# output = subprocess.check_output(["ls", "-R", "pixiv"])
+output = subprocess.check_output(["ls -R pixiv"], shell = True)
+
 lines = output.split("\n")
 
 # lines = f.readlines()
