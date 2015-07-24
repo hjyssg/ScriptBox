@@ -1,0 +1,8 @@
+###requirement
+	wget  
+	runs on Mac and *nix-like system
+	
+
+* index_spider
+* entry_spider
+* rename_page
