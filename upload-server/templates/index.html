@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>文件上传</title>
+    <style>
+        .upload-area {
+            width: 50%;
+            margin: auto;
+            padding: 20px;
+            border: 2px dashed #ccc;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="upload-area" id="upload-area">
+        <p>拖拽文件到这里或点击选择文件上传</p>
+        <input type="file" id="file-input" style="display: none;">
+    </div>
+    <script>
+        const uploadArea = document.getElementById('upload-area');
+        const fileInput = document.getElementById('file-input');
+
+        // 点击上传区域时触发文件选择框
+        uploadArea.addEventListener('click', () => fileInput.click());
+
+        // 文件拖拽
+        uploadArea.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            uploadArea.style.border = '2px dashed #000';
+        });
+
+        uploadArea.addEventListener('dragleave', () => {
+            uploadArea.style.border = '2px dashed #ccc';
+        });
+
+        uploadArea.addEventListener('drop', (e) => {
+            e.preventDefault();
+            uploadArea.style.border = '2px dashed #ccc';
+            const files = e.dataTransfer.files;
+            uploadFile(files[0]);
+        });
+
+        // 文件选择框选择文件后上传
+        fileInput.addEventListener('change', () => uploadFile(fileInput.files[0]));
+
+        // 文件上传函数
+        function uploadFile(file) {
+            const formData = new FormData();
+            formData.append('file', file);
+
+            fetch('/upload', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.text())
+            .then(data => alert(data))
+            .catch(error => alert('上传失败'));
+        }
+    </script>
+</body>
+</html>
