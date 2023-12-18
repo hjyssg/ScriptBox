@@ -1,0 +1,34 @@
+# LAN Chatroom
+
+LAN Chatroom 是一个基于 Socket.IO 的简单局域网聊天室应用，允许局域网内的用户实时通信。
+
+## 安装
+
+### 前提条件
+
+确保你已经安装了 Node.js 和 npm。
+
+### 步骤
+
+克隆项目到本地：
+
+   ```bash
+   git clone https://github.com/your-username/lan-chatroom.git
+   cd lan-chatroom
+
+安装依赖
+   
+   ```bash
+   npm install
+
+
+启动服务器：
+
+   ```bash
+   Copy code
+   node server.js
+
+
+   在浏览器中打开 http://localhost:3000。
+
+   在局域网中的其他设备上，使用同样的地址 http://your-local-ip:3000（将 your-local-ip 替换为你的本地 IP 地址）访问这个地址即可加入聊天室。
