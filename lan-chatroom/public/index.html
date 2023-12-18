@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lan Chatroom</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    .message-container {
+      border: 1px solid #ccc;
+      margin-bottom: 10px;
+      padding: 10px;
+      border-radius: 5px;
+      width: 300px;
+    }
+  </style>
+</head>
+<body>
+  <div id="messages"></div>
+  <form id="form" action="">
+    <textarea id="input" rows="4" cols="40" placeholder="Type your message here..." autocomplete="off"></textarea><br>
+    <button>Send</button>
+  </form>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script>
+    const socket = io();
+
+    const form = document.getElementById('form');
+    const input = document.getElementById('input');
+    const messages = document.getElementById('messages');
+
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      if (input.value.trim() !== '') {
+        socket.emit('chat message', input.value);
+        input.value = '';
+      }
+    });
+
+    socket.on('chat message', (data) => {
+      const div = document.createElement('div');
+      div.classList.add('message-container');
+
+      const message = document.createElement('p');
+      message.textContent = data;
+      div.appendChild(message);
+
+      messages.appendChild(div);
+    });
+  </script>
+</body>
+</html>
